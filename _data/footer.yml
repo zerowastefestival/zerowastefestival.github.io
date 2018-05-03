@@ -1,0 +1,16 @@
+# Footer navigation links
+
+- title: Home
+  url: {{ site.url }} # TODO: update
+  
+- title: Facebook
+  url: https://www.facebook.com/ZeroWasteFestivalIreland/
+
+- title: Instagram
+  url: https://www.instagram.com/zerowastefestirl/
+
+- title: Twitter
+  url: https://twitter.com/ZeroWasteFest
+
+- title: Contact Us
+  url: /contact/
