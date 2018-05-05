@@ -36,7 +36,7 @@ highlighter: rouge
 permalink: /:categories/:title/
 
 feed:
-  path: atom.xml
+  path: feed.xml
 
 sass:
   sass_dir: _sass
