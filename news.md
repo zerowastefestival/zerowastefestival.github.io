@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 
 comments: false
-ads: true
+ads: false
 share: false
 ---
 

@@ -3,7 +3,7 @@ layout: article
 permalink: /team/
 title: "Team"
 
-ads: true
+ads: false
 comments: false
 share: false
 ---

@@ -1,9 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: ""
 
-
+comments: false
+ads: false
+share: false
 ---
 
 ![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")<br>

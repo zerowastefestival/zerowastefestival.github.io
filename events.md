@@ -5,7 +5,7 @@ title: "Events"
 
 ads: true
 comments: false
-share: true
+share: false
 ---
 
 We are hosting regular pop-up Zero Waste Festivals at various locations in Ireland. Find out more about our upcoming and past events here.
@@ -14,13 +14,11 @@ We are hosting regular pop-up Zero Waste Festivals at various locations in Irela
 
 The next Zero Waste Festival will take place on the **24 June 2018** at St Andrews Resource Center, Dublin 2. You find the latest information on our programme and workshops below.
 
-<div>
 <div class="tiles">
 {% for post in site.categories.2018-06-festival %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-</div>
 
 
 ## Past events
@@ -30,7 +28,7 @@ The next Zero Waste Festival will take place on the **24 June 2018** at St Andre
 <div>
 <div class="tiles">
 {% for post in site.categories.2018-02-festival %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 </div>
@@ -42,7 +40,7 @@ The next Zero Waste Festival will take place on the **24 June 2018** at St Andre
 <div>
 <div class="tiles">
 {% for post in site.categories.2017-12-festival %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 </div>
@@ -54,7 +52,7 @@ The next Zero Waste Festival will take place on the **24 June 2018** at St Andre
 <div>
 <div class="tiles">
 {% for post in site.categories.2017-09-festival %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 </div>
@@ -66,7 +64,7 @@ The next Zero Waste Festival will take place on the **24 June 2018** at St Andre
 <div>
 <div class="tiles">
 {% for post in site.categories.2017-06-festival %}
-  {% include post-list.html %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 </div>

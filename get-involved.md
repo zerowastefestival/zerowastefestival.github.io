@@ -3,7 +3,7 @@ layout: article
 permalink: /get-involved/
 title: "Get Involved"
 
-ads: true
+ads: false
 comments: false
 share: false
 ---

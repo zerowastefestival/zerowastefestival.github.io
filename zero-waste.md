@@ -3,9 +3,9 @@ layout: article
 permalink: /zero-waste/
 title: "Zero Waste"
 
-ads: true
+ads: false
 comments: false
-share: true
+share: false
 ---
 
 Learn more about Zero Waste.
