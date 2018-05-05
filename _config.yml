@@ -5,7 +5,7 @@ description: "Zero Waste Festival Ireland is a community-led innitiative to brin
 logo: logo-square-120.png # 120x120 px default image used for Twitter summary card
 teaser: zero-waste-blank-400x250.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://www.janknappe.com/zw-skinny # TODO: change before upload 
+url: https://www.zerowastefestival.ie # TODO: change before upload 
 #url: http://127.0.0.1:4000 # TODO: change before upload
 feed:
   path: atom.xml
