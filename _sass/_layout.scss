@@ -21,10 +21,10 @@
 .site-title {
 	@include row;
 	@include media($large) {
-		@include span-columns(4);
+		@include span-columns(2.5);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
-	height: $masthead-height;
+	height: $masthead-height*3/2;
 	text-decoration: none;
 	color: $black;
 	font-family: $alt-font;
@@ -84,10 +84,10 @@
 /* Top navbar logo */
 
 .header .image {
-    background: url("navbar-logo-square-30x30.png") 
+    background: url("logo-zero-waste-festival-ireland-with-text-180x60.png") 
                 no-repeat;
-    width: 40px;
-    height: 30px;
+    width: 180px;
+    height: 60px;
 }
 
 .header .image, 
@@ -106,7 +106,7 @@
 		@include span-columns(12);
 	}
 	@include media($large) {
-		@include span-columns(7);
+		@include span-columns(9.5);
 		ul {
 			position: absolute;
 			right: 0;
@@ -119,8 +119,8 @@
 	li {
 		a {
 			font-weight: 700;
-			@include font-size(16,no);
-			line-height: .5 * $masthead-height; // half the height to center vertically
+			@include font-size(24,no);
+			line-height: 1.5 * $masthead-height; // half the height to center vertically
 			color: $black;
 			text-transform: uppercase;
 		}
