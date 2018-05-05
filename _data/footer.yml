@@ -1,7 +1,7 @@
 # Footer navigation links
 
 - title: Home
-  url: {{ site.url }} # TODO: update
+  url: /
   
 - title: Facebook
   url: https://www.facebook.com/ZeroWasteFestivalIreland/
