@@ -64,6 +64,7 @@ ins {
 a {
 	font-weight: bold;
 	color: $link-color;
+	text-decoration: none;
 	&:hover {
 		color: darken($link-color, 50);
 	}
