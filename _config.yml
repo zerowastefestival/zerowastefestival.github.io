@@ -1,31 +1,20 @@
 # Site wide configuration
+#---------------------------
 
 title: "Zero Waste Festival Ireland"
 description: "Zero Waste Festival Ireland is a community-led innitiative to bring Zero Waste awareness to Ireland through a series of pop-up festival all over the country."
+
+url: https://www.zerowastefestival.ie
+baseurl: ""
+
+locale: en
+
 logo: logo-square-120.png # 120x120 px default image used for Twitter summary card
 teaser: zero-waste-blank-400x250.png # 400x250 px default teaser image used in image archive grid
-locale: en
-url: https://www.zerowastefestival.ie # TODO: change before upload 
-#url: http://127.0.0.1:4000 # TODO: change before upload
-feed:
-  path: atom.xml
-
-# Jekyll configuration
-
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
 
 # Site owner
+#---------------------------
+
 owner:
   name: Zero Waste Festival Ireland # Name that appears below each article/media post
   email: info@zerowastefestival.ie
@@ -37,6 +26,26 @@ owner:
   avatar: logo-square-160.png # 160x160 px image for author byline
   disqus-shortname: zerowastefestival
 
+# Jekyll configuration
+#---------------------------
+
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+
+permalink: /:categories/:title/
+
+feed:
+  path: atom.xml
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 include:
   - .htaccess
