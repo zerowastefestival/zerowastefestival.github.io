@@ -20,7 +20,7 @@ The next Zero Waste Festival will take place on the **24 June 2018** at St Andre
  
 #### Zero Waste Festival: "Spring Clean" (February 25, 2018)
 
-Recap coming soon.
+Find pictures, videos, and all information about the Spring Clean Festival [here]({{ site.baseurl}}/2018-02-festival).
 
 
 #### Zero Waste Christmas Festival (December 9, 2017)
