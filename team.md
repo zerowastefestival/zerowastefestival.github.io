@@ -12,7 +12,7 @@ We are a community run initiative to facilitate networking learning and sharing.
 
 Below, you can meet our team of dedicated volunteers. If you would like to get involved yourself, check out the [Get Involved](/get-involved) section.
 
-<figure style="float: left; margin-right: 20px; margin-left: 20px; width: 150px;" class="align-left">
+<figure style="float: left; margin-right: 10px; margin-left: 10px; width: 150px;" class="align-left">
   <img src="{{ site.baseurl }}/images/team/celia-somlai-400x400.jpg" alt="Celia Somlai">
   <figcaption>Celia</figcaption>
 </figure> 
