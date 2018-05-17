@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /events/
-title: "Events"
+title: ""
 
 ads: true
 comments: false
