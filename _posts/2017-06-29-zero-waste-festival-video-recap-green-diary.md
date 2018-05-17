@@ -6,7 +6,7 @@ category: 2018-02-festival
 
 image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : 2018-02-29/teaser.jpg
+  teaser : teasers/2018-02-29.jpg
 
 comments: false
 ads: true
