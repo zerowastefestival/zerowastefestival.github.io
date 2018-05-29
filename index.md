@@ -13,8 +13,13 @@ Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resourc
 
 # Latest updates
 
+
 <div class="tiles">
 {% for post in site.posts %}
-	{% include post-grid.html %}
+  {% if post.category == "team" %}
+    // do nothing
+	{% else if %}
+	  {% include post-grid.html %}
+	{% endif %}
 {% endfor %}
 </div>
