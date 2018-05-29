@@ -10,6 +10,10 @@ share: false
 
 <div class="tiles">
 {% for post in site.posts %}
-	{% include post-grid.html %}
+  {% if post.category == "team" %}
+    // do nothing
+	{% else if %}
+	  {% include post-grid.html %}
+	{% endif %}
 {% endfor %}
 </div>
