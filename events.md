@@ -12,7 +12,9 @@ We are hosting regular pop-up Zero Waste Festivals at various locations in Irela
 
 # Zero Waste Festival: "Make It Last"
 
-The next Zero Waste Festival will take place on the **24 June 2018** at St Andrews Resource Center, Dublin 2.
+[![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")](/)<br>
+
+Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resource Centre in Dublin. The festival will feature a mix of Zero Waste info stands, Zero Waste vendors, workshops, and talks. For all the latest updates check the [event page here](/), and follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
 
 
 

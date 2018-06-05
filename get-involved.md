@@ -10,7 +10,7 @@ share: false
 
 ### Zero Waste Meetup in Dublin
 
-![Zero Waste Meetup]({{ site.url }}/images/zero-waste-meetup.jpg "Zero Waste Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Zero Waste Meetup]({{ site.baseurl }}/images/logos-external/logo-zero-waste-meetup.jpg "Zero Waste Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 If you are just planning to start your Zero Waste journey or if you are an expert in Zero Waste living (or anywhere between), please join us at the Zero Waste Meetup in Dublin to share ideas and encourage each other. The event is free and you can find information on where and when the next meetup is taking place at out [Zero Waste Dublin Meetup page](https://www.meetup.com/Zero-waste-meetup-ireland/).
 
