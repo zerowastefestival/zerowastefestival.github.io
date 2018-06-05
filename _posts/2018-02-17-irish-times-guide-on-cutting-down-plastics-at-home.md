@@ -13,7 +13,7 @@ ads: true
 share: true
 ---
 
-The Irish Times put together a handy A to Z guide on how to cut down on plastics in the house. 
+The Irish Times put together a handy A to Z guide on how to cut down on plastics at home. 
 
 Check out this informative piece and follow along the journey that led Íde Mhic Gabhann and  Molly Aylesbury - both are fellow Zero Waste Festival Ireland organisers - to open up their own zero waste businesses [Bring Your Own](https://www.facebook.com/bringyourowncontainers/) and [Bare Necessities](https://www.facebook.com/BareNecessitiesIreland/). 
 

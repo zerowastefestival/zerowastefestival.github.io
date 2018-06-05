@@ -13,7 +13,7 @@ ads: true
 share: true
 ---
 
-Not sure if you want to check out the Zero Waste Festival this weekend? Green News has 6 reasons, why you should come!
+Not sure if you want to check out the Zero Waste Festival this weekend? Green News has 6 reasons why you should come!
 
 With the first Zero Waste Festival just around the corner, it's time to plan your visit for the upcoming weekend. Our friends over at [Green News](https://greennews.ie/){:target="_blank"} have compiled a list of compelling reasons why you should head over to the CIE Hall at Inchicore's Sports and Social Club this Sunday. Some of them include:
 

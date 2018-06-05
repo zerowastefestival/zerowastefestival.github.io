@@ -29,7 +29,7 @@ Find all the information for planning your visit below, more details to be added
 
 ## Tickets
 
-The Zero Waste Festival is a non-for-profit festival run solely by volunteers. However, to bring the festival and workshops to attractive locations close to you we have to rent premises, arrange for insurance, and reimburse our speakers and workshop leaders. That's why we have to ask a small admission charge from our visitors --- but be assured that we try to keep the prices as low as possible. If you would like to become a sponsor or partner of the festival and help to set off some of the costs, do not hesitate to get in [contact](/get-involved) with us.
+The Zero Waste Festival is a nonprofit festival run solely by volunteers. However, to bring the festival and workshops to attractive locations close to you, we have to rent premises, arrange for insurance, and reimburse our speakers and workshop leaders. That's why we have to ask a small admission charge from our visitors --- but be assured that we try to keep the prices as low as possible. If you would like to become a sponsor or partner of the festival and help to offset some of the costs, do not hesitate to get in [contact](/get-involved) with us.
 
 
 Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-festival-make-it-last-tickets-46691494517){:target="blank"} and we offer three price tiers.
@@ -52,7 +52,7 @@ Students will need to present a valid student ID on the day. Even though admissi
 
 The festival will be hosted at the [St. Andrews Resource Centre](https://www.standrews.ie){:target="blank"} at [114-116 Pearse Street, Dublin 2](https://goo.gl/maps/ijkxtyR7jEK2){:target="blank"} from 10 AM to 5 PM on June 24, 2018.
 
-St. Andrews Resource Centre is conveniently located between the city center and Grand Canal Dock and we strongly encourage every visitor to come by food, bike, or public transport to the festival. Note that public parking around the venue is limited.
+St. Andrews Resource Centre is conveniently located between the city centre and Grand Canal Dock and we strongly encourage every visitor to come by foot, bike, or public transport to the festival. Note that public parking around the venue is limited.
 
 - Plenty of Dublin Bus services stop near the Centre on Pearse Street, e.g. routes 1, 15a, 15b, 47, 56a, 77a stop directly in front of the Centre at Pearse Street Park.
 - Your closest DART stations are Grand Canal Dock and Pearse Station (5 minutes walk).
@@ -85,7 +85,7 @@ We will announce a complete list of talks and workshops soon, but they will incl
 
 Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="blank"} we will set up a Repair Cafe during the festival where you can learn how to extend the life of your stuff through simple repairs.
 
-More infos to come soon.
+More info to come soon.
 
 <a href="#top">Back to top</a>
 
@@ -95,12 +95,12 @@ As always, we will bring a selection of Zero Waste Lifestyle market stalls to ou
 
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bare Necessities offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival our check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/) to check at which markets you can find them.
+Bare Necessities offers a wide range of products, including household and body care care items, loose grains, fruits, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/) to check at which markets you can find them.
 
 
 ![Bring Your Own]({{ site.baseurl }}/images/logos-external/logo-bring-your-own.png "Bring Your Own"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival our check out their [facebook page](https://www.facebook.com/bringyourowncontainers/) to check at which markets you can find them.
+Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/bringyourowncontainers/) to check at which markets you can find them.
 
  
 <a href="#top">Back to top</a>
@@ -119,7 +119,7 @@ Community-supported agriculture (CSA) involves establishing a relationship with 
 
 ![Revived Yarn Meetup]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. We upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
 ### VOICE Ireland --- Recycling Ambassador Programme
 
@@ -139,7 +139,7 @@ We will host Zero Waste themed and like-minded meetups during the festival. Upda
 
 ![Revived Yarn Meetup]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. We upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about this meetup at the [Revived Yarn Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about this meetup at the [Revived Yarn Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
 ### Zero Waste Meetup
 

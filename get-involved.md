@@ -16,7 +16,7 @@ If you are just planning to start your Zero Waste journey or if you are an exper
 
 ### Volunteer with us
 
-If you are interested in the Zero Waste principle on a personal or professional level get in touch with us to take part in any of our events. We would like to hear from organisations, educators, businesses and anyone who just wants to lend their skills as a volunteer.
+If you are interested in the Zero Waste principle on a personal or professional level, get in touch with us to take part in any of our events. We would like to hear from organisations, educators, businesses and anyone who just wants to lend their skills as a volunteer.
 
 Email us for details: [info@zerowastefestival.ie](mailto:info@zerowastefestival.ie)
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: I. Zero Waste Festival Ireland - Screening Room Programme
+title: First Zero Waste Festival Ireland - Screening Room Programme
 
 category: 2017-06-festival
 
