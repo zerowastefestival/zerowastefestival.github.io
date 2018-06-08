@@ -16,4 +16,6 @@ What is Zero Waste? In the words of the [Zero Waste International Alliance](http
 
 >Implementing Zero Waste will eliminate all discharges to land, water or air that are a threat to planetary, human, animal or plant health.
 
+Or to let Bea Johnson explain it, just watch the video below.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kWnsmzSSgdI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
