@@ -13,4 +13,4 @@ ads: false
 share: true
 ---
 
-The next Zero Waste Festival will take place on June 24 at the St Andrews Resource Centre. 
+The next Zero Waste Festival will take place on June 24 at the St Andrews Resource Centre. Find all the info on the [festival page](/index).
