@@ -50,12 +50,12 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 | Category               | Price  |   |   |   |
 |------------------------|--------|---|---|---|
 | Adult                  | 15 EUR |   |   |   |
-| Student                | 10 EUR |   |   |   |
+| Concession             | 10 EUR |   |   |   |
 | Child (up to 12 years) | free   |   |   |   |
 
 You don't have to print your ticket, as we will accept digital tickets at the door.
 
-Students will need to present a valid student ID on the day. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
+Concession tickets are valid for students (who will have to present a valid student ID on the day) and pensioners (who will have to present a valid travel pass on the day). Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
 
 <a href="#top">Back to top</a>
 
