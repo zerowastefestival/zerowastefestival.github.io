@@ -29,6 +29,6 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 
 You don't have to print your ticket, as we will accept digital tickets at the door.
 
-Concession tickets are valid for students (who will have to present a valid student ID on the day) and pensioners (who will have to present a valid travel pass on the day). Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
+Concession tickets for students, pensioners, and disabled persons -- you will need to present a valid student ID/travel pass/primary medical certificate on your name on the day to avail of the offer. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
 
 [![Tickets](/images/logos-external/eventbrite-button.png "Zero Waste Festival 2018 Tickets"){:height="200px" width="200px"}](https://www.eventbrite.ie/e/zero-waste-festival-make-it-last-tickets-46691494517){:target="blank"}<br>
