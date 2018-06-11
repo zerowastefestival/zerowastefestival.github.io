@@ -76,7 +76,7 @@ St. Andrews Resource Centre is conveniently located between the city centre and 
 
 ### Accessibility
 
-The venue's ground floor is accessible. This is where the markets, swap shops, and info stalls will be hosted. Unfortunately, however, the upper floors, where the talks and workshops will take place, are only accessible via stairs (there is no lift or ramp to the upper floors in the venue).
+The venue's ground floor is accessible for wheelchairs and buggies. This is where the markets, swap shops, and info stalls will be hosted. Unfortunately, however, the upper floors, where the talks and workshops will take place, are only accessible via stairs (there is no lift or ramp to the upper floors in the venue).
 
 <a href="#top">Back to top</a>
 
