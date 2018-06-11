@@ -98,11 +98,9 @@ We will announce a complete list of talks and workshops soon, but they will incl
 
 <a href="#top">Back to top</a>
 
-## Repair Cafe
+## Repair Café
 
-Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="blank"} we will set up a Repair Cafe during the festival where you can learn how to extend the life of your stuff through simple repairs.
-
-More info to come soon.
+Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="blank"} and [VOICE Ireland](https://voiceireland.org/){:target="blank"} we will set up a Repair Café during the festival where you can learn how to extend the life of your stuff through simple repairs. This is a community event where you can bring in broken items and see how to fix them alongside expert volunteers. Repairs include electrical/electronics, wooden & general repairs, jewellery, and sewing. The overall objective is to bring back a culture of repair and support local repair businesses. So bring in your broken items and learn how to fix them.
 
 <a href="#top">Back to top</a>
 
