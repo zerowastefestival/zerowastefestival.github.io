@@ -228,13 +228,13 @@ There will be a dedicated Book Swap table at the Festival. Bring your old favour
 
 We will host Zero Waste themed and like-minded meetups during the festival. Updates on all the meetups and their timings will follow soon.
 
-### Revived Yarn --- Knit--along Meetup
+### 10:30 -- 12:00 - Revived Yarn Knit--along Meetup
 
 ![Revived Yarn Meetup]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about this meetup at the [Revived Yarn Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
-### Zero Waste Meetup
+### 2:30 -- 4:00 - Zero Waste Meetup
 
 ![Zero Waste Meetup]({{ site.baseurl }}/images/logos-external/logo-zero-waste-meetup.jpg "Zero Waste Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
