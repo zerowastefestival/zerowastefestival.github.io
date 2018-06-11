@@ -63,6 +63,8 @@ Concession tickets for students, pensioners, and disabled persons -- you will ne
 
 The festival will be hosted at the [St. Andrews Resource Centre](https://www.standrews.ie){:target="blank"} at [114-116 Pearse Street, Dublin 2](https://goo.gl/maps/ijkxtyR7jEK2){:target="blank"} from 10 AM to 5 PM on June 24, 2018.
 
+### How to get there?
+
 St. Andrews Resource Centre is conveniently located between the city centre and Grand Canal Dock and we strongly encourage every visitor to come by foot, bike, or public transport to the festival. Note that public parking around the venue is limited.
 
 - Plenty of Dublin Bus services stop near the Centre on Pearse Street, e.g. routes 1, 15a, 15b, 47, 56a, 77a stop directly in front of the Centre at Pearse Street Park.
@@ -71,6 +73,10 @@ St. Andrews Resource Centre is conveniently located between the city centre and 
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-6.243935823440553%2C53.34170615900144%2C-6.239826679229737%2C53.343512488369065&amp;layer=mapnik&amp;marker=53.34260933325015%2C-6.241881251335144" style="border: 1px solid grey"></iframe>
 <br/><small><a href="https://www.openstreetmap.org/?mlat=53.34261&amp;mlon=-6.24188#map=18/53.34261/-6.24188">View Larger Map</a></small>
+
+### Accessibility
+
+The venue's ground floor is accessible. This is where the markets, swap shops, and info stalls will be hosted. Unfortunately, however, the upper floors, where the talks and workshops will take place, are only accessible via stairs (there is no lift or ramp to the upper floors in the venue).
 
 <a href="#top">Back to top</a>
 
