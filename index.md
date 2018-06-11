@@ -27,6 +27,17 @@ Find all the information for planning your visit below, more details to be added
 
 <a href="#top">Back to top</a>
 
+## Volunteer with us!
+
+We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival: Make It Last.
+
+Do you want to help the festival but don't have lots of time? Or maybe just want free entry to the next festival and choice of workshop? Well, the solution is here! We need volunteers on the day (24th June in St Andrews Resource Centre) to do various jobs from moving tables to manning doors. In exchange for a few hours helping out, you get a run of the festival, meet like-minded people and have a first pick at the swap shops 😉. 
+
+Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
+
+<a href="#top">Back to top</a>
+
+
 ## Tickets
 
 The Zero Waste Festival is a nonprofit festival run solely by volunteers. However, to bring the festival and workshops to attractive locations close to you, we have to rent premises, arrange for insurance, and reimburse our speakers and workshop leaders. That's why we have to ask a small admission charge from our visitors --- but be assured that we try to keep the prices as low as possible. If you would like to become a sponsor or partner of the festival and help to offset some of the costs, do not hesitate to get in [contact](/get-involved) with us.
@@ -93,17 +104,71 @@ More info to come soon.
 
 As always, we will bring a selection of Zero Waste Lifestyle market stalls to our festival where you can source everything loose, refillable, or package free. Our partners for this festival include:
 
+### Bare Necessities
+
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bare Necessities offers a wide range of products, including household and body care care items, loose grains, fruits, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/) to check at which markets you can find them.
+Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday market in The Bullring in Wexford, a weekly Saturday market in Skerries Mills and once a month in Brooklodge, Macreddin Village, Co. Wicklow. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"}.
 
+### Botanical Soap Therapy
+
+![Botanical Soap Therapy]({{ site.baseurl }}/images/logos-external/logo-botanical-soap-therapy.png "Botanical Soap Therapy"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Botanical Soap Therapy specializes in handmade natural skincare products including soap bars. Vegan and cruelty free, the range is made from the very best that nature has to offer. They also cater for people with sensitive skin and those who suffer from psoriasis and eczema. Empty glass packaging can be return back for a cash incentive. For more info, check out their [facebook page](https://www.facebook.com/BotanicalSoapTherapy/){:target="_blank"}.
 
 ![Bring Your Own]({{ site.baseurl }}/images/logos-external/logo-bring-your-own.png "Bring Your Own"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/bringyourowncontainers/) to check at which markets you can find them.
+Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/bringyourowncontainers/){:target="_blank"} to check at which markets you can find them.
 
- 
+### Green Outlook
+
+![Green Outlook]({{ site.baseurl }}/images/logos-external/logo-green-outlook.jpg "Green Outlook"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Green Outlook is an online store based in Maynooth delivering plastic & cruelty free + sustainable products. They make sure that they believe in what they sell, they are wanderers spending in the nature most of their free time. They have a great selection of canvas bags, bamboo products, natural cosmetics, stainless steel, beeswax wraps and more. They want to contribute to make Ireland green again. For the nature, for yourself. For more info, check out their [website](https://www.greenoutlook.ie){:target="_blank"}.
+
+### Little Green Shop
+
+![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+### Natural Growing Company
+
+![Natural Growing Company]({{ site.baseurl }}/images/logos-external/logo-natural-growing-company.jpg "Natural Growing Company"){:style="float: top;margin-right: 10px;height: 150px}
+
+The Natural Growing Company sells top quality vegetable-, herb- and flower plants all grown from seed by themselves, following organic principles, on their smallholding in West Cork, imbued with love and care to facilitate their customers to grow their own food. For more info, check out their [facebook page](https://www.facebook.com/Natural-Growing-Company-1895680197364944/){:target="_blank"}.
+
+
+### Nutty Delights
+
+![Nutty Delights]({{ site.baseurl }}/images/logos-external/logo-nutty-delights.png "Nutty Delights"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Nutty Delights are the first and only Nuts and Dried Fruits retailer in Dublin. Nutty Delights are also the first zero-waste permanent store in Europe’s oldest shopping arcade, George Street Arcade. Nutty Delights aim to provide only the highest quality & premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.
+
+### reuzi
+
+![reuzi]({{ site.baseurl }}/images/logos-external/logo-reuzi.jpg "reuzi"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+reuzi’s mission is to offer people an online platform to connect, discuss alternative solutions and to create new habits by offering people a range of top quality reusable products that will positively impact the way we live our daily lives and the way we treat our beloved planet. For more info, check out their [website](https://www.reuzi.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/shopreuzi){:target="_blank"}, or [facebook page](https://www.facebook.com/shopreuzi){:target="_blank"}.
+
+### Sonett Ireland
+
+![Sonett Ireland]({{ site.baseurl }}/images/logos-external/logo-sonett.jpg "Sonett Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Sonett is one of the pioneers of ecological laundry detergents and cleaners. They are committed to renaturalise water which has been used for laundry washing and cleaning by adding rhythmatised substances to their products and working with process water that is swirled and energized. The oils used for their soaps and essential oils are 100% certified organic. For more info, check out their [website](https://www.sonett.eu){:target="_blank"}.
+
+### Toothfaerie
+
+![Toothfaerie]({{ site.baseurl }}/images/logos-external/logo-toothfaerie.png "Toothfaerie"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Toothfaerie is a new and 100% Irish holistic and mineral rich toothpaste designed to heal gums and stimulate enamel growth (the stuff that whitens teeth) based on a magnesium and borax formula with cold pressed oils rich in omega 3, 6 & 9. This clay and oil pulling blend removes most stains and is safe to ingest. Sweetened with xylitol from tree sap and dragon blood tree resin from Peru to help reverse receding gums. Every batch is home-made without plastics or metals and packed by hand. For more info, check out their [facebook page](https://www.facebook.com/toothfaerietoothpaste/){:target="_blank"}.
+
+### The Weed Solution
+
+![The Weed Solution]({{ site.baseurl }}/images/logos-external/logo-weed-solution.png "The Weed Solution"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+The Weed Solution is bringing you organic hemp products. Hemp is a renewable, carbon negative, sustainable, soil cleaning super plant and can be the solution to many problems in the form of fabric, paper, cosmetics, and food. For more info, check out their [website](https://theweedsolution.ie/){:target="_blank"} or [facebook page](https://www.facebook.com/theweedsolution.ie/){:target="_blank"}.
+
 <a href="#top">Back to top</a>
+
 
 ## Info stands
 
@@ -117,9 +182,17 @@ Community-supported agriculture (CSA) involves establishing a relationship with 
 
 ### Revived Yarn
 
-![Revived Yarn Meetup]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+
+### The Baby Market Ireland
+
+![Baby Market Ireland]({{ site.baseurl }}/images/logos-external/logo-baby-market-ireland.jpg "Baby Market Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+The Baby Market runs events around Ireland in which parents buy and sell pre-loved baby, children and maternity goods. If you are a new or expectant parent, they can help you save hundreds of euros by offering quality, nearly new items at a fraction of the cost!
+
+Find out more about The Baby Market Ireland on their [website](http://babymarket.ie/){:target="blank"}.
 
 ### VOICE Ireland --- Recycling Ambassador Programme
 
@@ -130,6 +203,20 @@ Come say hi to one of our amazing recycling ambassadors who will help you get yo
 
 
 <a href="#top">Back to top</a>
+
+
+## Swap Shops
+
+We will host several Swap Shops during the Festival. Please bring your pre-loved item along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
+
+### Pre-loved Cloths Swap Shop
+
+Bring your washed, and wearable clothes, shoes, and accessories to the festival. The Swap Shop will work on an item-by-item basis, i.e., for every item you bring, you will get one token that you can exchange for any other item in the Swap Shop. Since we will re-stock the Swap Shop continuously as people drop off new items, it's worth checking it out from time to time in between the talks and workshops. As all unclaimed items will be donated to a local charity shop at the end of the day, there will be a "pick-whatever-you-want" *Happy Hour from 4 pm on* -- so, no tokens needed after 4 pm to pick up any of the remaining items.
+
+### Book Swap Shop
+
+There will be a dedicated Book Swap table at the Festival. Bring your old favourites and the books you bought but never read and exchange them for some exciting new books you will never read (well, we hope you will read them -- otherwise, check out these [7 Other Uses For Books Besides Reading Them](https://www.barnesandnoble.com/blog/7-other-uses-for-books-besides-reading-them/){:target="_blank"}). As with the Cloths Swap Shop above, we will operate on "item-per-item" basis with a *Happy Hour after 4 pm*. Unclaimed books will be donated to the annual [TCD Secondhand Booksale](https://www.tcd.ie/booksale/){:target="_blank"}.
+
 
 ## Meet-ups
 
