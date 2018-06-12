@@ -55,7 +55,7 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 
 You don't have to print your ticket, as we will accept digital tickets at the door.
 
-Concession tickets for students, pensioners, and disabled persons -- you will need to present a valid student ID/travel pass/primary medical certificate on your name on the day to avail of the offer. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
+Concession tickets for students, pensioners, and disabled persons -- you will need to present a valid student ID/travel pass/primary medical certificate in your name on the day to avail of the offer. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
 
 <a href="#top">Back to top</a>
 
@@ -134,6 +134,8 @@ Green Outlook is an online store based in Maynooth delivering plastic & cruelty 
 
 ![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
 
+Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+
 ### Natural Growing Company
 
 ![Natural Growing Company]({{ site.baseurl }}/images/logos-external/logo-natural-growing-company.jpg "Natural Growing Company"){:style="float: top;margin-right: 10px;height: 150px}
@@ -145,7 +147,7 @@ The Natural Growing Company sells top quality vegetable-, herb- and flower plant
 
 ![Nutty Delights]({{ site.baseurl }}/images/logos-external/logo-nutty-delights.png "Nutty Delights"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Nutty Delights are the first and only Nuts and Dried Fruits retailer in Dublin. Nutty Delights are also the first zero-waste permanent store in Europeâ€™s oldest shopping arcade, George Street Arcade. Nutty Delights aim to provide only the highest quality & premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.
+Joining us at the festival on the 24th June with their loose dried fruit and nuts is Nutty Delights. They are the first and only dedicated Nuts and Dried Fruits shop in Dublin. They aim to provide only the highest quality and premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. Their permanent store is in Europe’s oldest shopping arcade: George's Street Arcade. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.
 
 ### reuzi
 
@@ -202,7 +204,7 @@ Find out more about The Baby Market Ireland on their [website](http://babymarket
 
 ![VOICE Ireland]({{ site.baseurl }}/images/logos-external/logo-voice-ireland.jpg "VOICE Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Come say hi to one of our amazing recycling ambassadors who will help you get your recycling bin sorted on June 24th in St Andrews Resource Centre. Our Recycling Ambassador Programme delivers free recycling workshops that aim to reduce contamination and increase recycling rates in Ireland and help you get your recycling bin sorted at the same time!
+Come say hi to one of their amazing recycling ambassadors who will help you get your recycling bin sorted on June 24th in St Andrews Resource Centre. Their Recycling Ambassador Programme delivers free recycling workshops that aim to reduce contamination and increase recycling rates in Ireland and help you get your recycling bin sorted at the same time!
 
 
 
@@ -213,13 +215,13 @@ Come say hi to one of our amazing recycling ambassadors who will help you get yo
 
 We will host several Swap Shops during the Festival. Please bring your pre-loved item along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
 
-### Pre-loved Cloths Swap Shop
+### Pre-loved Clothes Swap Shop
 
 Bring your washed, and wearable clothes, shoes, and accessories to the festival. The Swap Shop will work on an item-by-item basis, i.e., for every item you bring, you will get one token that you can exchange for any other item in the Swap Shop. Since we will re-stock the Swap Shop continuously as people drop off new items, it's worth checking it out from time to time in between the talks and workshops. All unclaimed items will be donated to a local charity shop at the end of the day.
 
 ### Book Swap Shop
 
-There will be a dedicated Book Swap table at the Festival. Bring your old favourites and the books you bought but never read and exchange them for some exciting new books you will never read (well, we hope you will read them -- otherwise, check out these [7 Other Uses For Books Besides Reading Them](https://www.barnesandnoble.com/blog/7-other-uses-for-books-besides-reading-them/){:target="_blank"}). As with the Cloths Swap Shop above, we will operate on "item-per-item" basis. Unclaimed books will be donated to the annual [TCD Secondhand Booksale](https://www.tcd.ie/booksale/){:target="_blank"}.
+There will be a dedicated Book Swap table at the Festival. Bring your old favourites and the books you bought but never read and exchange them for some exciting new books you will never read (well, we hope you will read them -- otherwise, check out these [7 Other Uses For Books Besides Reading Them](https://www.barnesandnoble.com/blog/7-other-uses-for-books-besides-reading-them/){:target="_blank"}). As with the Clothes Swap Shop above, we will operate on "item-per-item" basis. Unclaimed books will be donated to the annual [TCD Secondhand Booksale](https://www.tcd.ie/booksale/){:target="_blank"}.
 
 
 ## Meet-ups
