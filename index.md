@@ -13,6 +13,7 @@ Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resourc
 
 {% include toc.html %}
 
+
 # Zero Waste Festival: "Make It Last" on June 24, 2018
 
 The Zero Waste Festival is back! With the theme "Make It Last", we will bring you a one-day festival with a market, swap-shop, info stands, talks, and workshops. 
@@ -27,15 +28,7 @@ Find all the information for planning your visit below, more details to be added
 
 <a href="#top">Back to top</a>
 
-## Volunteer with us!
 
-We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival: Make It Last.
-
-Do you want to help the festival but don't have lots of time? Or maybe just want free entry to the next festival and choice of workshop? Well, the solution is here! We need volunteers on the day (24th June in St Andrews Resource Centre) to do various jobs from moving tables to manning doors. In exchange for a few hours helping out, you get a run of the festival, meet like-minded people and have a first pick at the swap shops ðŸ˜‰. 
-
-Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
-
-<a href="#top">Back to top</a>
 
 
 ## Tickets
@@ -58,6 +51,17 @@ You don't have to print your ticket, as we will accept digital tickets at the do
 Concession tickets for students, pensioners, and disabled persons -- you will need to present a valid student ID/travel pass/primary medical certificate in your name on the day to avail of the offer. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
 
 <a href="#top">Back to top</a>
+## Volunteer with us!
+
+We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival: Make It Last.
+
+Do you want to help the festival but don't have lots of time? Or maybe just want free entry to the next festival and choice of workshop? Well, the solution is here! We need volunteers on the day (24th June in St Andrews Resource Centre) to do various jobs from moving tables to manning doors. In exchange for a few hours helping out, you get a run of the festival, meet like-minded people and have a first pick at the swap shops. 
+
+Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
+
+<a href="#top">Back to top</a>
+
+
 
 ## Venue
 
@@ -80,29 +84,26 @@ The venue's ground floor is accessible for wheelchairs and buggies. This is wher
 
 <a href="#top">Back to top</a>
 
-## Talks and Workshops
 
-We will announce a complete list of talks and workshops soon, but they will include:
 
-- Yoga Practice
-- Overnight Oats
-- Zero Waste Drama for Kids
-- Preserving
-- Fermenting
-- The Endy Bits
-- Darning
-- Buy To Last
-- Household Hacks
-- Choosing Experiences
-- Tree Potting for Kids and Adults
+## Event Schedule
+
+Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, walk-ins, meetups, and swap shops. 
+
+![Zero Waste Festival Event Schedul]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
+
+We will post detailed descriptions of the talks/workshops here soon.
 
 <a href="#top">Back to top</a>
+
+
 
 ## Repair Cafe
 
 Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="blank"} and [VOICE Ireland](https://voiceireland.org/){:target="blank"} we will set up a Repair Cafe during the festival where you can learn how to extend the life of your stuff through simple repairs. This is a community event where you can bring in broken items and see how to fix them alongside expert volunteers. Repairs include electrical/electronics, wooden & general repairs, jewellery, and sewing. The overall objective is to bring back a culture of repair and support local repair businesses. So bring in your broken items and learn how to fix them.
 
 <a href="#top">Back to top</a>
+
 
 ## Market
 
@@ -120,6 +121,8 @@ Bare Necessities sells loose, organic food staples and hygiene products to help 
 
 Botanical Soap Therapy specializes in handmade natural skincare products including soap bars. Vegan and cruelty free, the range is made from the very best that nature has to offer. They also cater for people with sensitive skin and those who suffer from psoriasis and eczema. Empty glass packaging can be return back for a cash incentive. For more info, check out their [facebook page](https://www.facebook.com/BotanicalSoapTherapy/){:target="_blank"}.
 
+
+
 ![Bring Your Own]({{ site.baseurl }}/images/logos-external/logo-bring-your-own.png "Bring Your Own"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/bringyourowncontainers/){:target="_blank"} to check at which markets you can find them.
@@ -130,11 +133,23 @@ Bring Your Own offers a wide range of products, including household and body car
 
 Green Outlook is an online store based in Maynooth delivering plastic & cruelty free + sustainable products. They make sure that they believe in what they sell, they are wanderers spending in the nature most of their free time. They have a great selection of canvas bags, bamboo products, natural cosmetics, stainless steel, beeswax wraps and more. They want to contribute to make Ireland green again. For the nature, for yourself. For more info, check out their [website](https://www.greenoutlook.ie){:target="_blank"}.
 
+
+
 ### Little Green Shop
 
 ![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](
+
+### Nutty Delights
+
+![Nutty Delights]({{ site.baseurl }}/images/logos-external/logo-nutty-delights.png "Nutty Delights"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Joining us at the festival on the 24th June with their loose dried fruit and nuts is Nutty Delights. They are the first and only dedicated Nuts and Dried Fruits shop in Dublin. They aim to provide only the highest quality and premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. Their permanent store is in Europe's oldest shopping arcade: George's Street Arcade. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+
+
+
+
 
 ### Natural Growing Company
 
@@ -143,11 +158,7 @@ Little Green Shop is joining us for the market. They sell eco-friendly, sustaina
 The Natural Growing Company sells top quality vegetable-, herb- and flower plants all grown from seed by themselves, following organic principles, on their smallholding in West Cork, imbued with love and care to facilitate their customers to grow their own food. For more info, check out their [facebook page](https://www.facebook.com/Natural-Growing-Company-1895680197364944/){:target="_blank"}.
 
 
-### Nutty Delights
 
-![Nutty Delights]({{ site.baseurl }}/images/logos-external/logo-nutty-delights.png "Nutty Delights"){:style="float: top;margin-right: 10px;height: 150px;"}
-
-Joining us at the festival on the 24th June with their loose dried fruit and nuts is Nutty Delights. They are the first and only dedicated Nuts and Dried Fruits shop in Dublin. They aim to provide only the highest quality and premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. Their permanent store is in Europe’s oldest shopping arcade: George's Street Arcade. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.
 
 ### reuzi
 
