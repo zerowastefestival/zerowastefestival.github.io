@@ -90,12 +90,12 @@ The venue's ground floor is accessible for wheelchairs and buggies. This is wher
 
 Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, walk-ins, meetups, and swap shops. 
 
-![Zero Waste Festival Event Schedul]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
+[![Zero Waste Festival Event Schedul]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg){:target="blank"}
 
-We will post detailed descriptions of the talks/workshops here soon.
+Click the image to enlarge.
+
 
 <a href="#top">Back to top</a>
-
 
 
 ## Repair Cafe
@@ -104,6 +104,76 @@ Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="bl
 
 <a href="#top">Back to top</a>
 
+
+## DIY Corner
+
+#### 11:00 -- 12:00 <br/> Native Irish tree plant and adopt
+
+At 11 am in the main hall, there will be native tree planting for kids and adults. 
+
+Discover how tree folklore and our fairy friends can teach us lots about taking care of trees and how trees grow. Find out how in Ireland we once had a tree calendar. Write a tree poem or create some tree-art: zero waste just art! Turn rubbish into pots for tree saplings and take a tree sapling home with you! 
+
+Claire and Rebecca are part of an environmental group bringing trees and plants for wildlife into urban and suburban communities around Dublin. They will go anywhere people would like to have trees and plants because every community and every place people live, work, play or spend time in can have, and need to have, trees and plants. Find out more about them on their [Facebook page](https://www.facebook.com/groups/198294757469933/about/){:target="blank"}.
+
+#### 12:00 -- 1:00 <br/> Drop-in and darn
+
+At 12pm in the meetup area, you can learn how to darn in this drop-in workshop.
+
+Sustainable socks are hard to come by, so make the ones you have last. No matter whether you are hard on the heels or toes, bring your worn out socks and a tennis ball to this drop-in workshop and [Celia](/team) will pass on the skills she learned from her grandmother.
+
+#### 1:00 -- 4:00 <br/> Repair Cafe
+
+See above for more info about the Repair Cafe.
+
+<a href="#top">Back to top</a>
+
+
+## Workshops and Talks
+
+We will host a variety of workshops and talks during the festival. Please note, that all workshops and talks take place in the upper floor (Room 2 and Room 3) of the venue and are only accessible through stairs.
+
+| Time     | Room 2                              | Room 3                             |
+|----------|-------------------------------------|------------------------------------|
+| 10 -- 11 | The Change Machine - Drama for kids | Satisfying Breakfast               |
+| 11 -- 12 | Foraged feasts                      | Balance Hatha Yoga                 |
+| 12 -- 1  | Living lightly - Craft for kids     | You can can!                       |
+| 1 -- 2   | Cleaning for keeps                  | Do stuff, don't buy stuff!         |
+| 2 -- 3   | Buy to last                         | Pickles & Ferments                 |
+| 3 -- 4   | The Endy Bit - Eat everything       | Simplifying the science of laundry |
+
+
+### Room 2
+
+#### 10:00 -- 11:00 <br/> The Change Machine - Drama for kids
+
+#### 11:00 -- 12:00 <br/> Foraged feasts
+
+#### 12:00 -- 1:00 <br/> Living lightly - Craft for kids 
+
+#### 1:00 -- 2:00 <br/> Cleaning for keeps
+
+#### 2:00 -- 3:00 <br/> Buy to last 
+
+#### 3:00 -- 4:00 <br/> The Endy Bit - Eat everything
+
+
+### Room 3
+
+#### 10:00 -- 11:00 <br/> Satisfying Breakfast
+
+#### 11:00 -- 12:00 <br/> Balance Hatha Yoga
+
+#### 12:00 -- 1:00 <br/> You can can! 
+
+#### 1:00 -- 2:00 <br/> Do stuff, don't buy stuff!
+
+#### 2:00 -- 3:00 <br/> Pickles & Ferments 
+
+#### 3:00 -- 4:00 <br/> Simplifying the science of laundry
+
+
+
+<a href="#top">Back to top</a>
 
 ## Market
 
@@ -211,13 +281,6 @@ The Baby Market runs events around Ireland in which parents buy and sell pre-lov
 
 Find out more about The Baby Market Ireland on their [website](http://babymarket.ie/){:target="blank"}.
 
-### VOICE Ireland --- Recycling Ambassador Programme
-
-![VOICE Ireland]({{ site.baseurl }}/images/logos-external/logo-voice-ireland.jpg "VOICE Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
-
-Come say hi to one of their amazing recycling ambassadors who will help you get your recycling bin sorted on June 24th in St Andrews Resource Centre. Their Recycling Ambassador Programme delivers free recycling workshops that aim to reduce contamination and increase recycling rates in Ireland and help you get your recycling bin sorted at the same time!
-
-
 
 <a href="#top">Back to top</a>
 
@@ -237,15 +300,28 @@ There will be a dedicated Book Swap table at the Festival. Bring your old favour
 
 ## Meet-ups
 
-We will host Zero Waste themed and like-minded meetups during the festival. Updates on all the meetups and their timings will follow soon.
+We will host Zero Waste themed and like-minded meetups during the festival. 
 
-### 10:30 -- 12:00 - Revived Yarn Knit--along Meetup
+#### 10:30 -- 12:00 <br/> Revived Yarn Knit--along Meetup
 
 ![Revived Yarn Meetup]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about this meetup at the [Revived Yarn Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
-### 2:30 -- 4:00 - Zero Waste Meetup
+#### 12:30 -- 2:00 <br/> Vegan Potluck Meetup 
+
+![Dublin Vegan Group]({{ site.baseurl }}/images/logos-external/logo-dublin-vegan-group.jpg "Dublin Vegan Group"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+The Dublin Vegan Group will host a BYOVF (bring your own vegan food) lunch meetup at the Zero Waste Festival. Bring your own vegan food, plates, and cutlery, so you can have a Zero Waste picnic. Find more information about this meetup at the [Meetup page](https://www.meetup.com/dublin-vegan-group/events/251715480/){:target="blank"}.
+
+#### 2:30 -- 3:30 <br/> VOICE Recycling Meetup 
+
+![VOICE Ireland]({{ site.baseurl }}/images/logos-external/logo-voice-ireland.jpg "VOICE Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Come say hi to one of their amazing recycling ambassadors who will help you get your recycling bin sorted on June 24th in St Andrews Resource Centre. Their Recycling Ambassador Programme delivers free recycling workshops that aim to reduce contamination and increase recycling rates in Ireland and help you get your recycling bin sorted at the same time!
+
+
+#### 4:00 -- 5:00 <br/> Zero Waste Meetup
 
 ![Zero Waste Meetup]({{ site.baseurl }}/images/logos-external/logo-zero-waste-meetup.jpg "Zero Waste Meetup"){:style="float: top;margin-right: 10px;height: 150px;"}
 
