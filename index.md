@@ -170,7 +170,11 @@ More infos on this workshop/talks coming soon.
 
 #### 2:00 -- 3:00 <br/> Buy to last <a name="buy"></a>
 
-More infos on this workshop/talks coming soon.
+A light bulb that lasts a hundred years? Ear phones you probably loose before they break? A decade's supply of shaving soap?
+
+There are many (durable and long-lasting) alternatives to the quick and cheap buys we encounter most of the time. In this talk, we will discuss some strategies to spot planned obsolescence, assess repairability, and fight fast fashion by looking at examples from everyday household items, to home electronics, white goods, and clothes. In the long run, buying to last will save money, stress, and the planet. If you want to learn more, come and join us for this talk in Room 2 at 2pm.
+
+The talk is hosted by [Jan](/team). He is an environmental scientist with an undeniable passion for nature, sustainability, and quirky facts. E.g., did you know that reports indicate we consume twice as many material goods today as we did 50 years ago and that the average 10-year-old in Britain owns 238 toys but plays with just 12 of them daily? You can find more about Jan's work on sustainable sanitation on [Twitter](https://twitter.com/janknappe){:target="blank"} and his [blog](https://www.janknappe.com/){:target="blank"}.
 
 #### 3:00 -- 4:00 <br/> The Endy Bit - Eat everything <a name="endy"></a>
 
