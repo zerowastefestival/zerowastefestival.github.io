@@ -132,44 +132,55 @@ See above for more info about the Repair Cafe.
 
 We will host a variety of workshops and talks during the festival. Please note, that all workshops and talks take place in the upper floor (Room 2 and Room 3) of the venue and are only accessible through stairs.
 
-| Time     | Room 2                              | Room 3                             |
-|----------|-------------------------------------|------------------------------------|
-| 10 -- 11 | The Change Machine - Drama for kids | Satisfying Breakfast               |
-| 11 -- 12 | Foraged feasts                      | Balance Hatha Yoga                 |
-| 12 -- 1  | Living lightly - Craft for kids     | You can can!                       |
-| 1 -- 2   | Cleaning for keeps                  | Do stuff, don't buy stuff!         |
-| 2 -- 3   | Buy to last                         | Pickles & Ferments                 |
-| 3 -- 4   | The Endy Bit - Eat everything       | Simplifying the science of laundry |
+| Time     | Room 2                                        | Room 3                                         |
+|----------|-----------------------------------------------|------------------------------------------------|
+| 10 -- 11 | [The Change Machine - Drama for kids](#drama) | [Satisfying Breakfast](#breakfast)             |
+| 11 -- 12 | [Foraged feasts](#foraged)                    | [Balance Hatha Yoga](#yoga)                    |
+| 12 -- 1  | [Living lightly - Craft for kids](#craft)     | [You can can!](#can)                           |
+| 1 -- 2   | [Cleaning for keeps](#cleaning)               | [Do stuff, don't buy stuff!](#dostuff)         |
+| 2 -- 3   | [Buy to last](#buy)                           | [Pickles & Ferments](#pickles)                 |
+| 3 -- 4   | [The Endy Bit - Eat everything](#endy)        | [Simplifying the science of laundry](#laundry) |
 
 
 ### Room 2
 
-#### 10:00 -- 11:00 <br/> The Change Machine - Drama for kids
+#### 10:00 -- 11:00 <br/> The Change Machine - Drama for kids <a name="drama"></a>
 
-#### 11:00 -- 12:00 <br/> Foraged feasts
+#### 11:00 -- 12:00 <br/> Foraged feasts <a name="foraged"></a>
 
-#### 12:00 -- 1:00 <br/> Living lightly - Craft for kids 
+#### 12:00 -- 1:00 <br/> Living lightly - Craft for kids <a name="craft"></a>
 
-#### 1:00 -- 2:00 <br/> Cleaning for keeps
+#### 1:00 -- 2:00 <br/> Cleaning for keeps <a name="cleaning"></a>
 
-#### 2:00 -- 3:00 <br/> Buy to last 
+#### 2:00 -- 3:00 <br/> Buy to last <a name="buy"></a>
 
-#### 3:00 -- 4:00 <br/> The Endy Bit - Eat everything
+#### 3:00 -- 4:00 <br/> The Endy Bit - Eat everything <a name="endy"></a>
+
+At 3pm in Room 2 Anne from [The Endy Bit](https://www.facebook.com/theendybit/){:target="_blank"} will guide you through a process of avoiding food waste, sharing stories, ideas and food with you. What is your top food waste issue? Share at the talk and maybe find some answers.
+
+Find the workshop/talk on [Facebook](https://www.facebook.com/events/1052796314868691/){:target="_blank"}.
+
+Anne Hession is a working mother/project management nerd who likes cooking and avoiding food waste. She posts about her attempts to eat everything on [Twitter](https://twitter.com/theendybit/){:target="_blank"} and [Facebook](https://www.facebook.com/theendybit/){:target="_blank"}.
 
 
 ### Room 3
 
-#### 10:00 -- 11:00 <br/> Satisfying Breakfast
+#### 10:00 -- 11:00 <br/> Satisfying Breakfast <a name="breakfast"></a>
 
-#### 11:00 -- 12:00 <br/> Balance Hatha Yoga
+#### 11:00 -- 12:00 <br/> Balance Hatha Yoga <a name="yoga"></a>
 
-#### 12:00 -- 1:00 <br/> You can can! 
+#### 12:00 -- 1:00 <br/> You can can! <a name="can"></a>
 
-#### 1:00 -- 2:00 <br/> Do stuff, don't buy stuff!
+#### 1:00 -- 2:00 <br/> Do stuff, don't buy stuff! <a name="dostuff"></a>
 
-#### 2:00 -- 3:00 <br/> Pickles & Ferments 
+#### 2:00 -- 3:00 <br/> Pickles & Ferments <a name="pickles"></a>
 
-#### 3:00 -- 4:00 <br/> Simplifying the science of laundry
+#### 3:00 -- 4:00 <br/> Simplifying the science of laundry <a name="laundry"></a>
+
+At 3pm in Room 3, Titta Jones from Lilly's Eco Clean will be talking about simplifying the science of Laundry, how to make clothes last longer. She is passionate about the nowledge over fear approach. This time we will look at the science of laundry vs. the different type of textiles and how you can treat your favorite clothes better to make them last longer. 
+
+Titta Jones is the co-founder, main owner and MD of [Lilly's Eco Clean](https://www.lillysecoclean.com/){:target="_blank"}, a manufacturer of natural cleaning products made here in Ireland. Both in her business and her own life she aims to live towards Zero Waste and likes the concept of minimalism. Her hobbies include learning about and trying gardening, foraging, cooking, knitting and crochet. She loves hikes, road trips and work combined with travel.
+You can follow her on [Instagram](https://www.instagram.com/lillysecoclean/){:target="_blank"}, [Twitter](https://twitter.com/Lillysecoclean){:target="_blank"}, or [Facebook](https://www.facebook.com/LillysEcoProducts/){:target="_blank"}.
 
 
 
