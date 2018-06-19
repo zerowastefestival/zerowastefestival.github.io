@@ -9,7 +9,11 @@ share: false
 
 ![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")<br>
 
-Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resource Centre in Dublin. The festival will feature a mix of Zero Waste info stands, Zero Waste vendors, workshops, and talks. For all the latest updates check the [news section](/news), follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
+Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resource Centre in Dublin. 
+
+[![Tickets](/images/logos-external/eventbrite-button.png "Zero Waste Festival 2018 Tickets"){:height="200px" width="200px"}](https://www.eventbrite.ie/e/zero-waste-festival-make-it-last-tickets-46691494517){:target="blank"}<br>
+
+The festival will feature a mix of Zero Waste info stands, Zero Waste vendors, workshops, and talks. For all the latest updates check the [news section](/news), follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
 
 {% include toc.html %}
 
@@ -267,7 +271,7 @@ Green Outlook is an online store based in Maynooth delivering plastic & cruelty 
 
 ![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](
+Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"} or [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}.
 
 ### Nutty Delights
 
