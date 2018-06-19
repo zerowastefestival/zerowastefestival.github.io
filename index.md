@@ -271,13 +271,13 @@ Green Outlook is an online store based in Maynooth delivering plastic & cruelty 
 
 ![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"} or [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}.
+Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
 
 ### Nutty Delights
 
 ![Nutty Delights]({{ site.baseurl }}/images/logos-external/logo-nutty-delights.png "Nutty Delights"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Joining us at the festival on the 24th June with their loose dried fruit and nuts is Nutty Delights. They are the first and only dedicated Nuts and Dried Fruits shop in Dublin. They aim to provide only the highest quality and premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. Their permanent store is in Europe's oldest shopping arcade: George's Street Arcade. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+Joining us at the festival on the 24th June with their loose dried fruit and nuts is Nutty Delights. They are the first and only dedicated Nuts and Dried Fruits shop in Dublin. They aim to provide only the highest quality and premium standard products, delivering only the freshest nuts packed with fresh nutrition and flavour and naturally dried fruits sourced from all over the world. Their permanent store is in Europe's oldest shopping arcade: George's Street Arcade. For more info, check out their [website](https://www.nuttydelights.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/nuttydelights.ie){:target="_blank"}, or [facebook page](https://www.facebook.com/nuttydelights.ie){:target="_blank"}.
 
 
 
