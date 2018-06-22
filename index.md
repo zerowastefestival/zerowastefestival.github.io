@@ -166,11 +166,22 @@ Wildflower walks Ireland is a two person team made up of long time friends Mies 
 
 #### 12:00 -- 1:00 <br/> Living lightly - Craft for kids <a name="craft"></a>
 
-More infos on this workshop/talks coming soon.
+At 12pm in Room 2, Elaine will give a crafts workshop for kids. Start the kids on their zero waste journey with some low-waste crafts made with compostable and reusable materials. We'll be making paper masks and paper air planes, building compostable structures, and learning to write secret spy messages. There's also a Duplo Lego pile for any kiddies that prefer free play! This workshop is suitable for kids aged 3+ years as long as the parents are present. 
+
+Elaine is a designer who writes a blog on sustainable living called [Living Lightly in Ireland](https://livinglightlyinireland.wordpress.com/){:target="_blank"}.
+
+Find the workshop/talk on [Facebook](https://www.facebook.com/events/213296175954237/){:target="_blank"}.
 
 #### 1:00 -- 2:00 <br/> Cleaning for keeps <a name="cleaning"></a>
 
 More infos on this workshop/talks coming soon.
+
+At 1pm in Room 2, Molly will be talking about keeping up appliances (and other items) to make sure they have a long lifespan. When Molly was a kid she imagined life would be super exciting as an adult. She did not foresee the endless life of washing that was ahead! How we wash things has consequences too! What are the stakes you ask? Well how you take care of your stuff directly affects its lifespan. If you have a minimalist wardrobe, knowing good garment care is a must so that your only pair of jeans look amazing! Is your dishwasher broken or have you just not cleaned it? Likewise for your washing machine! Avoid buying new stuff and extend the life of your current stuff by learning how to take care of the things we never think of like jewelry, our mattresses, the couch. Come along to learn more or to share more adulting tips. Even Molly may need to take notes!
+
+Molly is a lifelong tree-hugger who is constantly experimenting with growing-her-own, making-her-own and general doing-it-herself. She has been on her zero waste journey a while now, and while not perfect, with a happy sourdough, zero waste beauty regime, and the best popcorn recipe ever, she is happy with her progress! She is one half of the Zero Waste business [Bare Necessities Ireland](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"} and Wildflower Walks Ireland and manages the blog [Confessions of a part time hippy](https://confessionsofaparttimehippy.wordpress.com/){:target="_blank"} where she is happy to chat about zero waste cleaning, cooking, beauty or broader environmental issues. 
+
+Find the workshop/talk on [Facebook](https://www.facebook.com/events/2229503910401721/){:target="_blank"}.
+
 
 #### 2:00 -- 3:00 <br/> Buy to last <a name="buy"></a>
 
@@ -210,11 +221,18 @@ Find the workshop/talk on [Facebook](https://www.facebook.com/events/89318718754
 
 #### 12:00 -- 1:00 <br/> You can can! <a name="can"></a>
 
-More infos on this workshop/talks coming soon.
+At 12 noon in Room 3, Timi will be giving you an introduction to preserving food by canning. Timi is passionate about sustainable living: Astonished by the amount of disposable nappies they had to throw away every day when their son entered their lives, her family began their zero waste journey. Soon after transitioning to cloth nappies, they got rid of all disposable products in their house, and 9 months down the line, were able to completely unsubscribe from bin services.
+Since then, Timi has been featured in major publications such as the Irish Examiner and Greennews.ie, in addition to appearing on Eco Eye, Ireland’s longest running environmental programme. She has given several talks on eco-friendly habits and Zero Waste Living at different forums from the Earth Baby Fair to LinkedIn’s headquarters in Dublin, including several at Zero Waste Festivals. You can follow her on her blog [www.simplenowastelife.com](https://www.simplenowastelife.com){:target="_blank"} of [Instagram](https://www.instagram.com/simple.nowaste.life/){:target="_blank"}.
+
+Find the workshop/talk on [Facebook](https://www.facebook.com/events/1989196191152723/){:target="_blank"}.
 
 #### 1:00 -- 2:00 <br/> Do stuff, don't buy stuff! <a name="dostuff"></a>
 
-More infos on this workshop/talks coming soon.
+At 1pm in Room 3, Íde will be talking about choosing experience over buying items. We are often caught in the trap of wanting and feeling we need more possessions. Choosing experiences instead, not only is better for keeping those purchase away from their inevitable destination in the bin, but also give us a more lasting feeling of happiness.
+
+Íde stopped buying CDs when they started to cost more than Ryanair flights, and although in the intervening years she has tried to be more conscious of her carbon footprint, she has travelled far and enjoyed some great adventures closer to home.
+
+Find the workshop/talk on [Facebook](https://www.facebook.com/events/1974713026172395/){:target="_blank"}.
 
 #### 2:00 -- 3:00 <br/> Pickles & Ferments <a name="pickles"></a>
 
