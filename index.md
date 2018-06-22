@@ -22,7 +22,7 @@ The festival will feature a mix of Zero Waste info stands, Zero Waste vendors, w
 
 The Zero Waste Festival is back! With the theme "Make It Last", we will bring you a one-day festival with a market, swap-shop, info stands, talks, and workshops. 
 
-- For the first time, our centrepiece is a Repair Cafe with [Community Reuse Network Ireland](http://crni.ie/){:target="blank"}, where you can learn how to extend the life of your stuff through simple repairs. 
+- For the first time, our centrepiece is a Repair Cafe where you can learn how to extend the life of your stuff through simple repairs. 
 - Find out how to buy to last or just give the gift of a memory to last a lifetime in our new talks. Learn how to make the tastes of summer last a little longer, by turning them into something that can be enjoyed when the summer sun is long gone - in our practical workshops. 
 - Learn how to make yourself last a little longer (or at least the calm of the holiday feeling) with a yoga practice. 
 - There will be kids' workshops, all with the idea of looking to the future, be that by planting trees to take home or a new love of drama. 
@@ -104,7 +104,7 @@ Click the image to enlarge.
 
 ## Repair Cafe
 
-Together with the [Community Reuse Network Ireland](http://crni.ie/){:target="blank"} and [VOICE Ireland](https://voiceireland.org/){:target="blank"} we will set up a Repair Cafe during the festival where you can learn how to extend the life of your stuff through simple repairs. This is a community event where you can bring in broken items and see how to fix them alongside expert volunteers. Repairs include electrical/electronics, wooden & general repairs, jewellery, and sewing. The overall objective is to bring back a culture of repair and support local repair businesses. So bring in your broken items and learn how to fix them.
+Together with [VOICE Ireland](https://voiceireland.org/){:target="blank"} we will set up a Repair Cafe during the festival where you can learn how to extend the life of your stuff through simple repairs. This is a community event where you can bring in broken items and see how to fix them alongside expert volunteers. Repairs include electrical/electronics, wooden & general repairs, jewellery, and sewing. The overall objective is to bring back a culture of repair and support local repair businesses. So bring in your broken items and learn how to fix them.
 
 <a href="#top">Back to top</a>
 
