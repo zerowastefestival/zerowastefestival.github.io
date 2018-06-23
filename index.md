@@ -28,7 +28,9 @@ The Zero Waste Festival is back! With the theme "Make It Last", we will bring yo
 - There will be kids' workshops, all with the idea of looking to the future, be that by planting trees to take home or a new love of drama. 
 - We have also brought back the meet-ups and will be hosting several meet-ups this time. The idea behind a meet up is that like-minded people meet to chat informally. 
 
-Find all the information for planning your visit below, more details to be added soon!
+Find all the information for planning your visit below!
+
+Spaces for talks and workshops are limited. Buying a ticket early entitles you to advanced sign up for your preferred talk/workshop (details will be sent to you by email when purchasing a ticket). Limited places may be left on the day itself and are given away on first-come first-serve basis.
 
 <a href="#top">Back to top</a>
 
@@ -61,6 +63,8 @@ We are currently looking for volunteers helping us to organise the upcoming Zero
 
 Do you want to help the festival but don't have lots of time? Or maybe just want free entry to the next festival and choice of workshop? Well, the solution is here! We need volunteers on the day (24th June in St Andrews Resource Centre) to do various jobs from moving tables to manning doors. In exchange for a few hours helping out, you get a run of the festival, meet like-minded people and have a first pick at the swap shops. 
 
+Spaces for talks and workshops are limited. Buying a ticket early entitles you to advanced sign up for your preferred talk/workshop (details will be sent to you by email when purchasing a ticket). Limited places may be left on the day itself and are given away on first-come first-serve basis.
+
 Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
 
 <a href="#top">Back to top</a>
@@ -87,6 +91,40 @@ St. Andrews Resource Centre is conveniently located between the city centre and 
 The venue's ground floor is accessible for wheelchairs and buggies. This is where the markets, swap shops, and info stalls will be hosted. Unfortunately, however, the upper floors, where the talks and workshops will take place, are only accessible via stairs (there is no lift or ramp to the upper floors in the venue).
 
 <a href="#top">Back to top</a>
+
+## What to bring
+
+![Zero Waste Festival What to Bring]({{ site.baseurl }}/images/2018-06-festival/what-bring-zero-waste-festival.jpg "Zero Waste Festival What to Bring"){:style="float: top;margin-right: 10px;width: 100%;"}
+
+No need to print your tickets, your name will be at the door, but please remember your ID if you purchased a concession ticket.
+
+#### For notes
+
+There'll be no leaflets or business cards, so bring your phone, a camera or a pen and paper.
+
+#### For workshops
+
+You'll need a mat for yoga, a fork or spoon for samples of food and your worn-out socks and a tennis ball for darning.
+
+#### For the Repair Cafe
+
+Broken or damaged items -- clothes, furniture, electrical appliances, bicycles, crockery, toys, etc.
+
+#### For shopping
+
+You'll need your own containers for loose goods and refills and bring some bags to carry your purchases home.
+
+#### For food and drinks
+
+Bring your own mug, water bottle and lunch box and utensils. You're also welcome to bring a picnic or a dish for the vegan pot luck.
+
+#### Stuff to swap or share
+
+- Clean and wearable men's, women's and kid's clothes for the swap shop
+- Some books for the swap shop
+- OtherMother would love to upcycle your old t-shirts and sheets (100% cotton please)
+- Spare jars can be useful for other people who didn't bring enough
+- Bring any take-away containers you have built up to share in case people are short
 
 
 
@@ -135,6 +173,8 @@ See above for more info about the Repair Cafe.
 ## Workshops and Talks
 
 We will host a variety of workshops and talks during the festival. Please note, that all workshops and talks take place in the upper floor (Room 2 and Room 3) of the venue and are only accessible through stairs.
+
+Spaces for talks and workshops are limited. Buying a ticket early entitles you to advanced sign up for your preferred talk/workshop (details will be sent to you by email when purchasing a ticket). Limited places may be left on the day itself and are given away on first-come first-serve basis.
 
 | Time     | Room 2                                        | Room 3                                         |
 |----------|-----------------------------------------------|------------------------------------------------|
