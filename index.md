@@ -57,6 +57,14 @@ You don't have to print your ticket, as we will accept digital tickets at the do
 Concession tickets for students, pensioners, and disabled persons -- you will need to present a valid student ID/travel pass/primary medical certificate in your name on the day to avail of the offer. Even though admission for children is free, we kindly ask you to buy a tickets for all your children in advance - that really makes it easier for us to plan ahead and offer exciting workshops for your small ones.
 
 <a href="#top">Back to top</a>
+
+## Photo and video recording
+
+We will be taking pictures and short videos for our website and social media. If you do not want to be in any photos or videos, just talk to one of our volunteers.
+
+<a href="#top">Back to top</a>
+
+
 ## Volunteer with us!
 
 We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival: Make It Last.
