@@ -10,19 +10,23 @@ share: false
 
 We are hosting regular pop-up Zero Waste Festivals at various locations in Ireland. Find out more about our upcoming and past events here.
 
-# Zero Waste Festival: "Make It Last"
+# Zero Waste Festival
 
-[![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")](/)<br>
-
-Join us for our next Zero Waste Festival on June 24th at the St. Andrews Resource Centre in Dublin. The festival will feature a mix of Zero Waste info stands, Zero Waste vendors, workshops, and talks. For all the latest updates check the [event page here](/), and follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
-
+Join us for our next Zero Waste Festival in September in Dublin. For all the latest updates and news follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
 
 
 # Past events
  
+## Zero Waste Festival: "Make It Last"
+
+[![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")]({{ site.baseurl}}/2018-06-festival)<br>
+
+Thanks to everyone who made this Zero Waste Festival a success. Find a recap, pictures, videos, and all information about the festival [here]({{ site.baseurl}}/2018-06-festival).
+ 
+ 
 ## Zero Waste Festival: "Spring Clean" (February 25, 2018)
 
-![Spring Clean Festival 2018]({{ site.baseurl }}/images/2018-02-festival/spring-clean-festival-logo-850x315.png "pring Clean Festival 2018")
+[![Spring Clean Festival 2018]({{ site.baseurl }}/images/2018-02-festival/spring-clean-festival-logo-850x315.png "pring Clean Festival 2018")]({{ site.baseurl}}/2018-02-festival)<br>
 
 The 2018 Zero Waste Spring Clean Festival took place on February 25 at the ABC Drumcondra, Dublin.
 
