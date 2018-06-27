@@ -24,11 +24,3 @@ Join us for our next Zero Waste Festival in September in Dublin. For all the lat
 	{% endif %}
 {% endfor %}
 </div>
-
-
-
-
-
-
-
-
