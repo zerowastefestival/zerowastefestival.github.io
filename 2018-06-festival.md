@@ -317,6 +317,14 @@ You can follow her on [Instagram](https://www.instagram.com/lillysecoclean/){:ta
 
 As always, we will bring a selection of Zero Waste Lifestyle market stalls to our festival where you can source everything loose, refillable, or package free. Our partners for this festival include:
 
+
+
+### AB Studio
+
+![AB Studio]({{ site.baseurl }}/images/logos-external/logo-ab-studio.jpg "AB Studio"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+AB Studio designs, makes and sells vegan body care products in their little zero waste shop in Mount Usher Gardens, Ashford, Co. Wicklow. They will be bringing to the festival their most popular shampoo bars - each works as a shampoo, conditioner, face toning bar, whole body soap and shaving bar. Free from sulphates, parabens, perfume, palm oil and plastic bottles they are instead loaded with active and effective ingredients derived directly from nature (herbal infusions, mineral clays, plant based oils and butters, essential oils). If you prefer liquid soap they also have you covered -- literally, if you wish!For more info, check out their [Instagram feed](https://www.instagram.com/ab_soap_studio/){:target="_blank"}, or [facebook page](https://www.facebook.com/ABSoapStudio){:target="_blank"}.
+
 ### Bare Necessities
 
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
@@ -329,11 +337,20 @@ Bare Necessities sells loose, organic food staples and hygiene products to help 
 
 Botanical Soap Therapy specializes in handmade natural skincare products including soap bars. Vegan and cruelty free, the range is made from the very best that nature has to offer. They also cater for people with sensitive skin and those who suffer from psoriasis and eczema. Empty glass packaging can be return back for a cash incentive. For more info, check out their [facebook page](https://www.facebook.com/BotanicalSoapTherapy/){:target="_blank"}.
 
-
+### Bring Your Own
 
 ![Bring Your Own]({{ site.baseurl }}/images/logos-external/logo-bring-your-own.png "Bring Your Own"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Bring Your Own offers a wide range of products, including household and body care care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/bringyourowncontainers/){:target="_blank"} to check at which markets you can find them.
+
+### Earth Angel's Wellness
+
+![Earth Angel's Wellness]({{ site.baseurl }}/images/logos-external/logo-earth-angels.png "Earth Angel's Wellness"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Earth Angel's Wellness will be selling herbal products created from hand foraged plants in Dublin City Centre no-dig organic community gardens emphasizing on local and ethically created concoctions infused with love!  For more info, check out their [website](https://earthangelswellness.bigcartel.com){:target="_blank"}.
+
+
+
 
 ### Green Outlook
 
@@ -341,13 +358,27 @@ Bring Your Own offers a wide range of products, including household and body car
 
 Green Outlook is an online store based in Maynooth delivering plastic & cruelty free + sustainable products. They make sure that they believe in what they sell, they are wanderers spending in the nature most of their free time. They have a great selection of canvas bags, bamboo products, natural cosmetics, stainless steel, beeswax wraps and more. They want to contribute to make Ireland green again. For the nature, for yourself. For more info, check out their [website](https://www.greenoutlook.ie){:target="_blank"}.
 
+### Lilly's Eco-Clean
+
+![Lilly's Eco-Clean]({{ site.baseurl }}/images/logos-external/logo-lillys-ecoclean.jpg "Lilly's Eco-Clean"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Lilly's Eco Clean manufactures a range of natural cleaning products right here in Dublin. Since the beginning, the company has been doing their best to reduce waste. Bottles are made out of post consumer recycled plastics. Boxes as packed with paper tape and practically every element related to production is re-used as best as possible. The company started waste reduction in household thinking early and refills were made available from the day one. Today, Lilly's product containers can be re-used in many ways so that everyone can do it, either by bringing Lilly's bottle or any bottle for refilling, get a refill pouch that reduces both waste and carbon foot print or using containers or sharing them with friends. For more info, check out their [website](https://www.lillysecoclean.com){:target="_blank"}, [Instagram feed](https://www.instagram.com/lillysecoclean){:target="_blank"}, or [facebook page](https://www.facebook.com/lillysecoproducts){:target="_blank"}.
+
 
 
 ### Little Green Shop
 
 ![Little Green Shop]({{ site.baseurl }}/images/logos-external/logo-little-green-shop.jpg "Little Green Shop"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/ ){:target="_blank"}, or [facebook page](https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+Little Green Shop is joining us for the market. They sell eco-friendly, sustainable household and beauty products from reusable water bottle to beeswax wrap to biodegradable toothbrushes and washing up brushes and everything in between. A visit to their stall is a must, whatever stage of the Zero Waste journey you are at. For more info, check out their [website](https://www.littlegreenshop.ie){:target="_blank"}, [Instagram feed](https://www.instagram.com/littlegreenshop_ie/){:target="_blank"}, or [facebook page](https://www.facebook.com/littlegreenshop.ie/){:target="_blank"}.
+
+
+
+### Nuts About Nature
+
+![Nuts About Nature]({{ site.baseurl }}/images/logos-external/logo-nuts-about-nature.jpg "Nuts About Nature"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Healthy and hearty vegan treats, free of gluten and refined sugar and packed full of wholesome ingredients. For more info, check out their [Instagram feed](https://www.instagram.com/nutsaboutnaturedublin){:target="_blank"}.
 
 ### Nutty Delights
 
@@ -367,6 +398,25 @@ The Natural Growing Company sells top quality vegetable-, herb- and flower plant
 
 
 
+### Minimal Waste Groceries
+
+![Minimal Waste Groceries]({{ site.baseurl }}/images/logos-external/logo-minimal-waste-grocery.jpg "Minimal Waste Groceries"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Minimal Waste Grocery is a market stall and nationwide zero waste delivery service. They sell a wide range of loose, organic dry goods covering everything from store cupboard staples to more hard-to-find zero waste items, like toothpaste and mouthwash tabs, and beautiful artisanal products from small Irish producers in a zero waste format exclusive to them. Bring along your empty containers and they will be happy to fill them for you! For more info, check out their [website](https://www.minimalwastegrocery.com){:target="_blank"}, [Instagram feed](https://www.instagram.com/minimalwastegrocery){:target="_blank"}, or [facebook page](https://www.facebook.com/minimalwastegrocery){:target="_blank"}.
+
+
+### OI Organic Italian Hairdressing
+
+![OI Hairdressing]({{ site.baseurl }}/images/logos-external/logo-oi-hairdressing.jpg "OI Hairdressing"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+OI Organic Italian Hairdressing believes that our wonderful planet deserves to be respected and that its clients will benefit from its bespoke organic products which can be purchased and refilled at its refilling bar. The packaging is aesthetically pleasing and is 100% reusable and recyclable. For more info, check out their [website](http://www.oihairsalon.ie/){:target="_blank"}, [Instagram feed](https://www.instagram.com/organicitalianhairdressing/){:target="_blank"}, or [facebook page](https://www.facebook.com/OIOrganicItalianHairdressing/){:target="_blank"}.
+
+### Other Mother
+
+![Other Mother]({{ site.baseurl }}/images/logos-external/logo-other-mother.jpg "Other Mother"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Other mother makes upcycles alternatives to everyday and parenting disposable products. For more info, check out their [facebook page](https://www.facebook.com/OtherMotherCreations/){:target="_blank"}.
+
 
 ### reuzi
 
@@ -379,6 +429,30 @@ reuzi’s mission is to offer people an online platform to connect, discuss alte
 ![Sonett Ireland]({{ site.baseurl }}/images/logos-external/logo-sonett.jpg "Sonett Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Sonett is one of the pioneers of ecological laundry detergents and cleaners. They are committed to renaturalise water which has been used for laundry washing and cleaning by adding rhythmatised substances to their products and working with process water that is swirled and energized. The oils used for their soaps and essential oils are 100% certified organic. For more info, check out their [website](https://www.sonett.eu){:target="_blank"}.
+
+
+
+### Sunil's Cafe
+
+![Sunil's Cafe]({{ site.baseurl }}/images/logos-external/logo-sunils-cafe.jpg "Sunil's Cafe"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Organic Freshly home made Nepalese and Indian Food & Coffee. 
+
+
+
+### Twisted Dough Wicklow
+
+![Twisted Dough Wicklow]({{ site.baseurl }}/images/logos-external/logo-twisted-dough.jpg "Twisted Dough Wicklow"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Irish Local Food with Polish Twist. First Pierogi Food Truck on Irish Market! Handmade, local & made from scrach, fine dining from the food truck. Twisted Dough born in West Wicklow. So keeping local products as much as we can. Organic & Local that's their domain. For more info, check out their [facebook page](https://www.facebook.com/twisteddoughwicklow/){:target="_blank"}.
+
+
+
+### The Upcycle Movement
+
+![Upcycle Movement]({{ site.baseurl }}/images/logos-external/logo-upcycle-movement.jpg "Upcycle Movement"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+A community organisation promoting the re-thinking of what we might otherwise consider as waste. Designing solutions to combat textile pollution, Irish Designer & Founder of The Upcycle Movement, Lynn Haughton, brings back beauty and a new function to otherwise redundant materials proving 'It's only waste if we waste its potential'. Haughton will have her debut collection at the festival: 'The Neo Collection' -- bags and accessories made from upcycled wetsuits. Handmade with a passion for a more sustainable world and a design to be loved using again and again. Inspired by beach life and made for life's adventures. 10% of proceeds of this collection goes to [Seal Rescue Ireland](http://www.sealrescueireland.org/){:target="_blank"}. For more info, check out their [website](https://www.theupcyclemovement.com ){:target="_blank"}, [Instagram feed](https://www.instagram.com/the_upcycle_movement){:target="_blank"}, or [facebook page](https://www.facebook.com/TheUpcycleMovement){:target="_blank"}.
 
 ### Toothfaerie
 
