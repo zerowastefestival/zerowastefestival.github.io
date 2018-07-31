@@ -64,11 +64,11 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 
 [![Tickets](/images/logos-external/eventbrite-button.png "Zero Waste Festival 2018 Tickets"){:height="200px" width="200px"}](https://www.eventbrite.ie/e/zero-waste-festival-make-it-last-tickets-46691494517){:target="blank"}<br>
 
-| Category               | Price  |   |   |   |
-|------------------------|--------|---|---|---|
-| Adult                  | 15 EUR |   |   |   |
-| Concession             | 10 EUR |   |   |   |
-| Child (up to 12 years) | free   |   |   |   |
+| Category               | Price  | 
+|------------------------|--------|
+| Adult                  | 15 EUR |
+| Concession             | 10 EUR |
+| Child (up to 12 years) | free   |
 
 You don't have to print your ticket, as we will accept digital tickets at the door.
 
