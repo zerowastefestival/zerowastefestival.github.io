@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 
 comments: false
-ads: false
+ads: ![alt text](\images\2018-09-festival\Website Side Panel ZWW)
 share: false
 ---
 
