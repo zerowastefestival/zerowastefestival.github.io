@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 
 comments: false
-ads: false
+ads: true
 share: false 
 ---
 
