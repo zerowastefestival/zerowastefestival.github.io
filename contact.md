@@ -3,7 +3,7 @@ layout: article
 permalink: /contact/
 title: "Contact"
 
-ads: false
+ads: true
 comments: false
 share: false
 ---
