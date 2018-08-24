@@ -3,7 +3,7 @@ layout: article
 permalink: /zero-waste/
 title: "Zero Waste"
 
-ads: false
+ads: true
 comments: false
 share: false
 ---
