@@ -7,7 +7,8 @@ ads: true
 share: false 
 ---
 
-![Zero-Waste-Week](/images/18-09-festival/Zero-Waste-Week-MainHeader.png)
+![Zero-Waste-Week](/images/2018-09-festival/Zero-Waste-Week-WebMain.png)
+    )
 
 We are hosting regular pop-up Zero Waste Festivals at various locations in Ireland. Find out more about our upcoming and past events here.
 
