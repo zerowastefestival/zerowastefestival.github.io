@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature: 2018-09-02/schedule-events.png
-  teaser : 2018-09-02/main-zww.png
+  teaser : 2018-09-02/schedule-events.png
 
 comments: false
 ads: false
