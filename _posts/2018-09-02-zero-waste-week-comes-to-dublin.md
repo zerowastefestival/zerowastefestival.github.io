@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature: features/schedule-of-partners.png
-  teaser : teasers/2018-09-02/schedule-of-partners.png
+  teaser : teasers/schedule-of-partners.png
 
 comments: false
 ads: false
