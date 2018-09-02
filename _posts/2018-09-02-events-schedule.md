@@ -23,13 +23,17 @@ Check the links on Facebook:
 ## Tuesday - Reuse
 
 [Zero Waste Picnic in Trinity College](https://www.facebook.com/events/251505172363238/){:target="_blank"}
+
 [Find Your Scent at Bí Urban](https://www.facebook.com/events/1978203465534854/){:target="_blank"}
+
 [Food, Jars & Co. at The Green Door Market](https://www.facebook.com/events/260391878137611/){:target="_blank"}
 
 ## Wednesday - Reuse
 
 [Rediscovery Centre Infomration Tour](https://www.facebook.com/events/403539393459810/){:target="_blank"}
+
 [Soap Kitchen at Bí Urban](https://www.facebook.com/events/2193164307587204/){:target="_blank"}
+
 [Swap Shop at Patagonia](https://www.facebook.com/events/2216628305228615/){:target="_blank"}
 
 ## Thursday - Recycle
