@@ -23,6 +23,6 @@ Bands and performers will entertain throughout the Festival at the Music Stage a
 
 A dedicated Gardening Zone will feature demos and talks from the window box growers to the meadow mowers. This year they are looking for the hottest chilli and encouraging people to bring their homegrown efforts along, with the hope of being crowned “The Chilli King or Queen”.
 
-For those looking to entertain and educate their families, there will be a Sustainable Systems area (where we will be based#), festival composting, backwoods cooking and food foraging from Adventure.ie plus natural beauty and cosmetics from Mindful Beauty, Sligo interspersed with fun family-friendly games.
+For those looking to entertain and educate their families, there will be a Sustainable Systems area (where we will be based!), festival composting, backwoods cooking and food foraging from Adventure.ie plus natural beauty and cosmetics from Mindful Beauty, Sligo interspersed with fun family-friendly games.
 
 And the best part? It's all free!
