@@ -12,21 +12,21 @@ comments: false
 ads: false
 share: true
 ---
-For the Zero Waste Week 2018, we have also teamed up with [Bí Urban -[Equality for All Pollinators](https://www.facebook.com/Lifeline.Soap/){:target="_blank"} in Stoneybatter. 
+For the Zero Waste Week 2018, we have also teamed up with [Bí Urban - Equality for All Pollinators](https://www.facebook.com/Lifeline.Soap/){:target="_blank"} in Stoneybatter. 
 
 They will host a range of events throughout the week:
 
-## H2 Tuesday -Reduce- 4th of September  at 4pm - Find Your Scent
+### Tuesday -Reduce- 4th of September  at 4pm - Find Your Scent
 The second R of the week is REDUCE, and there are plenty of initiatives run by Bí Urban focused around that theme (ask about their crisps) but for this event the focus will be on reducing the waste and excess consumption of commercial perfume by creating your own scent.
 
 The workshop costs €20 and you will come away with you own signature scent and your recipe will be kept on file for refills.
 
-## H2 Wednesday -Reuse- 5th of September  at 5pm - Soap Kitchen
+### Wednesday -Reuse- 5th of September  at 5pm - Soap Kitchen
 Wednesday is all about REUSE. Come to Bí Urban in Stoneybatter to learn how they re-use the oil from food preservation to make soap. Kaethe will talk about the soap making process so if you ever wanted to make yours but didn't have courage yet, make sure you come along and get some advice! 
 
 This is a free event - just pop in and say hi!
 
-## H2 Friday -Rot- 7th of September at 6pm - Re-Grow 
+### Friday -Rot- 7th of September at 6pm - Re-Grow 
 The 5th ‘R’ is ROT, which is something that Kaethe (Master Composter) knows all about. Join her for a composting workshop and attend Patricia’s talk on choosing compostable alternatives.
 
 ***
