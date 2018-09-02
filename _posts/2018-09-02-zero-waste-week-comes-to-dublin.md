@@ -17,6 +17,6 @@ Zero Waste Week 2018 is here and we have a great line-up of events for you to at
 
 This year, we have teamed up with great eco-conscious stores, venues and events to bring you the flavour of zero waste throughout the week. 
 
-Check out the full schedule on our [Facebook events' page](https://www.facebook.com/pg/ZeroWasteFestivalIreland/events/){:target="_blank"}.
+Check out the full schedule on our [Facebook event page](https://www.facebook.com/pg/ZeroWasteFestivalIreland/events/){:target="_blank"}.
 
 
