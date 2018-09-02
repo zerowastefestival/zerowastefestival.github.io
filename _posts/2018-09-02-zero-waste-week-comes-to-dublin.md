@@ -5,8 +5,8 @@ title: Zero Waste Week 2018 is here!
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/schedule-events.png
-  teaser : 2018-09-02/schedule-events.png
+  feature: images/2018-09-02/schedule-partners.png
+  teaser : images/2018-09-02/schedule-partners.png
 
 comments: false
 ads: false
