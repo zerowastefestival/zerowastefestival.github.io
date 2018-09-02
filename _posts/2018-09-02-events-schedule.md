@@ -44,7 +44,7 @@ Check the links on Facebook:
 
 [Regrow at Bí Urban](https://www.facebook.com/events/307171170049255/){:target="_blank"}
 
-## Saturday and Sunday - 5R'schedule-events
+## Saturday and Sunday - 5R's
 
 [Zero Waste at Festival of Food at Airfield Estate](https://www.facebook.com/events/517722131983248/){:target="_blank"}
 
