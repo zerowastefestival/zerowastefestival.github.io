@@ -1,0 +1,21 @@
+---
+layout: article
+title: Zero Waste Week 2018 is here!
+
+category: 2018-09-festival
+
+image:
+  feature: 2018-09-02/schedule-events.png
+  teaser : 2018-09-02/main-zww.png
+
+comments: false
+ads: false
+share: true
+---
+
+Zero Waste Week 2018 is here and we have a great line-up of events for you to attend during the week. 
+
+This year, we have teamed up with great eco-conscious stores, venues and events to bring you the flavour of zero waste throughout the week. 
+
+Check out the full schedule on our [Facebook events page] (https://www.facebook.com/pg/ZeroWasteFestivalIreland/events/) {:target='_blank"}.
+
