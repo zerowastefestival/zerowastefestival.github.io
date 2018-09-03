@@ -5,8 +5,8 @@ title: Zero Waste Picnic at Trinity College
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/picnic.png
-  teaser : 2018-09-02/picnic.png
+  feature: 2018-09-02/picnic.jpg
+  teaser : 2018-09-02/picnic.jpg
   
 comments: false
 ads: false
