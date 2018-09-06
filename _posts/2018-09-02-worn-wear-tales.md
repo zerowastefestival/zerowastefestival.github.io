@@ -5,8 +5,8 @@ title: Worn Wear Tales at Patagonia
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/worn-wear-tales.png
-  teaser : 2018-09-02/worn-wear-tales.png
+  feature: 2018-09-02/worn-wear-tales.ipg
+  teaser : 2018-09-02/worn-wear-tales.jpg
   
 comments: false
 ads: false
