@@ -27,7 +27,7 @@ Wednesday is all about REUSE. Come to Bí Urban in Stoneybatter to learn how the
 This is a free event - just pop in and say hi!
 
 ### Friday -Rot- 7th of September at 6pm - Re-Grow 
-The 5th ‘R’ is ROT, which is something that Kaethe (Master Composter) knows all about. Join her for a composting workshop and attend Patricia’s talk on choosing compostable alternatives.
+The 5th ‘R’ is ROT, which is something that Kaethe (Master Composter) knows all about. Join her for a composting workshop and attend Patricia O'Flynn’s talk on choosing compostable alternatives.
 
 ***
 
