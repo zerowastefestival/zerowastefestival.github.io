@@ -5,7 +5,11 @@ title: Worn Wear Tales at Patagonia
 category: 2018-09-festival
 
 image:
+<<<<<<< HEAD
   feature: 2018-09-02/worn-wear-tales.jpg
+=======
+  feature: 2018-09-02/worn-wear-tales.ipg
+>>>>>>> f250c2b9494974c8be1484f98ece7bcae8874015
   teaser : 2018-09-02/worn-wear-tales.jpg
   
 comments: false
@@ -14,9 +18,9 @@ share: true
 ---
 On Thursday 6th of September at 6pm why don't you join for Patagonia Dublin a special evening...Keith and Lauren Malloy are visiting Dublin and will come by the Patagonia store for some Worn Wear tales, beers and good times. 
 
-There will also be a screening of the film [Fishpeople](https://standupjournal.com/featured/fishpeople-patagonia-film/){:target="_blank), directed by Keith and there will be loads of time for some natter after the film. Full programme below. Pop in if you are around!
+There will also be a screening of the film [Fishpeople](https://standupjournal.com/featured/fishpeople-patagonia-film/){:target="_blank"), directed by Keith and there will be loads of time for some natter after the film. Full programme below. Pop in if you are around!
 
-For more info contact [@patagoniadublin](https://www.instagram.com/patagoniadublin/){:target="_blank) on Instagram. 
+For more info contact [@patagoniadublin](https://www.instagram.com/patagoniadublin/){:target="_blank") on Instagram. 
 
 Program:
 Introduction
