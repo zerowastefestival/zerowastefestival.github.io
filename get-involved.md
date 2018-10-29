@@ -1,11 +1,7 @@
 ---
-layout: article
+layout: page
 permalink: /get-involved/
 title: "Get Involved"
-
-ads: true
-comments: false
-share: false
 ---
 
 ### Zero Waste Meetup in Dublin

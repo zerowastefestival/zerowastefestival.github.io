@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste at Festival of Food
 
 category: 2018-06-festival
@@ -8,8 +8,7 @@ image:
   feature: 2018-09-02/fof-zw.png
   teaser : 2018-09-02/fof-zw.png
 
-comments: false
-ads: false
+sidebar: false
 share: true
 ---
 

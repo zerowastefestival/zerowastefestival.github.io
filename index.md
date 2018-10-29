@@ -1,10 +1,6 @@
 ---
-layout: archive
+layout: page
 permalink: /
-
-comments: false
-ads: true
-share: false 
 ---
 
 We are hosting regular pop-up Zero Waste Festivals at various locations in Ireland. Find out more about our upcoming and past events here.

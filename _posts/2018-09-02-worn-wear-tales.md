@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Worn Wear Tales at Patagonia 
 
 category: 2018-09-festival
@@ -7,9 +7,8 @@ category: 2018-09-festival
 image:
   feature: 2018-09-02/worn-wear-tales.jpg
   teaser : 2018-09-02/worn-wear-tales.jpg
-  
-comments: false
-ads: false
+
+sidebar: false
 share: true
 ---
 On Thursday 6th of September at 6pm why don't you join for Patagonia Dublin a special evening...Keith and Lauren Malloy are visiting Dublin and will come by the Patagonia store for some Worn Wear tales, beers and good times. 

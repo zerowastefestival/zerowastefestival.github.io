@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Event Schedule for the Zero Waste Festival released
 
 category: 2018-06-festival
@@ -8,8 +8,7 @@ image:
   feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
   teaser : teasers/2018-06-13.jpg
 
-comments: false
-ads: true
+sidebar: false
 share: true
 ---
 

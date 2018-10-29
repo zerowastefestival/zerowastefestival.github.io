@@ -1,11 +1,7 @@
 ---
-layout: article
+layout: page
 permalink: /privacy/
 title: "Privacy Statement"
-
-ads: false
-comments: false
-share: false
 ---
 
 The privacy of our visitors is extremely important to us and we do not collect, store, or share any personally identifiable information on our website.

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste Festival - Make It Last
 
 category: 2018-06-festival
@@ -8,8 +8,7 @@ image:
   feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
   teaser : teasers/2018-06-festival.png
 
-comments: false
-ads: false
+sidebar: false
 share: true
 ---
 

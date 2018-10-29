@@ -1,11 +1,7 @@
 ---
-layout: archive
+layout: page
 permalink: /2018-06-festival/
 title: "Zero Waste Festival: Make It Last (June 24, 2018)"
-
-ads: false
-comments: false
-share: true
 ---
 
 # "Make It Last" Festival Recap

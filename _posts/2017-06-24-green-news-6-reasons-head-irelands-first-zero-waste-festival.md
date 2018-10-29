@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Green News gives you 6 good reasons to visit the first Zero Waste Festival
 
 category: 2017-06-festival
@@ -8,8 +8,7 @@ image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
   teaser : teasers/2017-06-24.jpg
 
-comments: false
-ads: true
+sidebar: false
 share: true
 ---
 

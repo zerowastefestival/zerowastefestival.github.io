@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste Spring Clean Festival at Good Morning Dublin (Dublin City FM)
 
 category: 2018-02-festival
@@ -8,8 +8,7 @@ image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
   teaser : 2018-02-21/teaser.jpg
 
-comments: true
-ads: true
+sidebar: false
 share: true
 ---
 

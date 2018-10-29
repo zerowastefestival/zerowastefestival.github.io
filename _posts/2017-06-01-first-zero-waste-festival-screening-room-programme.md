@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: First Zero Waste Festival Ireland - Screening Room Programme
 
 category: 2017-06-festival
@@ -8,8 +8,7 @@ image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
   teaser : 2017-06-01/teaser.jpg
 
-comments: true
-ads: true
+sidebar: false
 share: true
 ---
 

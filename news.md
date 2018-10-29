@@ -1,11 +1,7 @@
 ---
-layout: archive
+layout: page
 permalink: /news/
 title: News
-
-comments: false
-ads: true
-share: false
 ---
 
 <div class="tiles">

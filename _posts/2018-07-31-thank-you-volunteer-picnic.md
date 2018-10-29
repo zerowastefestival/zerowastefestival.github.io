@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Thank you volunteer picnic in St. Stephen's Green Park
 
 category: 2018-06-festival
@@ -8,8 +8,7 @@ image:
   feature: features/2018-07-31.jpg
   teaser : teasers/2018-07-31.jpg
 
-comments: false
-ads: false
+sidebar: false
 share: true
 ---
 

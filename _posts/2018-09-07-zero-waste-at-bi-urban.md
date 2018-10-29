@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste Week at Bí Urban
 
 category: 2018-09-festival
@@ -8,8 +8,7 @@ image:
   feature: 2018-09-02/zww-bi-urban.png
   teaser : 2018-09-02/zww-bi-urban.png
 
-comments: false
-ads: false
+sidebar: false
 share: true
 ---
 For the Zero Waste Week 2018, we have also teamed up with [Bí Urban - Equality for All Pollinators](https://www.facebook.com/Lifeline.Soap/){:target="_blank"} in Stoneybatter. 

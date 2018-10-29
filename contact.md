@@ -1,11 +1,7 @@
 ---
-layout: article
+layout: page
 permalink: /contact/
 title: "Contact"
-
-ads: true
-comments: false
-share: false
 ---
 
 Let us know if you need more information about the Zero Waste Festival Ireland.

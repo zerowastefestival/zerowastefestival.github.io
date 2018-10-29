@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste Week 2018 is here!
 
 category: 2018-09-festival
@@ -8,8 +8,7 @@ image:
   feature: 2018-09-02/schedule-of-partners-2.png
   teaser : 2018-09-02/schedule-of-partners-2.png
 
-comments: false
-ads: false
+sidebar: false
 share: true
 ---
 

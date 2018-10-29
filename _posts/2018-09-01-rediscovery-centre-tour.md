@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Rediscovery Centre Tour 
 
 category: 2018-09-festival
@@ -7,9 +7,8 @@ category: 2018-09-festival
 image:
   feature: 2018-09-02/rediscovery-centre-tour.jpg
   teaser : 2018-09-02/rediscovery-centre-tour.jpg
-  
-comments: false
-ads: false
+
+sidebar: false
 share: true
 ---
 The [Rediscovery Centre](http://www.rediscoverycentre.ie/){:target="_blank"} is a creative space connecting people, ideas and resources for greener living in Ireland.

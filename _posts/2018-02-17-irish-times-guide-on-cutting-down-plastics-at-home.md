@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Irish Times - A-Z guide to cutting down on plastics in the home
 
 category: 
@@ -8,8 +8,7 @@ image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
   teaser : 2018-02-17/teaser.jpg
 
-comments: true
-ads: true
+sidebar: false
 share: true
 ---
 

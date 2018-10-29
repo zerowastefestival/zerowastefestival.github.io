@@ -1,11 +1,7 @@
 ---
-layout: article
+layout: page
 permalink: /zero-waste/
 title: "Zero Waste"
-
-ads: true
-comments: false
-share: false
 ---
 
 What is Zero Waste? In the words of the [Zero Waste International Alliance](http://zwia.org/){:target="_blank"}:

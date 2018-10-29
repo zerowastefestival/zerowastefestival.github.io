@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Swap Shop at Patagonia
 
 category: 2018-09-festival
@@ -7,9 +7,8 @@ category: 2018-09-festival
 image:
   feature: 2018-09-02/swap-shop-patagonia.png
   teaser : 2018-09-02/swap-shop-patagonia.png
-  
-comments: false
-ads: false
+
+sidebar: false
 share: true
 ---
 Are you in a need of a wardrobe upgrade for the (almost here) autumn? 

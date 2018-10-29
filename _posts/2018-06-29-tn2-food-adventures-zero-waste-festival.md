@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: TN2 Magazine shares their food adventures at the Zero Waste Make It Last Festival
 
 category: 2018-06-festival
@@ -8,8 +8,7 @@ image:
   #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
   teaser : teasers/2018-06-29.jpg
 
-comments: false
-ads: true
+sidebar: false
 share: true
 ---
 

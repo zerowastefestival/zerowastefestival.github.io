@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Zero Waste Week - Events' Schedule 
 
 category: 2018-09-festival
@@ -7,9 +7,8 @@ category: 2018-09-festival
 image:
   feature: 2018-09-02/schedule-events.png
   teaser : 2018-09-02/schedule-events.png
-  
-comments: false
-ads: false
+
+sidebar: false
 share: true
 ---
 Do you want to check who from your friends is going to these events?

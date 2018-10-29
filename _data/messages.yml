@@ -10,7 +10,3 @@ locales:
     written_by: "Written by"
     updated: "Updated"
     share: "Share on"
-  en_US:
-    <<: *DEFAULT_EN     # use English translation for en_US
-  en_UK:
-    <<: *DEFAULT_EN     # use English translation for en_UK
