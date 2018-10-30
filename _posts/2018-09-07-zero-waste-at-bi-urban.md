@@ -5,8 +5,8 @@ title: Zero Waste Week at Bí Urban
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/zww-bi-urban.png
-  teaser : 2018-09-02/zww-bi-urban.png
+  feature: posts/2018-09-02/zero-waste-bi-urban.png
+  teaser : posts/2018-09-02/teaser-bi-urban.png
 
 sidebar: false
 share: true
