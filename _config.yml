@@ -1,18 +1,58 @@
-# Site wide configuration
+# ============================================================
+# _config.yml
+# 
+# configuration file for site wide settings
+# ============================================================
+
+#---------------------------
+# Site settings
 #---------------------------
 
 title: Zero Waste Festival
-description: "Zero Waste Festival Ireland is a community-led innitiative to bring Zero Waste awareness to Ireland through a series of pop-up festival all over the country."
-
+email: info@zerowastefestival.ie
+description: "Zero Waste Festival Ireland is a community-led initiative to bring Zero Waste awareness to Ireland through a series of pop-up festival all over the country."
 url: https://www.zerowastefestival.ie
 baseurl: ""
-
 locale: en
+logo: logo-square-120.png                  # 120x120 px default image used for Twitter summary card
+teaser: zero-waste-blank-400x250.png       # 400x250 px default teaser image used in image archive grid
+feed:
+  path: feed.xml
 
-logo: logo-square-120.png # 120x120 px default image used for Twitter summary card
-teaser: zero-waste-blank-400x250.png # 400x250 px default teaser image used in image archive grid
 
-# Author info under posts
+#---------------------------
+# Build settings
+#---------------------------
+
+permalink: /:categories/:title/
+include: ['_pages', '.htaccess']
+exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'LICENSE.md', 'README.md', 'Gruntfile.js', 'package.json']
+
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+#---------------------------
+# Style settings
+#---------------------------
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+#---------------------------
+# Markdown settings
+#---------------------------
+
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+
+
+#---------------------------
+# Author settings for posts
 #---------------------------
 
 owner:
@@ -20,51 +60,4 @@ owner:
   email: info@zerowastefestival.ie
   twitter: ZeroWasteFest
   bio: We are a community-run initiative to facilitate zero waste networking, learning, and sharing in Ireland through a series on pop-up festivals including workshops, talks, screenings, and meet-up sessions at various locations.
-  avatar: logo-square-160.png # 160x160 px image for author byline
-
-# Jekyll configuration
-#---------------------------
-
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-
-permalink: /:categories/:title/
-
-feed:
-  path: feed.xml
-
-sass:
-  sass_dir: _sass
-  style: compressed
-  
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
-
-include: ['_pages', '.htaccess']
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+  avatar: logo-square-160.png           # 160x160 px image for author byline
