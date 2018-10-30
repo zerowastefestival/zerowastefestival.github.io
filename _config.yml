@@ -12,19 +12,15 @@ locale: en
 logo: logo-square-120.png # 120x120 px default image used for Twitter summary card
 teaser: zero-waste-blank-400x250.png # 400x250 px default teaser image used in image archive grid
 
-# Site owner
+# Author info under posts
 #---------------------------
 
 owner:
-  name: Zero Waste Festival Ireland # Name that appears below each article/media post
+  name: Zero Waste Festival Ireland 
   email: info@zerowastefestival.ie
   twitter: ZeroWasteFest
-  google:
-    ad-client:
-    ad-slot:
   bio: We are a community-run initiative to facilitate zero waste networking, learning, and sharing in Ireland through a series on pop-up festivals including workshops, talks, screenings, and meet-up sessions at various locations.
   avatar: logo-square-160.png # 160x160 px image for author byline
-  disqus-shortname: zerowastefestival
 
 # Jekyll configuration
 #---------------------------
@@ -34,6 +30,7 @@ kramdown:
 highlighter: rouge
 
 permalink: /:categories/:title/
+include: ["_pages"]
 
 feed:
   path: feed.xml
