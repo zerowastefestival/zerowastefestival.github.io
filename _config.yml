@@ -30,7 +30,7 @@ kramdown:
 highlighter: rouge
 
 permalink: /:categories/:title/
-include: ["_pages"]
+include: ['_pages']
 
 feed:
   path: feed.xml
