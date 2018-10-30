@@ -5,8 +5,8 @@ title: Green Door Market joins the Zero Waste Week
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/Green-Door.png
-  teaser : 2018-09-02/Green-Door.png
+  feature:  posts/2018-09-02/Green-Door.png
+  teaser :  posts/2018-09-02/Green-Door.png
 
 sidebar: false
 share: true

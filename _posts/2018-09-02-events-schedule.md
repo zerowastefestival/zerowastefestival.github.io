@@ -5,8 +5,8 @@ title: Zero Waste Week - Events' Schedule
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/schedule-events.png
-  teaser : 2018-09-02/schedule-events.png
+  feature:  posts/2018-09-02/schedule-events.png
+  teaser :  posts/2018-09-02/schedule-events.png
 
 sidebar: false
 share: true

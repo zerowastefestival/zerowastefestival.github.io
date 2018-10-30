@@ -5,8 +5,8 @@ title: Swap Shop at Patagonia
 category: 2018-09-festival
 
 image:
-  feature: 2018-09-02/swap-shop-patagonia.png
-  teaser : 2018-09-02/swap-shop-patagonia.png
+  feature:  posts/2018-09-02/swap-shop-patagonia.png
+  teaser :  posts/2018-09-02/swap-shop-patagonia.png
 
 sidebar: false
 share: true
