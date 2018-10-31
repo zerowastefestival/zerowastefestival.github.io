@@ -23,7 +23,7 @@ feed:
 #---------------------------
 
 permalink: /:categories/:title/
-include: ['_pages', '.htaccess']
+include: ['_pages', '_events', '.htaccess']
 exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'LICENSE.md', 'README.md', 'Gruntfile.js', 'package.json']
 
 gems:
