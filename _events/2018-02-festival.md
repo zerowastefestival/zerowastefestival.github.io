@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: event
 permalink: /2018-02-festival/
 title: "Zero Waste Festival: Spring Clean (February 25, 2018)"
+image:
+  #feature: 
 ---
 
 A big thank you to all the people who made our Spring Clean Festival a big success. We are excited to see our festival and the interest in the Zero Waste lifestyle grow from festival to festival. A special shout out goes to all the volunteers who contributed with their time and skills and made this festival possible. We hope to see you all again at our next Zero Waste Festival, themed "Make It Last", at the St. Andrews Resource Centre on June 24.
@@ -15,7 +17,7 @@ Coming soon.
 ## Supporters
 
 
-![Logo Small Changes]({{ site.url }}/images/logo-small-changes.jpg "Logo Small Changes"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Logo Small Changes]({{ site.url }}/images/logos-external/logo-small-changes.jpg "Logo Small Changes"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 We thank [**Smallchanges Wholefoods Store**](https://www.facebook.com/smallchangesshop){:target="_blank"} for supporting the Spring Clean Festival. In their shop in the ABC Drumcondra, Dublin 9, they have a large range of eco-friendly and Zero Waste products waiting for you.
 
