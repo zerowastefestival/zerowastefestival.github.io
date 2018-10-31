@@ -5,8 +5,8 @@ title: Call for volunteers
 category: 2018-06-festival
 
 image:
-  feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
-  teaser : teasers/2018-06-10.jpg
+  feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
+  teaser : posts/2018-06-10/teaser.jpg
 
 sidebar: false
 share: true

@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature:  posts/2018-09-02/schedule-events.png
-  teaser :  posts/2018-09-02/schedule-events.png
+  teaser :  posts/2018-09-02/teaser-schedule-events.png
 
 sidebar: false
 share: true

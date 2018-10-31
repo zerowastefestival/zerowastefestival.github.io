@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature:  posts/2018-09-02/Green-Door.png
-  teaser :  posts/2018-09-02/Green-Door.png
+  teaser :  posts/2018-09-02/teaser-green-door-market.png
 
 sidebar: false
 share: true
@@ -15,7 +15,7 @@ Our next partner for the Zero Waste Week is the Green Door Market. They are an i
 
 Tuesday's theme of the week is REDUCE and at the Green Door Market we will be focusing on how to cut down on waste in your kitchen from packaging waste to leftovers.
 
-You will we able to stock up on package free, locally grown and organic fruit and veg from [Nurney Farm](https://www.organicveg.net/organic-farm-shop){:target="_blank"} and loose dry foods from [The Good Crop Company](https://www.facebook.com/thegoodcropco/){:target="_blank") and [Bring Your Own](https://www.facebook.com/bringyourowncontainers/){:target="_blank"}. 
+You will we able to stock up on package free, locally grown and organic fruit and veg from [Nurney Farm](https://www.organicveg.net/organic-farm-shop){:target="_blank"} and loose dry foods from [The Good Crop Company](https://www.facebook.com/thegoodcropco/){:target="_blank"} and [Bring Your Own](https://www.facebook.com/bringyourowncontainers/){:target="_blank"}. 
 
 There will be an info stand to explain why and how to reduce waste.
 
@@ -23,7 +23,7 @@ At 4pm Molly from [Bare Necessities](https://www.facebook.com/BareNecessitiesIre
 
 At 5 pm an interactive talk including jar upcycling introduces the concept of reducing food packaging.
 
-At 6 pm Zdenka from [Coming to Zero](https://comingtozero.com){:target="_blank")} will give you tips and tricks on how to reduce food waste, from sensible buying to using up leftovers.
+At 6 pm Zdenka from [Coming to Zero](https://comingtozero.com){:target="_blank"} will give you tips and tricks on how to reduce food waste, from sensible buying to using up leftovers.
 
 Complimentary tea and coffee will be provided by the Green Door Market, to those who bring their own reusable cup.
 

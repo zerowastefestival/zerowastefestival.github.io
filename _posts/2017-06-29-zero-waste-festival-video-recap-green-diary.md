@@ -5,8 +5,8 @@ title: Zero Waste Festival video recap by The Green Diary
 category: 2018-02-festival
 
 image:
-  #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : teasers/2017-06-29.jpg
+  #feature: 
+  teaser : posts/2017-06-29/teaser.jpg
 
 sidebar: false
 share: true

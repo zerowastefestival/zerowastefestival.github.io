@@ -5,8 +5,8 @@ title: Video Recap of the Zero Waste Make It Last Festival
 category: 2018-02-festival
 
 image:
-  #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : teasers/2018-06-27.jpg
+  #feature: 
+  teaser : posts/2018-06-27/teaser.jpg
 
 sidebar: false
 share: true

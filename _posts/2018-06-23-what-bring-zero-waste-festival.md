@@ -5,8 +5,8 @@ title: What to bring to the Zero Waste Festival
 category: 2018-06-festival
 
 image:
-  feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
-  teaser : teasers/2018-06-23.jpg
+  feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
+  teaser : posts/2018-06-23/teaser.jpg
 
 sidebar: false
 share: true
@@ -21,7 +21,7 @@ We are happy to meet you at the  Zero Waste Festival at the St. Andrews Resource
 
 ## What to bring
 
-![Zero Waste Festival What to Bring]({{ site.baseurl }}/images/2018-06-festival/what-bring-zero-waste-festival.jpg "Zero Waste Festival What to Bring"){:style="float: top;margin-right: 10px;width: 100%;"}
+![Zero Waste Festival What to Bring]({{ site.baseurl }}/images/events/2018-06-festival/what-bring-zero-waste-festival.jpg "Zero Waste Festival What to Bring"){:style="float: top;margin-right: 10px;width: 100%;"}
 
 No need to print your tickets, your name will be at the door, but please remember your ID if you purchased a concession ticket.
 

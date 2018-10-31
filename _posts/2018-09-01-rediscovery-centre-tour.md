@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature:  posts/2018-09-02/rediscovery-centre-tour.jpg
-  teaser :  posts/2018-09-02/rediscovery-centre-tour.jpg
+  teaser :  posts/2018-09-02/teaser-rediscovery-centre-tour.jpg
 
 sidebar: false
 share: true

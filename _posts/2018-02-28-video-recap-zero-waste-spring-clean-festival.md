@@ -5,8 +5,8 @@ title: Video Recap of the Zero Waste Spring Clean Festival
 category: 2018-02-festival
 
 image:
-  #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : 2018-02-28/teaser.jpg
+  #feature: 
+  teaser : posts/2018-02-28/teaser.jpg
 
 sidebar: false
 share: true

@@ -5,8 +5,8 @@ title: Event Schedule for the Zero Waste Festival released
 category: 2018-06-festival
 
 image:
-  feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
-  teaser : teasers/2018-06-13.jpg
+  feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
+  teaser : posts/2018-06-13/teaser.jpg
 
 sidebar: false
 share: true
@@ -22,6 +22,6 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 
 ### Event Schedule
 
-![Zero Waste Festival Event Schedul]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
+![Zero Waste Festival Event Schedule]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
 
 We will post detailed descriptions of the talks/workshops here soon.

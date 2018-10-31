@@ -5,8 +5,8 @@ title: Molly from the Zero Waste Festival at Dublin City FM
 category: 2018-06-festival
 
 image:
-  feature: 2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
-  teaser : teasers/2018-06-21.jpg
+  feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
+  teaser : posts/2018-06-21/teaser.jpg
 
 sidebar: false
 share: true

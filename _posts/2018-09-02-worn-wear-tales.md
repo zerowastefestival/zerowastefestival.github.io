@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature: posts/2018-09-02/worn-wear-tales.jpg
-  teaser : posts/2018-09-02/worn-wear-tales.jpg
+  teaser : posts/2018-09-02/teaser-worn-wear-tales.jpg
 
 sidebar: false
 share: true

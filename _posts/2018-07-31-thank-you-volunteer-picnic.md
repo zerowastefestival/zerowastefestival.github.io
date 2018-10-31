@@ -5,8 +5,8 @@ title: Thank you volunteer picnic in St. Stephen's Green Park
 category: 2018-06-festival
 
 image:
-  feature: features/2018-07-31.jpg
-  teaser : teasers/2018-07-31.jpg
+  feature: posts/2018-07-31/feature-zero-waste-festival-ireland-thank-you.jpg
+  teaser: posts/2018-07-31/teaser-zero-waste-festival-ireland-thank-you.jpg
 
 sidebar: false
 share: true

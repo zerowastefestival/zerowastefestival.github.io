@@ -6,7 +6,7 @@ category: 2018-09-festival
 
 image:
   feature:  posts/2018-09-02/swap-shop-patagonia.png
-  teaser :  posts/2018-09-02/swap-shop-patagonia.png
+  teaser :  posts/2018-09-02/teaser-swap-shop-patagonia.png
 
 sidebar: false
 share: true

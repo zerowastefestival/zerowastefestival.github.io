@@ -5,8 +5,8 @@ title: Programme and Workshops for the Zero Waste Spring Clean Festival
 category: 2018-02-festival
 
 image:
-  #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : 2018-02-10/teaser.jpg
+  #feature: 
+  teaser : posts/2018-02-10/teaser.jpg
 
 sidebar: false
 share: true
@@ -24,5 +24,5 @@ Head over to our [Facebook Event Page](https://www.facebook.com/events/108604253
 
 This event is sponsored by [Smallchanges Wholefoods Store](https://www.facebook.com/smallchangesshop/), who have a large range of eco friendly and Zero Waste products available in their shop.
 
-![Zero Waste Festival Spring Clean Programme]({{ site.url }}/images/2018-02-10/zero-waste-spring-clean-programme.jpg "Zero Waste Festival Spring Clean Programme")
+![Zero Waste Festival Spring Clean Programme]({{ site.url }}/images/posts/2018-02-10/zero-waste-spring-clean-programme.jpg "Zero Waste Festival Spring Clean Programme")
 

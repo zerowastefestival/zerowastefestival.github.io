@@ -5,8 +5,8 @@ title: VOICE Ireland recaps our first Zero Waste Ireland Festival
 category: 2017-06-festival
 
 image:
-  #feature: Zero-Waste-Summer-Festival-2018-banner-1200x600.png
-  teaser : teasers/2017-06-27.jpg
+  #feature: 
+  teaser : posts/2017-06-27/teaser.jpg
 
 sidebar: false
 share: true
