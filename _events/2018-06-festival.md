@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: event
 permalink: /2018-06-festival/
 title: "Zero Waste Festival: Make It Last (June 24, 2018)"
+feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png
 ---
 
 # "Make It Last" Festival Recap
 
 A big thank you to all the people who made our Make It Last Festival a big success. We are excited to see our festival and the interest in the Zero Waste lifestyle grow from festival to festival. A special shout out goes to all the volunteers who contributed with their time and skills and made this festival possible. We hope to see you all again at our next Zero Waste Festival in September. In the meantime, for all the latest updates and news follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
 
-![Zero Waste Festival 2018](/images/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")<br>
 
 
 ## Video
@@ -108,7 +108,7 @@ The venue's ground floor is accessible for wheelchairs and buggies. This is wher
 
 ## What to bring
 
-![Zero Waste Festival What to Bring]({{ site.baseurl }}/images/2018-06-festival/what-bring-zero-waste-festival.jpg "Zero Waste Festival What to Bring"){:style="float: top;margin-right: 10px;width: 100%;"}
+![Zero Waste Festival What to Bring]({{ site.baseurl }}/images/events/2018-06-festival/what-bring-zero-waste-festival.jpg "Zero Waste Festival What to Bring"){:style="float: top;margin-right: 10px;width: 100%;"}
 
 No need to print your tickets, your name will be at the door, but please remember your ID if you purchased a concession ticket.
 
@@ -146,7 +146,7 @@ Bring your own mug, water bottle and lunch box and utensils. You're also welcome
 
 Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, walk-ins, meetups, and swap shops. 
 
-[![Zero Waste Festival Event Schedul]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg){:target="blank"}
+[![Zero Waste Festival Event Schedule]({{ site.baseurl }}/images/events/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}]({{ site.baseurl }}/images/events/2018-06-festival/zero-waste-festival-event-schedule.jpg){:target="blank"}
 
 Click the image to enlarge.
 
