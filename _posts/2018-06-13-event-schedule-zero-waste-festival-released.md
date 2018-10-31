@@ -22,6 +22,6 @@ Tickets are available on [Eventbrite](https://www.eventbrite.ie/e/zero-waste-fes
 
 ### Event Schedule
 
-![Zero Waste Festival Event Schedule]({{ site.baseurl }}/images/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
+![Zero Waste Festival Event Schedule]({{ site.baseurl }}/images/events/2018-06-festival/zero-waste-festival-event-schedule.jpg "Zero Waste Festival Event Schedule"){:style="float: top;margin-right: 10px;width: 100%;"}
 
 We will post detailed descriptions of the talks/workshops here soon.
