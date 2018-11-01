@@ -59,3 +59,11 @@ owner:
   twitter: ZeroWasteFest
   bio: We are a community-run initiative to facilitate zero waste networking, learning, and sharing in Ireland through a series on pop-up festivals including workshops, talks, screenings, and meet-up sessions at various locations.
   avatar: logos-zero-waste-festival/logo-square-160.png
+  
+#---------------------------
+# Social media
+#---------------------------
+  
+facebook_url: https://www.facebook.com/ZeroWasteFestivalIreland
+twitter_url: https://twitter.com/ZeroWasteFest
+instagram_url: https://www.instagram.com/zerowastefestirl
