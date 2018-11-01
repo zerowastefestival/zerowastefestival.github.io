@@ -11,7 +11,7 @@ image:
 sidebar: false
 share: true
 ---
-For the Zero Waste Week 2018, we have also teamed up with [Bí Urban - Equality for All Pollinators](https://www.facebook.com/Lifeline.Soap/){:target="_blank"} in Stoneybatter. 
+For the Zero Waste Week 2018, we have also teamed up with [Bí Urban - Equality for All Pollinators](https://www.facebook.com/Lifeline.Soap/) in Stoneybatter. 
 
 They will host a range of events throughout the week:
 
