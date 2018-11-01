@@ -2,7 +2,7 @@
 layout: post
 title: Irish Times - A-Z guide to cutting down on plastics in the home
 
-category: 
+category: 2018-02-festival
 
 image:
   #feature: 
