@@ -20,10 +20,12 @@ The regular pass will cost 10 EUR.
     <input type="hidden" name="price" value="10" />
     <input type="hidden" name="code" value="ws_pass_regular" />
     <label class="label_left">Select workshops</label>
-	<input type="checkbox" name="Workshop 1" value="1">Workshop 1: Playing with number<br>
-	<input type="checkbox" name="Workshop 2" value="1">Workshop 2: Fun with flags<br>
-	<input type="checkbox" name="Workshop 3" value="1">Workshop 3: Counting with Count Count<br>
-	<input type="checkbox" name="Workshop 4" value="1">Workshop 4: Traditional Siberian hypnotic dancing<br><br>
+	<input type="checkbox" name="Workshop 1" value="yes">Workshop 1: Playing with number<br>
+	<input type="checkbox" name="Workshop 2" value="yes">Workshop 2: Fun with flags<br>
+	<input type="checkbox" name="Workshop 3" value="yes">Workshop 3: Counting with Count Count<br>
+	<input type="checkbox" name="Workshop 4" value="yes">Workshop 4: Traditional Siberian hypnotic dancing<br><br>
+	<label class="label_left">Please provide us with the name/names of the ticket holder/holders:</label>
+	<input type="text" name="Name" style="width: 200px;"><br>	
   <input type="submit" value="Buy a regular workshop pass: 10 EUR" class="submit" />
   </form>
 </div>
@@ -38,10 +40,12 @@ The concession pass will cost 8 EUR.
     <input type="hidden" name="price" value="8" />
     <input type="hidden" name="code" value="ws_pass_concession" />
     <label class="label_left">Select workshops</label>
-	<input type="checkbox" name="Workshop 1" value="1">Workshop 1: Playing with number<br>
-	<input type="checkbox" name="Workshop 2" value="1">Workshop 2: Fun with flags<br>
-	<input type="checkbox" name="Workshop 3" value="1">Workshop 3: Counting with Count Count<br>
-	<input type="checkbox" name="Workshop 4" value="1">Workshop 4: Traditional Siberian hypnotic dancing<br><br>	
+	<input type="checkbox" name="Workshop 1" value="yes">Workshop 1: Playing with number<br>
+	<input type="checkbox" name="Workshop 2" value="yes">Workshop 2: Fun with flags<br>
+	<input type="checkbox" name="Workshop 3" value="yes">Workshop 3: Counting with Count Count<br>
+	<input type="checkbox" name="Workshop 4" value="yes">Workshop 4: Traditional Siberian hypnotic dancing<br><br>
+	<label class="label_left">Please provide us with the name/names of the ticket holder/holders:</label>
+	<input type="text" name="Name" style="width: 200px;"><br>	
   <input type="submit" value="Buy a concession workshop pass: 8 EUR" class="submit" />
   </form>
 </div>
@@ -55,6 +59,8 @@ The tree planting with Santa will cost 3 EUR per child.
     <input type="hidden" name="name" value="Tree planting with Santa" />
     <input type="hidden" name="price" value="3" />
     <input type="hidden" name="code" value="ws_pass_santa" />
+	<label class="label_left">Name/names of the child/children:</label>
+	<input type="text" name="Name" style="width: 200px;"><br>
   <input type="submit" value="Buy a tree planting pass: 3 EUR" class="submit" />
   </form>
 </div>
