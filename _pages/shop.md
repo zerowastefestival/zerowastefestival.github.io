@@ -35,7 +35,7 @@ The concession pass will cost 8 EUR.
 <div>
   <form action="https://zwf.foxycart.com/cart" method="post" accept-charset="utf-8">  
     <input type="hidden" name="name" value="Workshop pass (concession)" />
-    <input type="hidden" name="price" value="10" />
+    <input type="hidden" name="price" value="8" />
     <input type="hidden" name="code" value="ws_pass_concession" />
     <label class="label_left">Select workshops</label>
 	<input type="checkbox" name="Workshop 1" value="1">Workshop 1: Playing with number<br>
