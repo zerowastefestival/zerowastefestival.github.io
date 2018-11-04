@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /shop/
-title: "Shop"
+permalink: /tickets/
+title: "Tickets"
 ---
 
 ## Buy your workshop pass here
@@ -15,7 +15,7 @@ If you like to visit any of our workshops and talks, then you need to buy a Work
 The regular pass will cost 10 EUR.
 
 <div>
-  <form action="https://zwf.foxycart.com/cart" method="post" accept-charset="utf-8">  
+  <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
     <input type="hidden" name="name" value="Workshop pass (regular)" />
     <input type="hidden" name="price" value="10" />
     <input type="hidden" name="code" value="ws_pass_regular" />
@@ -35,7 +35,7 @@ The regular pass will cost 10 EUR.
 The concession pass will cost 8 EUR.
 
 <div>
-  <form action="https://zwf.foxycart.com/cart" method="post" accept-charset="utf-8">  
+  <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
     <input type="hidden" name="name" value="Workshop pass (concession)" />
     <input type="hidden" name="price" value="8" />
     <input type="hidden" name="code" value="ws_pass_concession" />
@@ -55,7 +55,7 @@ The concession pass will cost 8 EUR.
 The tree planting with Santa will cost 3 EUR per child.
 
 <div>
-  <form action="https://zwf.foxycart.com/cart" method="post" accept-charset="utf-8">  
+  <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
     <input type="hidden" name="name" value="Tree planting with Santa" />
     <input type="hidden" name="price" value="3" />
     <input type="hidden" name="code" value="ws_pass_santa" />
@@ -64,3 +64,23 @@ The tree planting with Santa will cost 3 EUR per child.
   <input type="submit" value="Buy a tree planting pass: 3 EUR" class="submit" />
   </form>
 </div>
+
+### test purchase
+
+
+<div>
+  <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
+    <input type="hidden" name="name" value="Test purchase" />
+    <input type="hidden" name="price" value="0.10" />
+    <input type="hidden" name="code" value="ws_test" />
+	<label class="label_left">Name:</label>
+	<input type="text" name="Name" style="width: 200px;"><br>
+  <input type="submit" value="Test: 0.10 EUR" class="submit" />
+  </form>
+</div>
+ 
+<br> zerowastefestival
+<a href="https://zerowastefestival.foxycart.com/cart?cart=view">View cart: items (<span data-fc-id="minicart-quantity">0</span>)</a><br>
+ 
+<br> zwf
+<a href="https://zwf.foxycart.com/cart?cart=view">View cart: items (<span data-fc-id="minicart-quantity">0</span>)</a><br>
