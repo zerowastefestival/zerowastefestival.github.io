@@ -64,6 +64,14 @@ The tree planting with Santa will cost 3 EUR per child.
   <input type="submit" value="Buy a tree planting pass: 3 EUR" class="submit" />
   </form>
 </div>
- 
-<br>
-<a href="https://zerowastefestival.foxycart.com/cart?cart=view">View cart: items (<span data-fc-id="minicart-quantity">0</span>)</a><br>
+
+<p data-fc-id="minicart" style="display:none;">
+	<a href="https://zerowastefestival.foxycart.com/cart?cart=view">
+	    View order summary:<br>
+		<span data-fc-id="minicart-quantity">0</span>
+		<span data-fc-id="minicart-singular"> item </span>
+		<span data-fc-id="minicart-plural"> items </span>
+		in cart. Total cost: EUR
+		<span data-fc-id="minicart-order-total">0</span>
+	</a>
+</p>
