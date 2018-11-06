@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /terms-and-conditions/
-title: "Terms and conditions"
+title: "Terms and Conditions"
 ---
 
-The Zero Waste Festival is a free event brought to you buy a group of dedicated volunteers and offers a wide range of market stalls and info stands to start or continue your Zero Waste journey. However, we still have to pay for venue rental, equipment hire, speakers, and event insurance in order to bring you the best possible experience during our festival. While we keep the Zero Waste market free for everyone, we will ask you to purchase a workshop pass for the day of the event if you would like to visit any of our Zero Waste themed talks and workshops.
-
+A workshop pass entitles you to entry into any number of workshops/talks on the day, but please note that pre-sign up is available and some events may reach capacity. 
+You will also be asked to vacate the room between events so that the set up can be reorganised.
+We do not have the facility to process refunds, but you are welcome to pass tickets on to other people if you are unable to attend.
 
 {% include toc.html %}
 
