@@ -4,7 +4,7 @@ permalink: /terms-and-conditions/
 title: "Terms and Conditions"
 ---
 
-A workshop pass entitles you to entry into any number of workshops/talks on the day, but please note that pre-sign up is available and some events may reach capacity. 
+A talks and workshop pass entitles you to entry into any number of workshops/talks on the day, but please note that pre-sign up is available and some events may reach capacity. 
 You will also be asked to vacate the room between events so that the set up can be reorganised.
 We do not have the facility to process refunds, but you are welcome to pass tickets on to other people if you are unable to attend.
 
@@ -12,7 +12,7 @@ We do not have the facility to process refunds, but you are welcome to pass tick
 
 ## Ticket types
 
-Please do not print your tickets/workshop passes as we will only need your name/email address and ticket number to confirm your ticket on the day. You can either show us your confirmation email directly on your phone/tablet or write down your ticket number with old school pen and paper. That will be enough. 
+Please do not print your passes as we will only need your name/email address and ticket number to confirm your ticket on the day. You can either show us your confirmation email directly on your phone/tablet or write down your ticket number with old school pen and paper. That will be enough. 
 
 ### Standard Workshop Pass
 
