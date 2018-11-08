@@ -19,13 +19,51 @@ The regular pass will cost 10 EUR.
     <input type="hidden" name="name" value="Workshop pass (regular)" />
     <input type="hidden" name="price" value="10" />
     <input type="hidden" name="code" value="ws_pass_regular" />
-    <label class="label_left">Select workshops</label>
-	<input type="checkbox" name="Workshop 1" value="yes">Workshop 1: Playing with number<br>
-	<input type="checkbox" name="Workshop 2" value="yes">Workshop 2: Fun with flags<br>
-	<input type="checkbox" name="Workshop 3" value="yes">Workshop 3: Counting with Count Count<br>
-	<input type="checkbox" name="Workshop 4" value="yes">Workshop 4: Traditional Siberian hypnotic dancing<br><br>
+	
 	<label class="label_left">Please provide us with the name/names of the ticket holder/holders:</label>
-	<input type="text" name="Name" style="width: 200px;"><br>	
+	<input type="text" name="Name" style="width: 200px;" required><br>	
+	
+    <label class="label_left">Select workshops</label>	
+	<table>
+	 <tr>
+	   <th>Time</th>
+	   <th>Workshops</th>
+	   <th>Talks</th>
+	   <th>none</th>
+	 </tr>
+	 <tr>
+	 <td>11 am</td>
+	 <td><input type="radio" name="11 am" value="Workshop" required>Workshop</td>
+	 <td><input type="radio" name="11 am" value="Talk">Talk</td>
+	 <td><input type="radio" name="11 am" value="none">none</td>
+	 </tr>
+	 <tr>
+	 <td>12 noon</td>
+	 <td><input type="radio" name="12 pm" value="Workshop" required>Workshop</td>
+	 <td><input type="radio" name="12 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="12 pm" value="none">none</td>
+	 </tr>
+	 <tr>
+	 <td>1 pm</td>
+	 <td><input type="radio" name="1 pm" value="Workshop" required>Workshop</td>
+	 <td><input type="radio" name="1 pm" value="Talk">Talk</td>	 
+	 <td><input type="radio" name="1 pm" value="none">none</td>
+	 </tr>
+	 <tr>
+	 <td>2 pm</td>
+	 <td><input type="radio" name="2 pm" value="Workshop" required>Workshop</td>
+	 <td><input type="radio" name="2 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="2 pm" value="none">none</td>
+	 </tr>
+	 <tr>
+	 <td>3 pm</td>
+	 <td><input type="radio" name="3 pm" value="Workshop" required>Workshop</td>
+	 <td><input type="radio" name="3 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="3 pm" value="none">none</td>
+	 </tr>
+	</table>
+	
+	<br>
   <input type="submit" value="Buy a regular workshop pass: 10 EUR" class="submit" />
   </form>
 </div>
