@@ -155,7 +155,7 @@ If you like for your child to participate in our Planting Trees with Santa activ
     <input type="hidden" name="code" value="tree_planting" />
 	<label class="label_left">Please provide us with the full name of the ticket holder:</label>
 	<input type="text" name="Name" style="width: 200px;" required><br>
-  <input type="submit" value="Buy a tree planting pass: 3 EUR" class="submit" />
+  <input type="submit" value="Add to cart" class="submit" />
   </form>
 </div>
 
