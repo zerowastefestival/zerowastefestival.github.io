@@ -25,7 +25,7 @@ If you would like to visit any of our workshops and talks on the day, you can si
 
 The Standard Workshop Pass allows you to pre-book the workshops/talks you would like to visit. Please provide your name and selection of workshops/talks below to secure a spot in the workshop/talk. There will only be a limited number of spots available for any given workshop/talk, so what's gone is gone. 
 
-If you would like to buy tickets for more than one person, please provide a new name and workshop/talk selection before adding the ticket.
+If you would like to buy tickets for more than one person, please add your first ticket to the cart and then provide a new name and workshop/talk selection before adding the next ticket to the cart.
 
 <div>
   <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
@@ -86,7 +86,7 @@ If you would like to buy tickets for more than one person, please provide a new 
 
 The Concession Workshop Pass allows you to pre-book the workshops/talks you would like to visit. Please provide your name and selection of workshops/talks below to secure a spot in the workshop/talk. There will only be a limited number of spots available for any given workshop/talk, so what's gone is gone. 
 
-If you would like to buy tickets for more than one person, please provide a new name and workshop/talk selection before adding the ticket.
+If you would like to buy tickets for more than one person, please add your first ticket to the cart and then provide a new name and workshop/talk selection before adding the next ticket to the cart.
 
 Note, that concession tickets are available only for students, pensioners, and persons with disabilities –- you will need to present a valid student ID/travel pass/primary medical certificate in your name on the day to avail of the offer.
 
@@ -147,6 +147,8 @@ Note, that concession tickets are available only for students, pensioners, and p
 ## Planting Trees with Santa (3 EUR)
 
 If you like for your child to participate in our Planting Trees with Santa activity, then purchase a pass below. This will help us cover the costs for providing you with a Zero--Waste--friendly Christmas Tree planting experience and your child can take it's newly planted tree and decorated pot home, too.
+
+If you would like to buy tickets for more than one child, please add the first ticket to the cart and then provide a new name before adding the next ticket to the cart.
 
 <div>
   <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
