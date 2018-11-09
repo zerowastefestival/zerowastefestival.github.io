@@ -8,7 +8,7 @@ image:
   feature:  posts/2018-09-02/Green-Door.png
   teaser :  posts/2018-09-02/teaser-green-door-market.png
 
-sidebar: false
+sidebar: true
 share: true
 ---
 Our next partner for the Zero Waste Week is the Green Door Market. They are an indoor food market located in Unit 1a Bluebell Business Park, Old Naas Road, Dublin 12. Their mission is to bring top quality food in an inviting space where customers can enjoy a convivial market experience and meet the people who produce their food. 

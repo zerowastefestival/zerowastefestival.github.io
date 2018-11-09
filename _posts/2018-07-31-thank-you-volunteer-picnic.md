@@ -8,7 +8,7 @@ image:
   feature: posts/2018-07-31/feature-zero-waste-festival-ireland-thank-you.jpg
   teaser: posts/2018-07-31/teaser-zero-waste-festival-ireland-thank-you.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

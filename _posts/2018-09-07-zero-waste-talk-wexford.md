@@ -8,7 +8,7 @@ image:
   feature: posts/2018-09-02/zero-waste-wexford.png
   teaser : posts/2018-09-02/teaser-wexford.png
 
-sidebar: false
+sidebar: true
 share: true
 ---
 If you live around Wexford, your zero waste journey may have begun at [Only Natural](http://www.onlynatural.ie/){:target="_blank"} and they are doing their best to make zero waste more accessible for everyone. 

@@ -8,7 +8,7 @@ image:
   feature:  posts/2018-09-02/schedule-events.png
   teaser :  posts/2018-09-02/teaser-schedule-events.png
 
-sidebar: false
+sidebar: true
 share: true
 ---
 Do you want to check who from your friends is going to these events?

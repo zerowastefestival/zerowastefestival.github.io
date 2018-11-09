@@ -2,13 +2,13 @@
 layout: post
 title: Call for volunteers
 
-category: 2018-06-festival
+category: 2018-12-festival
 
 image:
   #feature: 
   teaser : posts/2018-11-05/teaser.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

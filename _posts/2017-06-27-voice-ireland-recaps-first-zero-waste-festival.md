@@ -8,7 +8,7 @@ image:
   #feature: 
   teaser : posts/2017-06-27/teaser.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

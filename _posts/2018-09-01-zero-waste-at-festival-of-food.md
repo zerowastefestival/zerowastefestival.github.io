@@ -8,7 +8,7 @@ image:
   feature:  posts/2018-09-02/fof-zw.png
   teaser :  posts/2018-09-02/teaser-fof-zw.png
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

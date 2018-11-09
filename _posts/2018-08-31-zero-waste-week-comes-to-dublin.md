@@ -8,7 +8,7 @@ image:
   feature:  posts/2018-09-02/schedule-of-partners-2.png
   teaser :  posts/2018-09-02/teaser-schedule-of-partners.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

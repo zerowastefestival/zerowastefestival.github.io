@@ -8,7 +8,7 @@ image:
   feature: posts/2018-06-01/2018-06-summer-festival-front-page-logo-1200x375.png
   teaser : posts/2018-06-01/teaser.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 
