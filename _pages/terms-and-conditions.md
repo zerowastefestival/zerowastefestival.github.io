@@ -4,7 +4,7 @@ permalink: /terms-and-conditions/
 title: "Terms and Conditions"
 ---
 
-A talks and workshop pass entitles you to entry into any number of workshops/talks on the day, but please note that pre-sign up is available and some events may reach capacity. 
+A talks and workshop pass entitles you to entry into any number of workshops/talks on the day, but please note that pre-sign up is available and some events may reach capacity.
 You will also be asked to vacate the room between events so that the set up can be reorganised.
 We do not have the facility to process refunds, but you are welcome to pass tickets on to other people if you are unable to attend.
 
