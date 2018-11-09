@@ -12,7 +12,7 @@ sidebar: true
 share: true
 ---
 
-We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival on December 2nd at the Green Doork Market in Bluebell, Dublin.
+We are currently looking for volunteers helping us to organise the upcoming Zero Waste Festival on December 2nd at the Green Door Market in Bluebell, Dublin.
 
 We need you! Do you want to help the festival but don't have lots of time? 
  
