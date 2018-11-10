@@ -47,32 +47,32 @@ If you would like to buy tickets for more than one person, please add your first
 	 <tr>
 	 <td>11 am</td>
 	 <td><input type="radio" name="11 am" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="11 am" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="11 am" value="Talk">Talk</td>
+	 <td><input type="radio" name="11 am" value="Workshop">Impress Your Mother-In-Law</td>
+	 <td><input type="radio" name="11 am" value="Talk">Zero Waste 101: Kiddie Edition</td>
 	 </tr>
 	 <tr>
 	 <td>12 noon</td>
-	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="12 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="12 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>none</td>	
+	 <td><input type="radio" name="12 pm" value="Workshop">Party nibbles</td>
+	 <td><input type="radio" name="12 pm" value="Talk">Wrapping/decorating</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="1 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="1 pm" value="Talk">Talk</td>	 
+	 <td><input type="radio" name="1 pm" value="Workshop">Crochet Cuteness</td>
+	 <td><input type="radio" name="1 pm" value="Talk">Pre-Christmas decluttering </td>	 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="2 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="2 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="2 pm" value="Workshop">Edible gifts</td>
+	 <td><input type="radio" name="2 pm" value="Talk">Gifting experiences</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
 	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="3 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="3 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="3 pm" value="Workshop">Bath and beyond stocking fillers</td>
+	 <td><input type="radio" name="3 pm" value="Talk">Buy to last</td>
 	 </tr>
 	</table>
 	
@@ -110,32 +110,32 @@ Note, that concession tickets are available only for students, pensioners, and p
 	 <tr>
 	 <td>11 am</td>
 	 <td><input type="radio" name="11 am" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="11 am" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="11 am" value="Talk">Talk</td>
+	 <td><input type="radio" name="11 am" value="Workshop">Impress Your Mother-In-Law</td>
+	 <td><input type="radio" name="11 am" value="Talk">Zero Waste 101: Kiddie Edition</td>
 	 </tr>
 	 <tr>
 	 <td>12 noon</td>
-	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="12 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="12 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>none</td>	
+	 <td><input type="radio" name="12 pm" value="Workshop">Party nibbles</td>
+	 <td><input type="radio" name="12 pm" value="Talk">Wrapping/decorating</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="1 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="1 pm" value="Talk">Talk</td>	 
+	 <td><input type="radio" name="1 pm" value="Workshop">Crochet Cuteness</td>
+	 <td><input type="radio" name="1 pm" value="Talk">Pre-Christmas decluttering </td>	 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="2 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="2 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="2 pm" value="Workshop">Edible gifts</td>
+	 <td><input type="radio" name="2 pm" value="Talk">Gifting experiences</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
 	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>none</td>
-	 <td><input type="radio" name="3 pm" value="Workshop">Workshop</td>
-	 <td><input type="radio" name="3 pm" value="Talk">Talk</td>
+	 <td><input type="radio" name="3 pm" value="Workshop">Bath and beyond stocking fillers</td>
+	 <td><input type="radio" name="3 pm" value="Talk">Buy to last</td>
 	 </tr>
 	</table>
 	
@@ -161,6 +161,25 @@ If you would like to buy tickets for more than one child, please add the first t
   </form>
 </div>
 
+
+## Support the Zero Waste Festival
+
+The Zero Waste Festival is a nonprofit festival run solely by volunteers. However, to bring the festival and workshops to attractive locations close to you, we have to rent premises, arrange for insurance, pay for our website hosting, and reimburse our speakers and workshop leaders. That's why we have to ask a small charge from our workshop participants --- but be assured that we try to keep the prices as low as possible and some workshops might offer you something to taste or take home in exchange. 
+
+If you would like to support the Zero Waste Festival and help us grow, then consider adding a few bobs to your ticket order below or show us your love even if you're not interested in buying a ticket for now. We promise to give a big thank you shout out to all the lovely people helping us out here on our website and social media. If you would like to become a sponsor or partner of the festival and help to offset some of the costs, do not hesitate to get in [contact](/get-involved) with us.
+
+<div>
+  <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
+    <input type="hidden" name="name" value="Support the Zero Waste Festival" />
+    <input type="hidden" name="code" value="donation" />
+	<label class="label_left">Please tell us your name if you would like a shout out on our website and social media:</label>
+	<input type="text" name="Name" style="width: 200px;"><br>	
+	<label class="label_left">Please enter the amount in EUR below:</label>
+    <input type="number" name="price" style="width: 100px;" pattern= "[0-9]" value="25" min="1" required/><br>
+  <input type="submit" value="Support the Zero Waste Festival" class="submit" />
+  </form>
+</div>
+
 <p data-fc-id="minicart" style="display:none;">
 	<a href="https://zerowastefestival.foxycart.com/cart?cart=view">
 	    View order summary:<br>
@@ -171,3 +190,6 @@ If you would like to buy tickets for more than one child, please add the first t
 		<span data-fc-id="minicart-order-total">0</span>
 	</a>
 </p>
+
+
+
