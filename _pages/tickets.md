@@ -54,7 +54,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <td>12 noon</td>
 	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Fest *</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
-	 <td><input type="radio" name="12 pm" value="Room 2">Wrapping/Decorating</td>
+	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
@@ -119,7 +119,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <td>12 noon</td>
 	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Fest *</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
-	 <td><input type="radio" name="12 pm" value="Room 2">Wrapping/Decorating</td>
+	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
