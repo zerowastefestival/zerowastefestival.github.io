@@ -47,8 +47,8 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>11 am</td>
 	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Fest *</td>
-	 <td><input type="radio" name="11 am" value="Workshop">Impress Your Mother-In-Law</td>
-	 <td><input type="radio" name="11 am" value="Talk">Zero Waste with Kids</td>
+	 <td><input type="radio" name="11 am" value="Room 1">Impress Your Mother-In-Law</td>
+	 <td><input type="radio" name="11 am" value="Room 2">Zero Waste with Kids</td>
 	 </tr>
 	 <tr>
 	 <td>12 noon</td>
@@ -112,8 +112,8 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>11 am</td>
 	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Fest *</td>
-	 <td><input type="radio" name="11 am" value="Workshop">Impress Your Mother-In-Law</td>
-	 <td><input type="radio" name="11 am" value="Talk">Zero Waste with Kids</td>
+	 <td><input type="radio" name="11 am" value="Room 1">Impress Your Mother-In-Law</td>
+	 <td><input type="radio" name="11 am" value="Room 2">Zero Waste with Kids</td>
 	 </tr>
 	 <tr>
 	 <td>12 noon</td>
