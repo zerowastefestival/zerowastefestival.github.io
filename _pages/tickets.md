@@ -40,9 +40,9 @@ If you would like to buy passes for more than one person, please add your first 
 	<table>
 	 <tr>
 	   <th>Time</th>
-	   <th></th>
 	   <th>Room 1</th>
 	   <th>Room 2</th>
+	   <th></th>
 	 </tr>
 	 <tr>
 	 <td>11 am</td>
@@ -105,9 +105,9 @@ If you would like to buy passes for more than one person, please add your first 
 	<table>
 	 <tr>
 	   <th>Time</th>
-	   <th></th>
 	   <th>Room 1</th>
 	   <th>Room 2</th>
+	   <th></th>
 	 </tr>
 	 <tr>
 	 <td>11 am</td>
