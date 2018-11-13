@@ -4,41 +4,40 @@ permalink: /test/
 title: Form input test
 ---
 
+<form id="myForm" action="https://script.google.com/macros/s/AKfycbx019k6ZlMFWFtmq3EdQiFj7nKiHMBbpmXk3UG9GPsJc0tTaBoR/exec">
+    First Name:<br>
+    <input type="text" name="firstname" style="width:200px" required><br>
+    Last Name:<br>
+    <input type="text" name="lastname" style="width:200px" required><br>
+    <br>
+    <input type="submit" id="mySubmit" value="Reserve your spot">
+</form>
 
+<p>Please press the 'Reserve your spot' button and wait for your reference number to appear below:<br>
+<span id="myConf"></span></p>
 
-<script src="https://wzrd.in/standalone/formdata-polyfill"></script>
-<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
-<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
-<script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbwrTTPvPGwBsk4K2nXX0EdP8ryai_FAKf03AxlFkal410pcTJw-/exec'
-  const form = document.forms['submit-to-google-sheet']
-
-  form.addEventListener('submit', e => {
-    e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response => console.log('Success!', response))
-      .catch(error => console.error('Error!', error.message))
-  })
+<script type="text/javascript">
+$(document).ready(function(){
+    // References:
+    var $form = $('#myForm');
+    var $conf = $('#myConf');
+    var $subm = $('#mySubmit');	
+    var $impt = $form.find(':input').not(':button, :submit, :reset, :hidden');
+ // Submit function:
+    $form.submit(function(){
+        $.post($(this).attr('action'), $(this).serialize(), function(response){
+      // On success, clear all inputs;
+            $impt.val('').attr('value','').removeAttr('checked').removeAttr('selected');
+   // Write a confirmation message:
+            $conf.html("You're in! Your reference number is ZW1812WS1 in combination with your full name. Please refresh this page to book another spot.");			
+            alert("You're in! Your reference number is ZW1812WS1 in combination with your full name. Please refresh this page to book another spot.");
+   // Disable the submit button:
+            $subm.prop('disabled', true);
+        },'json');
+        return false;
+    });
+});
 </script>
 
-dssdkl
-
-
-<form id="test-form">
-  
-  <div>
-    <label>Name</label>
-    <input type="text" name="name" style="width: 200px;" required><br>
-  </div>
-
-  <div>
-    <label>Field 2</label>
-    <input type="checkbox" name="workshop" value="yes" required> workshop XYZ<br>
-  </div>
-  
-  <div>
-    <button type="submit">Book your spot</button>
-  </div>
-
-</form>
