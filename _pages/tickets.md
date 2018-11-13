@@ -6,7 +6,7 @@ title: "Buy Your Talk and Workshop Passes Here"
 
 Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. 
 
-If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes below. A separate ticket will be required for each child for the [Tree Planting With Santa](#planting-trees-with-santa-3-eur).
+If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes below. A separate ticket will be required for each child for the [Tree-planting With Santa](#tree-planting-with-santa-3-eur).
 
 <p data-fc-id="minicart" style="display:none;">
 	<a href="https://zerowastefestival.foxycart.com/cart?cart=view">
@@ -21,15 +21,15 @@ If you would like to attend our workshops and talks on the mezzanine level in Ro
 
 {% include toc.html %}
 
-## Standard Workshop/Talk Pass (10 EUR)
+## Standard Talk/Workshop Pass (10 EUR)
 
-The Standard Workshop/Talk Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended.
+The Standard Talk/Workshop Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended. In the table below, you can specify which talks and workshops you would like to attend - please choose between a talk, a workshop or "Rest of the Festival" if you would like to browse around the market, info stalls, meet-ups and swap shops during this time.
 
 If you would like to buy passes for more than one person, please add your first pass to the cart and then provide a new name and selection before adding the next pass to the cart.
 
 <div>
   <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
-    <input type="hidden" name="name" value="Standard Workshop/Talk Pass" />
+    <input type="hidden" name="name" value="Standard Talk/Workshop Pass" />
     <input type="hidden" name="price" value="10" />
     <input type="hidden" name="code" value="standard_pass" />
 	
@@ -46,33 +46,33 @@ If you would like to buy passes for more than one person, please add your first 
 	 </tr>
 	 <tr>
 	 <td>11 am</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="11 am" value="Room 1">Impress Your Mother-In-Law</td>
 	 <td><input type="radio" name="11 am" value="Room 2">Zero Waste with Kids</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
-	 <td>12 noon</td>
-	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Fest *</td>	
+	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
 	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
-	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
-	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering </td>	 
+	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering </td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>	 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
-	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
 	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
-	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="3 pm" value="Room 1">Bath and Beyond: Stocking Fillers</td>
 	 <td><input type="radio" name="3 pm" value="Room 2">Buy to Last</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	</table>
 	<br>
@@ -84,17 +84,17 @@ If you would like to buy passes for more than one person, please add your first 
 </div>
 
 
-## Concession Workshop/Talk Pass (8 EUR)
+## Concession Talk/Workshop Pass (8 EUR)
 
 Note, that concession tickets are available only for students, pensioners, and persons with disabilities – you will need to present a valid student ID/travel pass/primary medical certificate in your name on the day to avail of the concession pass.
 
-The Concession Workshop/Talk Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended.
+The Concession Talk/Workshop Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended. In the table below, you can specify which talks and workshops you would like to attend - please choose between a talk, a workshop or "Rest of the Festival" if you would like to browse around the market, info stalls, meet-ups and swap shops during this time.
 
 If you would like to buy passes for more than one person, please add your first pass to the cart and then provide a new name and selection before adding the next pass to the cart.
 
 <div>
   <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
-    <input type="hidden" name="name" value="Concession Workshop/Talk Pass " />
+    <input type="hidden" name="name" value="Concession Talk/Workshop Pass " />
     <input type="hidden" name="price" value="8" />
     <input type="hidden" name="code" value="concession_pass" />
 	
@@ -111,33 +111,33 @@ If you would like to buy passes for more than one person, please add your first 
 	 </tr>
 	 <tr>
 	 <td>11 am</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="11 am" value="Room 1">Impress Your Mother-In-Law</td>
 	 <td><input type="radio" name="11 am" value="Room 2">Zero Waste with Kids</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
-	 <td>12 noon</td>
-	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Fest *</td>	
+	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
 	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
-	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
-	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering </td>	 
+	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering</td>	
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td> 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
-	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
 	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
-	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>Rest of Fest *</td>
 	 <td><input type="radio" name="3 pm" value="Room 1">Bath and Beyond: Stocking Fillers</td>
 	 <td><input type="radio" name="3 pm" value="Room 2">Buy to Last</td>
+	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	</table>
 	<br>
@@ -148,7 +148,7 @@ If you would like to buy passes for more than one person, please add your first 
   </form>
 </div>
 
-## Planting Trees with Santa (3 EUR)
+## Tree-planting with Santa (3 EUR)
 
 A more environmentally friendly Santa experience: Chat with Santa, plant a tree together and take it home in an eco-friendly pot.
 
@@ -156,7 +156,7 @@ If you would like to buy passes for more than one child, please provide the name
 
 <div>
   <form action="https://zerowastefestival.foxycart.com/cart" method="post" accept-charset="utf-8">  
-    <input type="hidden" name="name" value="Planting Trees with Santa" />
+    <input type="hidden" name="name" value="Tree-planting with Santa" />
     <input type="hidden" name="price" value="3" />
     <input type="hidden" name="code" value="tree_planting" />
 	<label class="label_left">Please provide us with the full name of the ticket holder:</label>

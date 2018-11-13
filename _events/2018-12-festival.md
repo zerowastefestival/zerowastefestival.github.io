@@ -10,11 +10,11 @@ image:
 
 The Zero Waste Festival is back! The next festival takes place 10 am to 5 pm on Sunday 2nd December at the [Green Door Market in Bluebell Business Park, Dublin 12](#venue). With this year's Christmas-themed festival in December, we will bring you a one-day festival with market, swap-shops, info stands, meet-ups, talks, and workshops all dedicated to helping you reduce your waste this Christmas.
 
-Christmas can be a difficult time to keep your bins empty and your recycling pile small, but during this day-long event you will get tips on cutting down on waste from food and packaging, gifts and wrapping, decorations and festive dressing and even pre-Christmas cleaning! From making better choices of materials to reusing and upcycling what is already created, there will be something to be learned for everyone, no matter where you are on your journey. For your first foray into Zero Waste, stop by our info-stand for a quick primer or sign up for a talks&workshops pass for more insight.
+Christmas can be a difficult time to keep your bins empty and your recycling pile small, but during this day-long event you will get tips on cutting down on waste from food and packaging, gifts and wrapping, decorations and festive dressing and even pre-Christmas cleaning! From making better choices of materials to reusing and upcycling what is already created, there will be something to be learned for everyone, no matter where you are on your journey. For your first foray into Zero Waste, stop by our info-stand for a quick primer or sign up for a Talk/Workshop Pass for more insight.
 
 Find all the information for planning your visit below and check out the [press release](/zero-waste-christmas-festival-press-release.pdf) if you would like to talk about our awesome festival on your blog, local news, radio station, etc.
 
-Please note that places for talks and workshops are limited. Securing your pass early entitles you to advanced sign up for your preferred workshops/talks. 
+Please note that places for talks and workshops are limited. Securing your Pass early entitles you to advanced sign up for your preferred workshops/talks. 
 
 <a href="#top">Back to top</a>
 
@@ -25,24 +25,24 @@ Please note that places for talks and workshops are limited. Securing your pass 
 
 Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. 
 
-If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree Planting With Santa](#planting-trees-with-santa-3-eur).
+If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree-planting With Santa](#tree-planting-with-santa-3-eur).
 
 | Category                          | Price  | 
 |-----------------------------------|--------|
-| Standard Workshop/Talk Pass       | 10 EUR |
-| Concession Workshop/Talk Pass     |  8 EUR |
-| Tree Planting with Santa for Kids | free   |
+| Standard Talk/Workshop Pass       | 10 EUR |
+| Concession Talk/Workshop Pass     |  8 EUR |
+| Tree-planting with Santa for Kids | free   |
 
 
 <form method="get" action="/tickets">
-    <button type="submit">Get your workshop/talk passes here</button>
+    <button type="submit">Get your Talk/Workshop Passes here</button>
 </form>
 
 <a href="#top">Back to top</a>
 
 ## Volunteer with us!
 
-We are currently looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free workshop/talk pass, a chance to meet like-minded people and have a first pick at the swap shops. 
+We are currently looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free Talk/Workshop Pass, a chance to meet like-minded people and have a first pick at the swap shops. 
 
 Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
 
@@ -118,7 +118,7 @@ The full event schedule will be posted shortly.
 
 We will host a variety of workshops and talks during the festival. 
 
-Spaces for talks and workshops are limited. Buying a [workshop/talk pass](/tickets) early entitles you to advanced sign up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
+Spaces for talks and workshops are limited. Buying a [Talk/Workshop Pass](/tickets) early entitles you to advanced sign up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
 
 Details on the workshops and talks will be posted below soon.
 
