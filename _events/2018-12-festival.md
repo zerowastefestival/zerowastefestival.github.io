@@ -14,7 +14,7 @@ Christmas can be a difficult time to keep your bins empty and your recycling pil
 
 Find all the information for planning your visit below and check out the [press release](/zero-waste-christmas-festival-press-release.pdf) if you would like to talk about our awesome festival on your blog, local news, radio station, etc.
 
-Please note that paces for talks and workshops are limited. Securing your ticket early entitles you to advanced sign up for your preferred workshops/talks. 
+Please note that places for talks and workshops are limited. Securing your pass early entitles you to advanced sign up for your preferred workshops/talks. 
 
 <a href="#top">Back to top</a>
 
@@ -25,7 +25,7 @@ Please note that paces for talks and workshops are limited. Securing your ticket
 
 Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. 
 
-If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes below [here](/tickets). A separate ticket will be required for each child for the [Tree Planting With Santa](#planting-trees-with-santa-3-eur).
+If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree Planting With Santa](#planting-trees-with-santa-3-eur).
 
 | Category                          | Price  | 
 |-----------------------------------|--------|
@@ -42,7 +42,7 @@ If you would like to attend our workshops and talks on the mezzanine level in Ro
 
 ## Volunteer with us!
 
-We are currently looking for volunteers helping us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out, you get a run of the festival, meet like-minded people and have a first pick at the swap shops. 
+We are currently looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free workshop/talk pass, a chance to meet like-minded people and have a first pick at the swap shops. 
 
 Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
 
@@ -91,10 +91,11 @@ You'll need your own containers for loose goods and refills and bring some bags 
 
 Bring your own mug, water bottle and lunch box and utensils. You're also welcome to bring a picnic to share with your new Zero Waste friends.
 
-#### Stuff to swap or share
+#### Stuff to swap/share/donate
 
 - Clean and wearable men's, women's and kid's clothes for the swap shop
 - Some books for the swap shop
+- Preloved Christmas Decorations 
 - OtherMother would love to upcycle your old t-shirts and sheets (100% cotton please)
 - Spare jars can be useful for other people who didn't bring enough
 - Bring any take-away containers you have built up to share in case people are short
@@ -103,7 +104,7 @@ Bring your own mug, water bottle and lunch box and utensils. You're also welcome
 
 ## Event Schedule
 
-Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, walk-ins, meetups, and swap shops. 
+Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, meetups, and swap shops. 
 
 The full event schedule will be posted shortly.
 
@@ -173,7 +174,7 @@ Bare Necessities sells loose, organic food staples and hygiene products to help 
 
 ### BYO @ Noms
 
-![Bring Your Own]({{ site.baseurl }}/images/logos-external/logo-bring-your-own.png "Bring Your Own"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Noms]({{ site.baseurl }}/images/logos-external/logo-noms.jpg "Noms"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Your old favourite market stall Bring Your Own has now teamed up with Phibsborough's brand new health food store Noms offering a wide range of products, including household and body care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out [Noms' website](http://noms.ie/) and [Instagram](https://www.instagram.com/noms_ire/) to check out their range of products.
 
