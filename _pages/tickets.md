@@ -23,7 +23,7 @@ If you would like to attend our workshops and talks on the mezzanine level in Ro
 
 ## Standard Talk/Workshop Pass (10 EUR)
 
-The Standard Talk/Workshop Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended. In the table below, you can specify which talks and workshops you would like to attend - please choose between a talk, a workshop or "Rest of the Festival" if you would like to browse around the market, info stalls, meet-ups and swap shops during this time.
+The Standard Talk/Workshop Pass allows you to pre-book the events you would like to attend. Please provide your name and selection below to secure your spot. We expect some events to be booked out prior to the day, so advance sign-up is recommended. In the table below, you can specify which talks and workshops you would like to attend - please choose between a talk, a workshop or "Rest of the Festival" if you would like to browse around the market, info stalls, meet-ups and swap shops during this time. You can see what the talks/workshops are about on the [Zero Waste Christmas Festival page](/2018-12-festival/#talks-and-workshops).
 
 If you would like to buy passes for more than one person, please add your first pass to the cart and then provide a new name and selection before adding the next pass to the cart.
 

@@ -114,7 +114,7 @@ The full event schedule will be posted shortly.
 
 
 
-## Workshops and Talks
+## Talks and Workshops
 
 We will host a variety of workshops and talks during the festival. 
 
