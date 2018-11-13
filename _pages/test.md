@@ -4,7 +4,25 @@ permalink: /test/
 title: Form input test
 ---
 
-sdffsfsf
+
+
+<script src="https://wzrd.in/standalone/formdata-polyfill"></script>
+<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwrTTPvPGwBsk4K2nXX0EdP8ryai_FAKf03AxlFkal410pcTJw-/exec'
+  const form = document.forms['submit-to-google-sheet']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+
+dssdkl
 
 
 <form id="test-form">
@@ -20,7 +38,7 @@ sdffsfsf
   </div>
   
   <div>
-    <button type="submit" id="submit-form">Book your spot</button>
+    <button type="submit">Book your spot</button>
   </div>
 
 </form>
