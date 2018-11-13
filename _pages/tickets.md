@@ -54,25 +54,25 @@ If you would like to buy passes for more than one person, please add your first 
 	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
 	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
 	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering </td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>	 
+	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Festival*</td>	 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
 	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
 	 <td><input type="radio" name="3 pm" value="Room 1">Bath and Beyond: Stocking Fillers</td>
 	 <td><input type="radio" name="3 pm" value="Room 2">Buy to Last</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	</table>
 	<br>
@@ -119,25 +119,25 @@ If you would like to buy passes for more than one person, please add your first 
 	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
 	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="12 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
 	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering</td>	
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td> 
+	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Festival*</td> 
 	 </tr>
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
 	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
 	 <td>3 pm</td>
 	 <td><input type="radio" name="3 pm" value="Room 1">Bath and Beyond: Stocking Fillers</td>
 	 <td><input type="radio" name="3 pm" value="Room 2">Buy to Last</td>
-	 <td><input type="radio" name="11 am" value="none" checked="checked" required>Rest of Festival*</td>
+	 <td><input type="radio" name="3 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	</table>
 	<br>
