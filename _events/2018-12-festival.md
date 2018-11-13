@@ -133,30 +133,52 @@ Details on the workshops and talks will be posted below soon.
 
 ### Room 1
 
+More info about the talks/workshops coming soon.
+
 #### 11:00 -- 12:00 <br/> Impress Your Mother-In-Law <a name="impress"></a>
+
+Cleaning your house for the festive season the eco way
 
 #### 12:00 -- 1:00 <br/> Party Nibbles <a name="party"></a>
 
+Treat your guests without filling the bin
+
 #### 1:00 -- 2:00 <br/> Crochet Cuteness <a name="crochet"></a>
+
+The art of making amigurumi toys
 
 #### 2:00 -- 3:00 <br/> Edible Gifts <a name="edible"></a>
 
+Delicious treats for under the tree
+
 #### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers <a name="bath"></a>
+
+Homemade products that show you care
 
 
 ### Room 2
 
-
+More info about the talks/workshops coming soon.
 
 #### 11:00 -- 12:00 <br/> Zero Waste with Kids <a name="zero"></a>
 
+Cutting down even when you have little ones about
+
 #### 12:00 -- 1:00 <br/> Alternative Wrapping <a name="wrapping"></a>
+
+Less glitter and waste and a lot more taste
 
 #### 1:00 -- 2:00 <br/> Pre-Christmas Decluttering <a name="pre"></a>
 
+Clear out for the season the conscious way
+
 #### 2:00 -- 3:00 <br/> Gifting Experiences <a name="gifting"></a>
 
+Memories not possessions
+
 #### 3:00 -- 4:00 <br/> Buy to Last <a name="buy"></a>
+
+Purchase once but better quality
 
 
 
