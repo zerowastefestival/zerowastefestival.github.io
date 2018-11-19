@@ -122,11 +122,11 @@ Spaces for talks and workshops are limited. Buying a [Talk/Workshop Pass](/ticke
 
 Details on the workshops and talks will be posted below soon.
 
-| Time     | Room 2                                        | Room 3                                         |
+| Time     | Room 1                                        | Room 2                                         |
 |----------|-----------------------------------------------|------------------------------------------------|
 | 11 -- 12 | [Impress Your Mother-In-Law](#impress)        | [Zero Waste with Kids](#zero)                  |
-| 12 -- 1  | [Party Nibbles](#party)                       | [Alternative Wrapping](#wrapping)               |
-| 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Pre-Christmas Decluttering](#pre)            |
+| 12 -- 1  | [Party Nibbles](#party)                       | [Alternative Gift Wrapping](#wrapping)         |
+| 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Pre-Christmas Decluttering](#pre)             |
 | 2 -- 3   | [Edible Gifts](#edible)                       | [Gifting Experiences](#gifting)                |
 | 3 -- 4   | [Bath and Beyond: Stocking Fillers](#bath)    | [Buy to Last](#buy)                            |
 
