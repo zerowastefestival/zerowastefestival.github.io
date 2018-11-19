@@ -127,7 +127,7 @@ Details on the workshops and talks will be posted below soon.
 | 11 -- 12 | [Impress Your Mother-In-Law](#impress)        | [Zero Waste with Kids](#zero)                  |
 | 12 -- 1  | [Party Nibbles](#party)                       | [Alternative Gift Wrapping](#wrapping)         |
 | 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Pre-Christmas Decluttering](#pre)             |
-| 2 -- 3   | [Edible Gifts](#edible)                       | [Ideas for Experience Gifts](#gifting)         |
+| 2 -- 3   | [Yummy Gifts](#edible)                        | [Ideas for Experience Gifts](#gifting)         |
 | 3 -- 4   | [Bath and Beyond: Stocking Fillers](#bath)    | [Buy to Last](#buy)                            |
 
 
@@ -147,9 +147,11 @@ Treat your guests without filling the bin
 
 The art of making amigurumi toys
 
-#### 2:00 -- 3:00 <br/> Edible Gifts <a name="edible"></a>
+#### 2:00 -- 3:00 <br/> Yummy Gifts <a name="edible"></a>
 
-Delicious treats for under the tree
+Delicious treats for under the tree. Gifts that are made with love and care, rather than just hastily bought in the nearest shop are always more appreciated. If you want to give your friends and family some delicious homemade edible treats, sweet or savoury, or even some drinks with a little kick (and learn to cut food waste while you're at it) come along and get some recipes that won’t cost the Earth. Oh and don't fear - you won’t need to slave over the kitchen counter for hours! 
+
+Zdenka is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also fin her on [Instagram](https://www.instagram.com/comingtozero/).
 
 #### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers <a name="bath"></a>
 
