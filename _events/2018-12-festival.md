@@ -178,9 +178,9 @@ Memories not possessions
 
 #### 3:00 -- 4:00 <br/> Buy to Last <a name="buy"></a>
 
-Purchase once but better quality
+A light bulb that lasts a hundred years? Electronics you probably loose before they break? A decade’s supply of shaving soap? There are many (durable and long-lasting) alternatives to the quick and cheap buys we encounter most of the time. In this talk, Jan will discuss some strategies to spot planned obsolescence, assess repairability, and fight fast fashion by looking at examples from everyday household items, to home electronics, white goods, and clothes. In the long run, buying to last will save money, time, stress, and the planet. If you want to learn more, come and join us for this talk in Room 2 at 3 pm.
 
-
+This talk is hosted by [Jan](https://www.janknappe.com). He is an environmental researcher here in Dublin, part of the [Zero Waste Festival organising team](/team) and has an undeniable passion for nature, sustainability, and quirky facts. E.g., did you know that the average 10-year-old in Britain owns 238 toys but plays with just 12 of them daily?
 
 <a href="#top">Back to top</a>
 
