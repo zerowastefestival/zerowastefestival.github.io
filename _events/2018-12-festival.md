@@ -164,9 +164,11 @@ More info about the talks/workshops coming soon.
 
 Cutting down even when you have little ones about
 
-#### 12:00 -- 1:00 <br/> Alternative Wrapping <a name="wrapping"></a>
+#### 12:00 -- 1:00 <br/> Alternative Gift Wrapping <a name="wrapping"></a>
 
-Less glitter and waste and a lot more taste
+Less glitter, less waste and a lot more taste! This workshop will be looking at how to gift wrap responsibly using upcycled materials, fabrics and craft supplies.
+
+Your host will be Belle from [Other Mother Creations](https://www.facebook.com/OtherMotherCreations/). She is an upcycling enthusiast who loves to use old fabrics and materials to create new and wonderful items in the most zero waste way possible.
 
 #### 1:00 -- 2:00 <br/> Pre-Christmas Decluttering <a name="pre"></a>
 
@@ -212,7 +214,7 @@ Lilly's Eco Clean manufactures a range of natural cleaning products right here i
 
 ![Other Mother]({{ site.baseurl }}/images/logos-external/logo-other-mother.jpg "Other Mother"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Other Mother makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/){:target="_blank"}.
+Other Mother makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/).
 
 
 
