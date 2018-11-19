@@ -53,7 +53,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
-	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
+	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Gift Wrapping</td>
 	 <td><input type="radio" name="12 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
@@ -118,7 +118,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>12 noon</td>	
 	 <td><input type="radio" name="12 pm" value="Room 1">Party Nibbles</td>
-	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Wrapping</td>
+	 <td><input type="radio" name="12 pm" value="Room 2">Alternative Gift Wrapping</td>
 	 <td><input type="radio" name="12 am" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
