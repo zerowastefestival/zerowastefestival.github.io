@@ -65,7 +65,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
-	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
+	 <td><input type="radio" name="2 pm" value="Room 2">Ideas for Experience Gifts</td>
 	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>
@@ -130,7 +130,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>2 pm</td>
 	 <td><input type="radio" name="2 pm" value="Room 1">Edible Gifts</td>
-	 <td><input type="radio" name="2 pm" value="Room 2">Gifting Experiences</td>
+	 <td><input type="radio" name="2 pm" value="Room 2">Ideas for Experience Gifts</td>
 	 <td><input type="radio" name="2 pm" value="none" checked="checked" required>Rest of Festival*</td>
 	 </tr>
 	 <tr>

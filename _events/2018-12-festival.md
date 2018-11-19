@@ -127,7 +127,7 @@ Details on the workshops and talks will be posted below soon.
 | 11 -- 12 | [Impress Your Mother-In-Law](#impress)        | [Zero Waste with Kids](#zero)                  |
 | 12 -- 1  | [Party Nibbles](#party)                       | [Alternative Gift Wrapping](#wrapping)         |
 | 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Pre-Christmas Decluttering](#pre)             |
-| 2 -- 3   | [Edible Gifts](#edible)                       | [Gifting Experiences](#gifting)                |
+| 2 -- 3   | [Edible Gifts](#edible)                       | [Ideas for Experience Gifts](#gifting)         |
 | 3 -- 4   | [Bath and Beyond: Stocking Fillers](#bath)    | [Buy to Last](#buy)                            |
 
 
@@ -174,9 +174,11 @@ Your host will be Belle from [Other Mother Creations](https://www.facebook.com/O
 
 Clear out for the season the conscious way
 
-#### 2:00 -- 3:00 <br/> Gifting Experiences <a name="gifting"></a>
+#### 2:00 -- 3:00 <br/> Ideas for Experience Gifts <a name="gifting"></a>
 
-Memories not possessions
+Give memories, not clutter! Ideas and inspiration for gifting your loved ones with experiences to remember, rather than "stuff" ultimately destined for landfill...! Lots of gift suggestions for various ages, interests and budgets, while positively impacting the planet along the way! So many people these days seem to have everything they need already. Why not help them live in the moment by giving them the gift of a wonderful experience, instead? You'll reduce the burden on our planet, and the excess of unwanted consumer products around the holidays, which clog up our lives, and later, our landfill sites and oceans! Ditch the "stuff", and still get that all-important list sorted by Christmas eve, it's a win-win! 
+
+This talk ist hosted by Sinéad. She is a musician and composer with a strong interest in the environment and climate action in particular. She has previously worked with WWF's Earth Hour initiative here in Ireland, and has completed training with Eco Unesco on Education for Sustainable Development from an environmental perspective. She finds an outlet for her environmental concerns with her facebook page, [Clarion Call for Climate Action](https://www.facebook.com/ClarionCallforClimateAction/), which will be running an experience-focused, eco gift guide throughout the month of December.
 
 #### 3:00 -- 4:00 <br/> Buy to Last <a name="buy"></a>
 
