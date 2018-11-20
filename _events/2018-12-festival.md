@@ -151,10 +151,10 @@ Your host for this workshop is Zdenka. She is a food lover and amateur aerial ac
 The art of making amigurumi toys
 
 
-![Yummy Gifts]({{ site.baseurl }}/images/events/2018-12-festival/teaser-yummy-gifts.jpg "Yummy Gifts"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 #### 2:00 -- 3:00 <br/> Yummy Gifts <a name="yummy"></a>
 
+![Yummy Gifts]({{ site.baseurl }}/images/events/2018-12-festival/teaser-yummy-gifts.jpg "Yummy Gifts"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 Delicious treats for under the tree. Gifts that are made with love and care, rather than just hastily bought in the nearest shop are always more appreciated. If you want to give your friends and family some delicious homemade edible treats, sweet or savoury, or even some drinks with a little kick (and learn to cut food waste while you're at it) come along and get some recipes that won’t cost the Earth. Oh and don't fear - you won’t need to slave over the kitchen counter for hours! 
 
@@ -167,13 +167,15 @@ Homemade products that show you care
 
 ### Room 2
 
-More info about the talks/workshops coming soon.
+More info about the talks/workshops coming soon.Alternative Gift Wrapping
 
 #### 11:00 -- 12:00 <br/> Zero Waste with Kids <a name="zero"></a>
 
 Cutting down even when you have little ones about
 
 #### 12:00 -- 1:00 <br/> Alternative Gift Wrapping <a name="wrapping"></a>
+
+![Alternative Gift Wrapping]({{ site.baseurl }}/images/events/2018-12-festival/teaser-alternative-gift-wrapping.jpg "Alternative Gift Wrapping"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 Less glitter, less waste and a lot more taste! This workshop will be looking at how to gift wrap responsibly using upcycled materials, fabrics and craft supplies.
 
@@ -190,6 +192,8 @@ Give memories, not clutter! Ideas and inspiration for gifting your loved ones wi
 This talk ist hosted by Sinéad. She is a musician and composer with a strong interest in the environment and climate action in particular. She has previously worked with WWF's Earth Hour initiative here in Ireland, and has completed training with Eco Unesco on Education for Sustainable Development from an environmental perspective. She finds an outlet for her environmental concerns with her facebook page, [Clarion Call for Climate Action](https://www.facebook.com/ClarionCallforClimateAction/), which will be running an experience-focused, eco gift guide throughout the month of December.
 
 #### 3:00 -- 4:00 <br/> Buy to Last <a name="buy"></a>
+
+![Buy to Last]({{ site.baseurl }}/images/events/2018-12-festival/teaser-buy-to-last.jpg "Buy to Last"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 A light bulb that lasts a hundred years? Electronics you probably lose before they break? A decade’s supply of shaving soap? There are many (durable and long-lasting) alternatives to the quick and cheap buys we encounter most of the time. In this talk, Jan will discuss some strategies to spot planned obsolescence, assess repairability, and fight fast fashion by looking at examples from everyday household items, to home electronics, white goods, and clothes. In the long run, buying to last will save money, time, stress, and the planet. If you want to learn more, come and join us for this talk in Room 2 at 3 pm.
 
