@@ -150,9 +150,11 @@ Your host for this workshop is Zdenka. She is a food lover and amateur aerial ac
 
 The art of making amigurumi toys
 
-#### 2:00 -- 3:00 <br/> Yummy Gifts <a name="yummy"></a>
 
 ![Yummy Gifts]({{ site.baseurl }}/images/events/2018-12-festival/teaser-yummy-gifts.jpg "Yummy Gifts"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+#### 2:00 -- 3:00 <br/> Yummy Gifts <a name="yummy"></a>
+
 
 Delicious treats for under the tree. Gifts that are made with love and care, rather than just hastily bought in the nearest shop are always more appreciated. If you want to give your friends and family some delicious homemade edible treats, sweet or savoury, or even some drinks with a little kick (and learn to cut food waste while you're at it) come along and get some recipes that won’t cost the Earth. Oh and don't fear - you won’t need to slave over the kitchen counter for hours! 
 
