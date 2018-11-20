@@ -126,7 +126,7 @@ Details on the workshops and talks will be posted below soon.
 |----------|-----------------------------------------------|------------------------------------------------|
 | 11 -- 12 | [Impress Your Mother-In-Law](#impress)        | [Zero Waste with Kids](#zero)                  |
 | 12 -- 1  | [Bites, Dips & Nibbles](#bites)               | [Alternative Gift Wrapping](#wrapping)         |
-| 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Pre-Christmas Decluttering](#pre)             |
+| 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Decluttering Before Christmas](#decluttering) |
 | 2 -- 3   | [Yummy Gifts](#yummy)                         | [Ideas for Experience Gifts](#gifting)         |
 | 3 -- 4   | [Bath and Beyond: Stocking Fillers](#bath)    | [Buy to Last](#buy)                            |
 
@@ -181,7 +181,7 @@ Less glitter, less waste and a lot more taste! This workshop will be looking at 
 
 Your host will be Belle from [Other Mother Creations](https://www.facebook.com/OtherMotherCreations/). She is an upcycling enthusiast who loves to use old fabrics and materials to create new and wonderful items in the most zero waste way possible.
 
-#### 1:00 -- 2:00 <br/> Pre-Christmas Decluttering <a name="pre"></a>
+#### 1:00 -- 2:00 <br/> Decluttering Before Christmas <a name="decluttering"></a>
 
 Clear out for the season the conscious way
 

@@ -59,7 +59,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
-	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering </td>
+	 <td><input type="radio" name="1 pm" value="Room 2">Decluttering Before Christmas</td>
 	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Festival*</td>	 
 	 </tr>
 	 <tr>
@@ -124,7 +124,7 @@ If you would like to buy passes for more than one person, please add your first 
 	 <tr>
 	 <td>1 pm</td>
 	 <td><input type="radio" name="1 pm" value="Room 1">Crochet Cuteness</td>
-	 <td><input type="radio" name="1 pm" value="Room 2">Pre-Christmas Decluttering</td>	
+	 <td><input type="radio" name="1 pm" value="Room 2">Decluttering Before Christmas</td>	
 	 <td><input type="radio" name="1 pm" value="none" checked="checked" required>Rest of Festival*</td> 
 	 </tr>
 	 <tr>
