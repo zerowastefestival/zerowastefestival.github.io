@@ -16,7 +16,7 @@ The complete Event Schedule for the upcoming Zero Waste Christmas Festival is re
 
 ![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 500px;"}
 
-Click on the image to download a high-resolution version.
+<sub>Click on the image to download a high-resolution version.</sub>
 
 We are proud to release the complete Event Schedule for our upcoming [Zero Waste Christmas Festival](/2018-12-festival) on Sunday, December 2, at The Green Door Market in Bluebell, Dublin. This time, we will bring you our usual mix of a Zero Waste market with many interesting vendors selling loose goods and Zero Waste essentials, info stands from local initiatives and organisations helping us to become more aware and sustainable consumers, a Make Space, Swap Shops, and a mix of interesting talks and workshops.
 
