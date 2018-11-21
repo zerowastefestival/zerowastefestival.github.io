@@ -167,7 +167,7 @@ Homemade products that show you care
 
 ### Room 2
 
-More info about the talks/workshops coming soon.Alternative Gift Wrapping
+More info about the talks/workshops coming soon.
 
 #### 11:00 -- 12:00 <br/> Zero Waste with Kids <a name="zero"></a>
 
