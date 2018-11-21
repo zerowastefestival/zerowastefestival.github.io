@@ -14,7 +14,7 @@ share: true
 
 The complete Event Schedule for the upcoming Zero Waste Christmas Festival is released.
 
-[![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 500px;"}](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg)
+![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 500px;"}
 
 Click on the image to download a high-resolution version.
 
