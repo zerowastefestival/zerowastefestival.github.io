@@ -262,7 +262,7 @@ More info soon.
 
 ### Art
 
-![Artinwoods]({{ site.baseurl }}/images/logos-external/logo-artinwoods.png "Artinwoods"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Artinwoods]({{ site.baseurl }}/images/events/2018-12-festival/teaser-artinwoods.jpg "Artinwoods"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 We are happy to host an art installation by [Artinwoods](https://www.facebook.com/Artinwoods) at the festival. The guy behind Artinwoods, Trevor, is an artist currently studying in NCAD for a Diploma in Art and Design. Apart from standard painting techniques he is interested in using found/recycled objects and upscaling them to art. His Sculpture ‘What’s your Plastic Footprint’ will be on display and aims to make people think about their plastic use and what we really leave behind every day.
 
