@@ -43,7 +43,7 @@ Admission to the main festival with info stands, swap shops, drop-in workshops, 
 
 <sup>Click on the image to download a high-resolution version.</sup>
 
-The entrance to the main Festival with [market](#market), [Info Stands](#info-stands), [Make Space](#make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
+The entrance to the main Festival with [Zero Waste Market](#market), [Info Stands](#info-stands), [Make Space](#make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
 
 ### Talks and Workshops
 
@@ -70,13 +70,13 @@ Cleaning your house for the festive season the eco way. More info coming soon.
 
 ![Bites, Dips & Nibbles]({{ site.baseurl }}/images/events/2018-12-festival/teaser-bites-dips-nibbles.jpg "Bites, Dips & Nibbles"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-
 Treat your guests without filling the bin. Christmas is a party season - but you don't have to be a chef to put together a nice spread for your friends and family. Get some inspiration for simple bites, crowd-pleasing dips and delicious nibbles... all with sustainability in mind.
 
 Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
 
-##### 1:00 -- 2:00 <br/> Learn to Crochet Toys <a name="crochet"></a>
+<a name="crochet"></a>
+##### 1:00 -- 2:00 <br/> Learn to Crochet Toys 
 
 ![Learn to Crochet Toys]({{ site.baseurl }}/images/events/2018-12-festival/teaser-crochet-toys.jpg "Learn to Crochet Toys"){:style="float: top;margin-right: 10px;height: 200px;"}
 
@@ -85,7 +85,8 @@ The art of making amigurumi toys. This workshop with Elaine will teach the skill
 Elaine Butler is a designer with a passion for sustainable living. Her blog [Living Lightly in Ireland](https://livinglightlyinireland.wordpress.com/) is a well of information on how to create a beautiful compassionate life in a sustainable and ethical manner. You can also find her on [Facebook](https://www.facebook.com/livinglightlyinireland/) and [Instagram](https://www.instagram.com/livinglightlyinireland/).
 
 
-##### 2:00 -- 3:00 <br/> Yummy Gifts <a name="yummy"></a>
+<a name="yummy"></a>
+##### 2:00 -- 3:00 <br/> Yummy Gifts 
 
 ![Yummy Gifts]({{ site.baseurl }}/images/events/2018-12-festival/teaser-yummy-gifts.jpg "Yummy Gifts"){:style="float: top;margin-right: 10px;height: 200px;"}
 
@@ -93,18 +94,22 @@ Delicious treats for under the tree. Gifts that are made with love and care, rat
 
 Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
-##### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers <a name="bath"></a>
+<a name="bath"></a>
+##### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers 
 
 Homemade products that show you care. More info coming soon.
 
 
 #### Room 2
 
-##### 11:00 -- 12:00 <br/> Zero Waste with Kids <a name="zero"></a>
+<a name="zero"></a>
+##### 11:00 -- 12:00 <br/> Zero Waste with Kids 
 
 Cutting down even when you have little ones about. More info coming soon.
 
-##### 12:00 -- 1:00 <br/> Alternative Gift Wrapping <a name="wrapping"></a>
+
+<a name="wrapping"></a>
+##### 12:00 -- 1:00 <br/> Alternative Gift Wrapping 
 
 ![Alternative Gift Wrapping]({{ site.baseurl }}/images/events/2018-12-festival/teaser-alternative-gift-wrapping.jpg "Alternative Gift Wrapping"){:style="float: top;margin-right: 10px;height: 200px;"}
 
@@ -112,17 +117,23 @@ Less glitter, less waste and a lot more taste! This workshop will be looking at 
 
 Your host will be Belle from [Other Mother Creations](https://www.facebook.com/OtherMotherCreations/). She is an upcycling enthusiast who loves to use old fabrics and materials to create new and wonderful items in the most zero waste way possible.
 
-##### 1:00 -- 2:00 <br/> Decluttering Before Christmas <a name="decluttering"></a>
+
+<a name="decluttering"></a>
+##### 1:00 -- 2:00 <br/> Decluttering Before Christmas 
 
 Clear out for the season the conscious way. More info coming soon.
 
-##### 2:00 -- 3:00 <br/> Ideas for Experience Gifts <a name="gifting"></a>
+
+<a name="gifting"></a>
+##### 2:00 -- 3:00 <br/> Ideas for Experience Gifts 
 
 Give memories, not clutter! Ideas and inspiration for gifting your loved ones with experiences to remember, rather than "stuff" ultimately destined for landfill...! Lots of gift suggestions for various ages, interests and budgets, while positively impacting the planet along the way! So many people these days seem to have everything they need already. Why not help them live in the moment by giving them the gift of a wonderful experience, instead? You'll reduce the burden on our planet, and the excess of unwanted consumer products around the holidays, which clog up our lives, and later, our landfill sites and oceans! Ditch the "stuff", and still get that all-important list sorted by Christmas eve, it's a win-win! 
 
 This talk ist hosted by Sinéad. She is a musician and composer with a strong interest in the environment and climate action in particular. She has previously worked with WWF's Earth Hour initiative here in Ireland, and has completed training with Eco Unesco on Education for Sustainable Development from an environmental perspective. She finds an outlet for her environmental concerns with her facebook page, [Clarion Call for Climate Action](https://www.facebook.com/ClarionCallforClimateAction/), which will be running an experience-focused, eco gift guide throughout the month of December.
 
-##### 3:00 -- 4:00 <br/> Buy to Last <a name="buy"></a>
+
+<a name="buy"></a>
+##### 3:00 -- 4:00 <br/> Buy to Last 
 
 ![Buy to Last]({{ site.baseurl }}/images/events/2018-12-festival/teaser-buy-to-last.jpg "Buy to Last"){:style="float: top;margin-right: 10px;height: 200px;"}
 
