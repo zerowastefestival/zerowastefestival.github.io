@@ -60,11 +60,13 @@ We will host a variety of workshops and talks as part of the Festival. Getting y
 
 #### Room 1
 
-##### 11:00 -- 12:00 <br/> Impress Your Mother-In-Law <a name="impress"></a>
+<a name="impress"></a>
+##### 11:00 -- 12:00 <br/> Impress Your Mother-In-Law 
 
 Cleaning your house for the festive season the eco way. More info coming soon.
 
-##### 12:00 -- 1:00 <br/> Bites, Dips & Nibbles <a name="bites"></a>
+<a name="bites"></a>
+##### 12:00 -- 1:00 <br/> Bites, Dips & Nibbles 
 
 ![Bites, Dips & Nibbles]({{ site.baseurl }}/images/events/2018-12-festival/teaser-bites-dips-nibbles.jpg "Bites, Dips & Nibbles"){:style="float: top;margin-right: 10px;height: 200px;"}
 
