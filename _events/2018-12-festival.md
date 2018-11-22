@@ -126,7 +126,7 @@ Details on the workshops and talks will be posted below soon.
 |----------|-----------------------------------------------|------------------------------------------------|
 | 11 -- 12 | [Impress Your Mother-In-Law](#impress)        | [Zero Waste with Kids](#zero)                  |
 | 12 -- 1  | [Bites, Dips & Nibbles](#bites)               | [Alternative Gift Wrapping](#wrapping)         |
-| 1 -- 2   | [Crochet Cuteness](#crochet)                  | [Decluttering Before Christmas](#decluttering) |
+| 1 -- 2   | [Learn to Crochet Toys](#crochet)             | [Decluttering Before Christmas](#decluttering) |
 | 2 -- 3   | [Yummy Gifts](#yummy)                         | [Ideas for Experience Gifts](#gifting)         |
 | 3 -- 4   | [Bath and Beyond: Stocking Fillers](#bath)    | [Buy to Last](#buy)                            |
 
@@ -146,10 +146,13 @@ Treat your guests without filling the bin. Christmas is a party season - but you
 Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
 
-#### 1:00 -- 2:00 <br/> Crochet Cuteness <a name="crochet"></a>
+#### 1:00 -- 2:00 <br/> Learn to Crochet Toys <a name="crochet"></a>
 
-The art of making amigurumi toys
+![Learn to Crochet Toys]({{ site.baseurl }}/images/events/2018-12-festival/teaser-crochet-toys.jpg "Learn to Crochet Toys"){:style="float: top;margin-right: 10px;height: 200px;"}
 
+The art of making amigurumi toys. This workshop with Elaine will teach the skills required to start creating handmade toys. All the necessary equipment and materials will be provided on the day to allow participants to make their own baby owl toy from scratch.
+
+Elaine Butler is a designer with a passion for sustainable living. Her blog [Living Lightly in Ireland](https://livinglightlyinireland.wordpress.com/) is a well of information on how to create a beautiful compassionate life in a sustainable and ethical manner. You can also find her on [Facebook](https://www.facebook.com/livinglightlyinireland/) and [Instagram](https://www.instagram.com/livinglightlyinireland/).
 
 
 #### 2:00 -- 3:00 <br/> Yummy Gifts <a name="yummy"></a>
