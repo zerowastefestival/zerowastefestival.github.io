@@ -18,7 +18,7 @@ Find all the information for planning your visit below and check out the [press 
 
 # Tickets
 
-Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. If you would like to attend our workshops and talks on the mezzanine level, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree-planting With Santa](#tree-planting-with-santa-3-eur).
+Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. If you would like to attend our workshops and talks on the mezzanine level, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the Tree-planting With Santa.
 
 | Category                          | Price  | 
 |-----------------------------------|--------|
@@ -40,6 +40,7 @@ Admission to the main festival with info stands, swap shops, drop-in workshops, 
 # Events
 
 [![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 350px;"}](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg)
+
 <sup>Click on the image to download a high-resolution version.</sup>
 
 The entrance to the main Festival with [market](#market), [Info Stands] (#info-stands), [Make Space](make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
@@ -162,7 +163,7 @@ Other Mother makes upcycled alternatives to everyday and parenting disposable pr
 <a href="#top">Back to top</a>
 
 
-### Info stands
+### Info Stands
 
 Want to find out more about leading a more sustainable life with less disposables and more fulfilment? Visit our info stands to get inspired and discuss your Zero Waste journey with organisations and practitioners dedicated to help you along the way.
 
