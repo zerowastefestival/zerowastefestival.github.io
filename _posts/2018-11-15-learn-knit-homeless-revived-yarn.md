@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn to knit with Revived Yarn at the Christmas Festival
+title: Learn to Knit with Revived Yarn at the Christmas Festival
 
 category: 2018-12-festival
 

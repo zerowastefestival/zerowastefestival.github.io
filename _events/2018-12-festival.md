@@ -8,30 +8,24 @@ image:
 
 {% include toc.html %}
 
-The Zero Waste Festival is back! The next festival takes place 10 am to 5 pm on Sunday 2nd December at the [Green Door Market in Bluebell Business Park, Dublin 12](#venue). With this year's Christmas-themed festival in December, we will bring you a one-day festival with market, swap-shops, info stands, meet-ups, talks, and workshops all dedicated to helping you reduce your waste this Christmas.
+The Zero Waste Festival is back! The next festival takes place from 10 am to 5 pm on Sunday, December 2, at the [Green Door Market in Bluebell Business Park, Dublin 12](#venue). With this year's Christmas-themed festival in December, we will bring you a one-day festival with market, swap-shops, info stands, talks, and workshops all dedicated to helping you reduce your waste this Christmas and meet like-minded people.
 
 Christmas can be a difficult time to keep your bins empty and your recycling pile small, but during this day-long event you will get tips on cutting down on waste from food and packaging, gifts and wrapping, decorations and festive dressing and even pre-Christmas cleaning! From making better choices of materials to reusing and upcycling what is already created, there will be something to be learned for everyone, no matter where you are on your journey. For your first foray into Zero Waste, stop by our info-stand for a quick primer or sign up for a Talk/Workshop Pass for more insight.
 
 Find all the information for planning your visit below and check out the [press release](/zero-waste-christmas-festival-press-release.pdf) if you would like to talk about our awesome festival on your blog, local news, radio station, etc.
 
-Please note that places for talks and workshops are limited. Securing your Pass early entitles you to advanced sign up for your preferred workshops/talks. 
-
 <a href="#top">Back to top</a>
 
+# Tickets
 
-
-
-## Tickets
-
-Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. 
-
-If you would like to attend our workshops and talks on the mezzanine level in Room 1 and 2, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree-planting With Santa](#tree-planting-with-santa-3-eur).
+Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. If you would like to attend our workshops and talks on the mezzanine level, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the [Tree-planting With Santa](#tree-planting-with-santa-3-eur).
 
 | Category                          | Price  | 
 |-----------------------------------|--------|
+| Main Festival and Market          |  FREE  |
 | Standard Talk/Workshop Pass       | 10 EUR |
 | Concession Talk/Workshop Pass     |  8 EUR |
-| Tree-planting with Santa for Kids | free   |
+| Tree-planting with Santa for Kids |  3 EUR |
 
 
 <form method="get" action="/tickets">
@@ -40,87 +34,19 @@ If you would like to attend our workshops and talks on the mezzanine level in Ro
 
 <a href="#top">Back to top</a>
 
-## Volunteer with us!
-
-We are currently looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free Talk/Workshop Pass, a chance to meet like-minded people and have a first pick at the swap shops. 
-
-Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
-
-<a href="#top">Back to top</a>
-
-
-## Venue
-
-The festival will be hosted at the [Green Door Market](https://www.thegreendoor.ie/) at [Unit A1, Bluebell Business Centre, Old Naas Road, Dublin 12](https://goo.gl/maps/dt4MdVBktjt) from 10 AM to 5 PM on December 2nd, 2018.
-
-### How to get there?
-
-The Green Door Market is located indoors at Unit A1, Bluebell Business Centre, Old Naas Road, Dublin 12. And guess what? The door is green so keep your eyes open for it.  
-
-There are bike racks in the courtyard and the parking is free. There is parking in front of the offices and all around the rear. However, the Market is very easily reached by public transport and we encourage our visitors strongly to use a sustainable mode of transportation, e.g. bike, by foot, LUAS or Dublin Bus.
-
-#### Luas
-
-The Green Door Market is 5 minutes walk from both the Bluebell and the Kylemore stops on the red line. If you use the Kylemore stop cut through The Royal Liver retail park to the car entrance and the Market is opposite. 
-
-#### Buses
-
-Take buses 13, 68a, 69 or 51.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.780129630582!2d-6.34363018473999!3d53.329289983690614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c236b10a4df%3A0x1dcea1c868ca9902!2sThe+Green+Door+Market!5e0!3m2!1sen!2sie!4v1541965459331" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-<a href="#top">Back to top</a>
-
-## What to bring
-
-No need to print your tickets, we will have your name at the door for all ticketed events.
-
-#### For notes
-
-There'll be no leaflets or business cards, so bring your phone, a camera or a pen and paper.
-
-#### For workshops
-
-You'll need a fork or spoon for samples of food.
-
-#### For shopping
-
-You'll need your own containers for loose goods and refills and bring some bags to carry your purchases home.
-
-#### For food and drinks
-
-Bring your own mug, water bottle and lunch box and utensils. You're also welcome to bring a picnic to share with your new Zero Waste friends.
-
-#### Stuff to swap/share/donate
-
-- Clean and wearable men's, women's and kid's clothes for the swap shop
-- Some books for the swap shop
-- Preloved Christmas Decorations 
-- OtherMother would love to upcycle your old t-shirts and sheets (100% cotton please)
-- Spare jars can be useful for other people who didn't bring enough
-- Bring any take-away containers you have built up to share in case people are short
 
 
 
-## Event Schedule
+# Events
 
-Next to our Zero Waste Market and the info stands, we will host a wide range of talks, workshops, meetups, and swap shops. 
+[![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 350px;"}](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg)
+<sup>Click on the image to download a high-resolution version.</sup>
 
-The full event schedule will be posted shortly.
-
-
-<a href="#top">Back to top</a>
-
-
-
+The entrance to the main Festival with [market](#market), [Info Stands] (#info-stands), [Make Space](make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
 
 ## Talks and Workshops
 
-We will host a variety of workshops and talks during the festival. 
-
-Spaces for talks and workshops are limited. Buying a [Talk/Workshop Pass](/tickets) early entitles you to advanced sign up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
-
-Details on the workshops and talks will be posted below soon.
+We will host a variety of workshops and talks as part of the Festival. Getting your [Talk/Workshop Pass](/tickets) early entitles you to advanced sign-up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
 
 | Time     | Room 1                                        | Room 2                                         |
 |----------|-----------------------------------------------|------------------------------------------------|
@@ -133,13 +59,14 @@ Details on the workshops and talks will be posted below soon.
 
 ### Room 1
 
-More info about the talks/workshops coming soon.
-
 #### 11:00 -- 12:00 <br/> Impress Your Mother-In-Law <a name="impress"></a>
 
-Cleaning your house for the festive season the eco way
+Cleaning your house for the festive season the eco way. More info coming soon.
 
 #### 12:00 -- 1:00 <br/> Bites, Dips & Nibbles <a name="bites"></a>
+
+![Bites, Dips & Nibbles]({{ site.baseurl }}/images/events/2018-12-festival/teaser-bites-dips-nibbles.jpg "Bites, Dips & Nibbles"){:style="float: top;margin-right: 10px;height: 200px;"}
+
 
 Treat your guests without filling the bin. Christmas is a party season - but you don't have to be a chef to put together a nice spread for your friends and family. Get some inspiration for simple bites, crowd-pleasing dips and delicious nibbles... all with sustainability in mind.
 
@@ -165,16 +92,14 @@ Your host for this workshop is Zdenka. She is a food lover and amateur aerial ac
 
 #### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers <a name="bath"></a>
 
-Homemade products that show you care
+Homemade products that show you care. More info coming soon.
 
 
 ### Room 2
 
-More info about the talks/workshops coming soon.
-
 #### 11:00 -- 12:00 <br/> Zero Waste with Kids <a name="zero"></a>
 
-Cutting down even when you have little ones about
+Cutting down even when you have little ones about. More info coming soon.
 
 #### 12:00 -- 1:00 <br/> Alternative Gift Wrapping <a name="wrapping"></a>
 
@@ -186,7 +111,7 @@ Your host will be Belle from [Other Mother Creations](https://www.facebook.com/O
 
 #### 1:00 -- 2:00 <br/> Decluttering Before Christmas <a name="decluttering"></a>
 
-Clear out for the season the conscious way
+Clear out for the season the conscious way. More info coming soon.
 
 #### 2:00 -- 3:00 <br/> Ideas for Experience Gifts <a name="gifting"></a>
 
@@ -212,7 +137,7 @@ As always, we will bring a selection of Zero Waste lifestyle market stalls to ou
 
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday market in The Bullring in Wexford, a weekly Saturday market in Skerries Mills and once a month in Brooklodge, Macreddin Village, Co. Wicklow. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"}.
+Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday Market in the Bullring, Wexford town, a weekly Saturday market in Skerries Mills and once a month in Maynooth. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"}.
 
 ### BYO @ Noms
 
@@ -234,8 +159,6 @@ Lilly's Eco Clean manufactures a range of natural cleaning products right here i
 
 Other Mother makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/).
 
-
-
 <a href="#top">Back to top</a>
 
 
@@ -249,20 +172,36 @@ Want to find out more about leading a more sustainable life with less disposable
 
 Community-supported agriculture (CSA) involves establishing a relationship with a farmer for a growing season. It benefits both parties in that buyers get good quality food straight from the source (no middlemen) and the farmer gets a fair price for his or her produce. The system differs from a box scheme in that the partnership is with one or a small number of producers, and all the food is sourced there –-- there’s no use of imported foods, and the emphasis is very much on local food systems. Another difference is that members take more of an active role in meeting the grower, discussing options, and possibly visiting the farm to help out as the scheme develops. Find out more about the Dublin CSA on [their website](https://csadublin.wordpress.com/).
 
+### EcoEat
+
+![EcoEat]({{ site.baseurl }}/images/events/2018-12-festival/teaser-ecoeat.jpg "EcoEat"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+EcoEat will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
+
 ### Revived Yarn
 
 ![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
 
+### Seal Rescue Ireland
 
+![Seal Rescue Ireland]({{ site.baseurl }}/images/logos-external/logo-seal-rescue-ireland.jpg "Seal Rescue Ireland"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Seal Rescue Ireland](http://www.sealrescueireland.org/) is going to join us as with an info stand at this Festival. Seal Rescue Ireland is the country’s only seal rescue and rehabilitation charity covering the entire coastline. They work towards protecting seals, other marine wildlife and the environment, as well as trying to educate people about nature and their interactions within it. Learn more about their work at the info stand.
+
+### WeShare
+
+![WeShare]({{ site.baseurl }}/images/logos-external/logo-weshare.jpg "WeShare"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[WeShare](https://www.weshare.ie/) is a Gift Economy Community, gifting or sharing anything from a bike to a table, a wok to a hydraulic floor jack, also skills, knowledge, practical support, ideas, stuff and time, and all for free. There is no difference between giving and receiving; they are seen as the two sides of the same non-monetary coin. There is no expectation of reciprocity – it is based on the pay-it-forward principle. Members can ask for anything or offer anything. Their aims are to help in the transition from consumption to contribution; transaction to trust; from isolation to community. WeShare is about promoting positive change in our community, our country and in the world.
 
 <a href="#top">Back to top</a>
 
 
 ## Swap Shops
 
-There will be three swaps hops at this Christmas Edition of the Zero Waste Festival. Our very successful Clothes Swap, back by popular demand. Get ready for the party season with some new to you outfits (and maybe even get a few gifts)!So, please bring your pre-loved item along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
+There will be three swaps hops at this Christmas Edition of the Zero Waste Festival, back by popular demand. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
 
 ### Pre-loved Clothes Swap Shop
 
@@ -276,26 +215,109 @@ There will be a dedicated Book Swap table at the Festival. Bring your old favour
 
 Get your home ready for the holidays, and maybe pick up a few bits for creative gift wrapping. Bring any Christmas decorations that don't fit in your life. Exchange for tokens. Browse the selection and take home decorations that you love! All leftovers will be donated to charity.
 
-
-
-
-<a href="#top">Back to top</a>
-
-## Meet-ups
-
-We will host Zero Waste themed and like-minded meetups during the festival. Check back here for details in a few days.
-
 <a href="#top">Back to top</a>
 
 
-## Art Exhibition
+## Make Space
 
-We will have some fantastic art work around Zero Waste. Check back soon for infos.
+We will host a selected range of hands-on workshops and events in our Make Space this time. Please note, that some events need prior registration (as we have to organise material and wouldn't want anything to waste, after all).
+
+### 11:00 -- 12:00 <br/> Tree-planting With Santa
+
+A refreshingly different Santa experience for you and your child. Come along to our children’s workshop at the Make Space where you will work with Santa and his helpers to make a biodegradable pot and, then, plant your very own tree to take home with you.
+
+Please note, that a separate ticket will be required for each child for the Planting Trees with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our [tickets](/tickets) section. 
 
 <a href="#top">Back to top</a>
 
 
-## Photo and video recording
+###  12:30 -- 2:00 <br/> Learn to Knit with Revived Yarn
+
+Revived Yarn will host a beginner's knitting workshop at the upcoming Zero Waste Christmas Festival. If you would like to give back and help them to warm the homeless but you don't know how to knit or you are a beginner, this workshop is for you! In this class you will receive a kit containing the yarn to be upcycled and a pattern. You will learn the basic stitches of knitting and all the steps to make a simple and fashionable item for the homeless. Sign up for free [here](/2018-12-festival/learn-knit-homeless-revived-yarn) if you would like to learn how to make simple and fashionable items for the homeless.
+
+
+###  2:30 -- 4:00 <br/> Jar Upcycling
+
+More info soon.
+
+
+
+## Art
+
+![Artinwoods]({{ site.baseurl }}/images/logos-external/logo-artinwoods.png "Artinwoods"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+We are happy to host an art installation by [Artinwoods](https://www.facebook.com/Artinwoods) at the festival. The guy behind Artinwoods, Trevor, is an artist currently studying in NCAD for a Diploma in Art and Design. Apart from standard painting techniques he is interested in using found/recycled objects and upscaling them to art. His Sculpture ‘What’s your Plastic Footprint’ will be on display and aims to make people think about their plastic use and what we really leave behind every day.
+
+<a href="#top">Back to top</a>
+
+
+
+# Volunteer with us!
+
+We are always looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free Talk/Workshop Pass, a chance to meet like-minded people and have a first pick at the Swap Shops. 
+
+Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
+
+<a href="#top">Back to top</a>
+
+
+# Venue
+
+The festival will be hosted at the [Green Door Market](https://www.thegreendoor.ie/) at [Unit A1, Bluebell Business Centre, Old Naas Road, Dublin 12](https://goo.gl/maps/dt4MdVBktjt) from 10 AM to 5 PM on December 2nd, 2018.
+
+## How to get there?
+
+The Green Door Market is located indoors at Unit A1, Bluebell Business Centre, Old Naas Road, Dublin 12. And guess what? The door is green so keep your eyes open for it.  
+
+There are bike racks in the courtyard and the parking is free. There is parking in front of the offices and all around the rear. However, the Market is very easily reached by public transport and we encourage our visitors strongly to use a sustainable mode of transportation, e.g. bike, by foot, LUAS or Dublin Bus.
+
+### Luas
+
+The Green Door Market is 5 minutes walk from both the Bluebell and the Kylemore stops on the red line. If you use the Kylemore stop cut through The Royal Liver retail park to the car entrance and the Market is opposite. 
+
+### Buses
+
+Take [Dublin Bus](http://www.dublinbus.ie/) 13, 18, 51x, 68, 69, or 69x to Bluebell.
+
+### Take a stroll or your bike
+
+If the weather is nice, why not take a walk or your bike.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.780129630582!2d-6.34363018473999!3d53.329289983690614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c236b10a4df%3A0x1dcea1c868ca9902!2sThe+Green+Door+Market!5e0!3m2!1sen!2sie!4v1541965459331" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<a href="#top">Back to top</a>
+
+# What to bring
+
+No need to print your tickets, we will have your name at the door for all ticketed events.
+
+## For notes
+
+There'll be no leaflets or business cards, so bring your phone, a camera or a pen and paper.
+
+## For workshops
+
+You'll need a fork or spoon for samples of food.
+
+## For shopping
+
+You'll need your own containers for loose goods and refills and bring some bags to carry your purchases home.
+
+## For food and drinks
+
+Bring your own mug, water bottle and lunch box and utensils. You're also welcome to bring a picnic to share with your new Zero Waste friends.
+
+## Stuff to swap/share/donate
+
+- Clean and wearable men's, women's and kid's clothes for the swap shop
+- Some books for the swap shop
+- Preloved Christmas Decorations 
+- OtherMother would love to upcycle your old t-shirts and sheets (100% cotton please)
+- Spare jars can be useful for other people who didn't bring enough
+- Bring any take-away containers you have built up to share in case people are short
+
+
+# Photo and video recording
 
 We are very happy if you take photos at the festival and share them on our or your social media with the hashtags #ZeroWasteFestival
 
