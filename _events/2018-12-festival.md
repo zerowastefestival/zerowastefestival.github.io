@@ -251,16 +251,6 @@ We are happy to host an art installation by [Artinwoods](https://www.facebook.co
 <a href="#top">Back to top</a>
 
 
-
-# Volunteer with us!
-
-We are always looking for volunteers to help us to organise the upcoming Festival. We need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free Talk/Workshop Pass, a chance to meet like-minded people and have a first pick at the Swap Shops. 
-
-Please contact us at [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie) to get involved.
-
-<a href="#top">Back to top</a>
-
-
 # Venue
 
 The festival will be hosted at the [Green Door Market](https://www.thegreendoor.ie/) at [Unit A1, Bluebell Business Centre, Old Naas Road, Dublin 12](https://goo.gl/maps/dt4MdVBktjt) from 10 AM to 5 PM on December 2nd, 2018.
