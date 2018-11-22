@@ -43,7 +43,7 @@ Admission to the main festival with info stands, swap shops, drop-in workshops, 
 
 <sup>Click on the image to download a high-resolution version.</sup>
 
-The entrance to the main Festival with [market](#market), [Info Stands] (#info-stands), [Make Space](make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
+The entrance to the main Festival with [market](#market), [Info Stands](#info-stands), [Make Space](#make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
 
 ### Talks and Workshops
 
