@@ -238,6 +238,8 @@ We will host a selected range of hands-on workshops and events in our Make Space
 
 #### 11:00 -- 12:00 <br/> Tree-planting With Santa
 
+![Tree Planting with Santa]({{ site.baseurl }}/images/events/2018-12-festival/zero-waste-tree-planting-with-santa-teaser.jpg "Tree Planting with Santa"){:style="float: top;margin-right: 10px;height: 250px;"}
+
 A refreshingly different Santa experience for you and your child. Come along to our children’s workshop at the Make Space where you will work with Santa and his helpers to make a biodegradable pot and, then, plant your very own tree to take home with you.
 
 Please note, that a separate ticket will be required for each child for the Planting Trees with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our [tickets](/tickets) section. 
