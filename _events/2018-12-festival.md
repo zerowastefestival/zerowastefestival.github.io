@@ -249,6 +249,8 @@ Please note, that a separate ticket will be required for each child for the Plan
 
 ####  12:30 -- 2:00 <br/> Learn to Knit with Revived Yarn
 
+![Learn to Knit with Revived Yarn]({{ site.baseurl }}/images/events/2018-12-festival/teaser-revived-yarn-knitting.jpg "Learn to Knit with Revived Yarn"){:style="float: top;margin-right: 10px;height: 250px;"}
+
 Revived Yarn will host a beginner's knitting workshop at the upcoming Zero Waste Christmas Festival. If you would like to give back and help them to warm the homeless but you don't know how to knit or you are a beginner, this workshop is for you! In this class you will receive a kit containing the yarn to be upcycled and a pattern. You will learn the basic stitches of knitting and all the steps to make a simple and fashionable item for the homeless. Sign up for free [here](/2018-12-festival/learn-knit-homeless-revived-yarn) if you would like to learn how to make simple and fashionable items for the homeless.
 
 
