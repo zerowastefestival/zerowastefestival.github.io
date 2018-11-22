@@ -281,7 +281,7 @@ Take [Dublin Bus](http://www.dublinbus.ie/) 13, 18, 51x, 68, 69, or 69x to Blueb
 
 ### Take a stroll or your bike
 
-If the weather is nice, why not take a walk or your bike.
+If the weather is nice, why not take a walk or your bike. You can plan the best route with the [Transport for Iteland Cycle Planner](http://www.journeyplanner.transportforireland.ie/cp/).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.780129630582!2d-6.34363018473999!3d53.329289983690614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670c236b10a4df%3A0x1dcea1c868ca9902!2sThe+Green+Door+Market!5e0!3m2!1sen!2sie!4v1541965459331" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
