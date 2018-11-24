@@ -181,6 +181,7 @@ Your old favourite market stall Bring Your Own has now teamed up with Phibsborou
 ![Olivieri]({{ site.baseurl }}/images/logos-external/logo-olivieri.jpg "Olivieri"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian Foods](www.oliveoil.ie) and stock up on of some quality Italian products at their stall. You can also find them on [Facebook](https://www.facebook.com/OlivieriOliveOIl), [Instagram](https://www.instagram.com/olivierifoods/), and [Twitter](https://twitter.com/olivierioil) in the mean time.
+<br>
 
 
 ![Other Mother]({{ site.baseurl }}/images/logos-external/logo-other-mother.jpg "Other Mother"){:style="float: top;margin-right: 10px;height: 150px;"}
