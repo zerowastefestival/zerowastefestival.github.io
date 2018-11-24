@@ -202,7 +202,7 @@ With the [Dublin CSA](https://csadublin.wordpress.com/) (community-supported agr
 
 ![EcoEat]({{ site.baseurl }}/images/events/2018-12-festival/teaser-ecoeat.jpg "EcoEat"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-*EcoEat* will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
+**EcoEat** will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
 
 
 ![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
