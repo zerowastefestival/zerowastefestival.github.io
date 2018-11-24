@@ -12,7 +12,9 @@ sidebar: true
 share: true
 ---
 
-As always, we will bring a wide variety of Zero Waste themed vendors together at our Market that will offer you packaging free alternatives for your daily needs and occasional extravaganzas. Check out the [Zero Waste Christmas Festival event page](/2018-12-festival) for more infor on the vendors or simply click through the gallery below to see what some of the market stalls will have to offer.
+As always, we will bring a wide variety of Zero Waste themed vendors together at our Market that will offer you packaging free alternatives for your daily needs and occasional extravaganzas. 
+
+Check out the [Zero Waste Christmas Festival event page](/2018-12-festival) for more infor on the vendors or simply click through the gallery below to see what some of the market stalls will have to offer.
 
 {% include image-gallery.html folder="/images/events/2018-12-festival/galleries/vendors" %}
 
