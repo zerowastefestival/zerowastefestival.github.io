@@ -159,13 +159,36 @@ Bare Necessities sells loose, organic food staples and hygiene products to help 
 
 Your old favourite market stall Bring Your Own has now teamed up with Phibsborough's brand new health food store Noms offering a wide range of products, including household and body care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out [Noms' website](http://noms.ie/) and [Instagram](https://www.instagram.com/noms_ire/) to check out their range of products.
 
+#### Earth Angel's Wellness
+
+![Earth Angel's Wellness]({{ site.baseurl }}/images/logos-external/logo-earth-angels.jpg "Earth Angel's Wellness"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Herbal medicines, self-care supports, and alternative therapies foraged and inspired in local, organic community garden plots in inner-city Dublin. Find out more on [Instagram](https://www.instagram.com/garden.gnar).
+
+#### Jiminy: Crafts with a Conscience
+
+![Jiminy]({{ site.baseurl }}/images/logos-external/logo-jiminy.jpg "Jiminy"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Jiminy offers gorgeous, packaging-free, made-in-Europe, eco-friendly art and craft supplies and cardboard design toys, including: 3D colour-in Christmas trees, fingerpaint, bioglitter, plastic-free felt, wooden beads, kiddie crafting kits, press-build-play farm and astronaut sets. Make sure to check their [website](www.jiminy.ie) or [Instagram](https://www.instagram.com/jiminy.ie).
 
 #### Lilly's Eco-Clean
 
 ![Lilly's Eco-Clean]({{ site.baseurl }}/images/logos-external/logo-lillys-ecoclean.jpg "Lilly's Eco-Clean"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Lilly's Eco Clean manufactures a range of natural cleaning products right here in Dublin. Since the beginning, the company has been doing their best to reduce waste. Bottles are made out of post consumer recycled plastics. Boxes as packed with paper tape and practically every element related to production is re-used as best as possible. The company started waste reduction in household thinking early and refills were made available from the day one. Today, Lilly's product containers can be re-used in many ways so that everyone can do it, either by bringing Lilly's bottle or any bottle for refilling, get a refill pouch that reduces both waste and carbon foot print or using containers or sharing them with friends. For more info, check out their [website](https://www.lillysecoclean.com){:target="_blank"}, [Instagram feed](https://www.instagram.com/lillysecoclean){:target="_blank"}, or [facebook page](https://www.facebook.com/lillysecoproducts){:target="_blank"}.
+Lilly's Eco Clean manufactures a range of natural cleaning products right here in Dublin. Since the beginning, the company has been doing their best to reduce waste. Bottles are made out of post consumer recycled plastics. Boxes as packed with paper tape and practically every element related to production is re-used as best as possible. The company started waste reduction in household thinking early and refills were made available from the day one. Today, Lilly's product containers can be re-used in many ways so that everyone can do it, either by bringing Lilly's bottle or any bottle for refilling, get a refill pouch that reduces both waste and carbon foot print or using containers or sharing them with friends. For more info, check out their [website](https://www.lillysecoclean.com), [Instagram feed](https://www.instagram.com/lillysecoclean), or [facebook page](https://www.facebook.com/lillysecoproducts).
 
+#### mandastic.com
+
+![mandastic]({{ site.baseurl }}/images/logos-external/logo-mandastic.jpg "mandastic"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Mandastic.com](https://www.mandastic.com) offers high quality artistic gifts, stylishly designed and uniquely handcrafted in Dublin while making a positive impact on both the people and the planet. You can also find them on their [website](https://www.mandastic.com) or [Facebook](https://www.facebook.com/mandasticcrafts).
+
+
+#### Olivieri's Fine Italian Foods
+
+![Olivieri]({{ site.baseurl }}/images/logos-external/logo-olivieri.jpg "Olivieri"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian Foods](www.oliveoil.ie) and stock up on of quality Italian products at their stall. You can also find them on [Facebook](https://www.facebook.com/OlivieriOliveOIl), [Instagram](https://www.instagram.com/olivierifoods/), and [Twitter](https://twitter.com/olivierioil) in the mean time.
 
 #### Other Mother
 
