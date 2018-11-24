@@ -147,54 +147,45 @@ This talk is hosted by [Jan](https://www.janknappe.com). He is an environmental 
 
 As always, we will bring a selection of Zero Waste lifestyle market stalls to our festival where you can source everything loose, refillable, or package free. Our confirmed partners for this festival include:
 
-#### Bare Necessities
 
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday Market in the Bullring, Wexford town, a weekly Saturday market in Skerries Mills and once a month in Maynooth. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/){:target="_blank"}.
+[Bare Necessities](https://www.facebook.com/BareNecessitiesIreland/) sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday Market in the Bullring, Wexford town, a weekly Saturday market in Skerries Mills and once a month in Maynooth. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/).
 
-#### BYO @ Noms
 
 ![Noms]({{ site.baseurl }}/images/logos-external/logo-noms.jpg "Noms"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Your old favourite market stall Bring Your Own has now teamed up with Phibsborough's brand new health food store Noms offering a wide range of products, including household and body care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out [Noms' website](http://noms.ie/) and [Instagram](https://www.instagram.com/noms_ire/) to check out their range of products.
+Your old favourite market stall Bring Your Own has now teamed up with Phibsborough's brand new health food store [Noms](https://www.instagram.com/noms_ire/) offering a wide range of products, including household and body care items, loose grains, fruits, spices, and snacks. Find them at the Zero Waste Festival or check out [Noms' website](http://noms.ie/) and [Instagram](https://www.instagram.com/noms_ire/) to check out their range of products.
 
-#### Earth Angel's Wellness
 
-![Earth Angel's Wellness]({{ site.baseurl }}/images/logos-external/logo-earth-angels.jpg "Earth Angel's Wellness"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Earth Angel's Wellness]({{ site.baseurl }}/images/logos-external/logo-earth-angels.png "Earth Angel's Wellness"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Herbal medicines, self-care supports, and alternative therapies foraged and inspired in local, organic community garden plots in inner-city Dublin. Find out more on [Instagram](https://www.instagram.com/garden.gnar).
+[Earth Angel's Wellness](https://www.instagram.com/garden.gnar) offers herbal medicines, self-care supports, and alternative therapies foraged and inspired in local, organic community garden plots in inner-city Dublin. Find out more on [Instagram](https://www.instagram.com/garden.gnar).
 
-#### Jiminy: Crafts with a Conscience
 
 ![Jiminy]({{ site.baseurl }}/images/logos-external/logo-jiminy.jpg "Jiminy"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Jiminy offers gorgeous, packaging-free, made-in-Europe, eco-friendly art and craft supplies and cardboard design toys, including: 3D colour-in Christmas trees, fingerpaint, bioglitter, plastic-free felt, wooden beads, kiddie crafting kits, press-build-play farm and astronaut sets. Make sure to check their [website](www.jiminy.ie) or [Instagram](https://www.instagram.com/jiminy.ie).
+[Jiminy: Crafts with a Conscience](www.jiminy.ie) offers gorgeous, packaging-free, made-in-Europe, eco-friendly art and craft supplies and cardboard design toys, including: 3D colour-in Christmas trees, fingerpaint, bioglitter, plastic-free felt, wooden beads, kiddie crafting kits, press-build-play farm and astronaut sets. Make sure to check their [website](www.jiminy.ie) or [Instagram](https://www.instagram.com/jiminy.ie).
 
-#### Lilly's Eco-Clean
 
 ![Lilly's Eco-Clean]({{ site.baseurl }}/images/logos-external/logo-lillys-ecoclean.jpg "Lilly's Eco-Clean"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Lilly's Eco Clean manufactures a range of natural cleaning products right here in Dublin. Since the beginning, the company has been doing their best to reduce waste. Bottles are made out of post consumer recycled plastics. Boxes as packed with paper tape and practically every element related to production is re-used as best as possible. The company started waste reduction in household thinking early and refills were made available from the day one. Today, Lilly's product containers can be re-used in many ways so that everyone can do it, either by bringing Lilly's bottle or any bottle for refilling, get a refill pouch that reduces both waste and carbon foot print or using containers or sharing them with friends. For more info, check out their [website](https://www.lillysecoclean.com), [Instagram feed](https://www.instagram.com/lillysecoclean), or [facebook page](https://www.facebook.com/lillysecoproducts).
+[Lilly's Eco Clean](https://www.lillysecoclean.com) manufactures a range of natural cleaning products right here in Dublin. Since the beginning, the company has been doing their best to reduce waste. Bottles are made out of post consumer recycled plastics and refills were made available from day one. For more info, check out their [website](https://www.lillysecoclean.com), [Instagram](https://www.instagram.com/lillysecoclean), or [Facebook](https://www.facebook.com/lillysecoproducts).
 
-#### mandastic.com
 
 ![mandastic]({{ site.baseurl }}/images/logos-external/logo-mandastic.jpg "mandastic"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Mandastic.com](https://www.mandastic.com) offers high quality artistic gifts, stylishly designed and uniquely handcrafted in Dublin while making a positive impact on both the people and the planet. You can also find them on their [website](https://www.mandastic.com) or [Facebook](https://www.facebook.com/mandasticcrafts).
 
 
-#### Olivieri's Fine Italian Foods
-
 ![Olivieri]({{ site.baseurl }}/images/logos-external/logo-olivieri.jpg "Olivieri"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian Foods](www.oliveoil.ie) and stock up on of quality Italian products at their stall. You can also find them on [Facebook](https://www.facebook.com/OlivieriOliveOIl), [Instagram](https://www.instagram.com/olivierifoods/), and [Twitter](https://twitter.com/olivierioil) in the mean time.
+Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian Foods](www.oliveoil.ie) and stock up on of some quality Italian products at their stall. You can also find them on [Facebook](https://www.facebook.com/OlivieriOliveOIl), [Instagram](https://www.instagram.com/olivierifoods/), and [Twitter](https://twitter.com/olivierioil) in the mean time.
 
-#### Other Mother
 
 ![Other Mother]({{ site.baseurl }}/images/logos-external/logo-other-mother.jpg "Other Mother"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Other Mother makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/).
+[Other Mother](https://www.facebook.com/OtherMotherCreations/) makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/).
 
 <a href="#top">Back to top</a>
 
@@ -203,31 +194,26 @@ Other Mother makes upcycled alternatives to everyday and parenting disposable pr
 
 Want to find out more about leading a more sustainable life with less disposables and more fulfilment? Visit our info stands to get inspired and discuss your Zero Waste journey with organisations and practitioners dedicated to help you along the way.
 
-#### Dublin CSA
 
 ![Dublin CSA]({{ site.baseurl }}/images/logos-external/logo-dublin-csa.png "Dublin CSA"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Community-supported agriculture (CSA) involves establishing a relationship with a farmer for a growing season. It benefits both parties in that buyers get good quality food straight from the source (no middlemen) and the farmer gets a fair price for his or her produce. The system differs from a box scheme in that the partnership is with one or a small number of producers, and all the food is sourced there –-- there’s no use of imported foods, and the emphasis is very much on local food systems. Another difference is that members take more of an active role in meeting the grower, discussing options, and possibly visiting the farm to help out as the scheme develops. Find out more about the Dublin CSA on [their website](https://csadublin.wordpress.com/).
+With the [Dublin CSA](https://csadublin.wordpress.com/) (community-supported agriculture) you can establishing a relationship with a farmer for a growing season. It benefits both parties; buyers get good quality food straight from the source (no middlemen) and the farmer gets a fair price for their produce. The system differs from a box scheme in that the partnership is with one or a small number of producers, and all the food is sourced there –-- there’s no use of imported foods, and the emphasis is very much on local food systems. Members will take an active role in meeting the grower, discussing options, and possibly visiting the farm to help out as the scheme develops. Find out more about the Dublin CSA on [their website](https://csadublin.wordpress.com/) or directly at the Festival.
 
-#### EcoEat
 
 ![EcoEat]({{ site.baseurl }}/images/events/2018-12-festival/teaser-ecoeat.jpg "EcoEat"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-EcoEat will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
+*EcoEat* will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
 
-#### Revived Yarn
 
-![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Revived Yarn](https://www.facebook.com/revivedyarn)({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
+[Revived Yarn] is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
 
-#### Seal Rescue Ireland
 
 ![Seal Rescue Ireland]({{ site.baseurl }}/images/logos-external/logo-seal-rescue-ireland.jpg "Seal Rescue Ireland"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Seal Rescue Ireland](http://www.sealrescueireland.org/) is going to join us as with an info stand at this Festival. Seal Rescue Ireland is the country’s only seal rescue and rehabilitation charity covering the entire coastline. They work towards protecting seals, other marine wildlife and the environment, as well as trying to educate people about nature and their interactions within it. Learn more about their work at the info stand.
 
-#### WeShare
 
 ![WeShare]({{ site.baseurl }}/images/logos-external/logo-weshare.jpg "WeShare"){:style="float: top;margin-right: 10px;height: 200px;"}
 
