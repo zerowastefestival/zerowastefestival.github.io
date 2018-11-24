@@ -205,7 +205,7 @@ With the [Dublin CSA](https://csadublin.wordpress.com/) (community-supported agr
 *EcoEat* will join us with an info stand to promote edible plates from oats. So, eat your plate or let it biodegrade withing 30 days! Their disposable wheat bran tableware is suitable for serving hot and cold meals and can be safely used in classic ovens or microwave ovens. Find out more at the Festival.
 
 
-![Revived Yarn](https://www.facebook.com/revivedyarn)({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Revived Yarn] is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
 
