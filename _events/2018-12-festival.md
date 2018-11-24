@@ -146,6 +146,7 @@ This talk is hosted by [Jan](https://www.janknappe.com). He is an environmental 
 ### Market
 
 As always, we will bring a selection of Zero Waste lifestyle market stalls to our festival where you can source everything loose, refillable, or package free. Our confirmed partners for this festival include:
+<br><br><br>
 
 
 ![Bare Necessities]({{ site.baseurl }}/images/logos-external/logo-bare-necessities.jpg "Bare Necessities"){:style="float: top;margin-right: 10px;height: 150px;"}
@@ -201,6 +202,7 @@ Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian 
 ### Info Stands
 
 Want to find out more about leading a more sustainable life with less disposables and more fulfilment? Visit our info stands to get inspired and discuss your Zero Waste journey with organisations and practitioners dedicated to help you along the way.
+<br><br><br>
 
 
 ![Dublin CSA]({{ site.baseurl }}/images/logos-external/logo-dublin-csa.png "Dublin CSA"){:style="float: top;margin-right: 10px;height: 150px;"}
