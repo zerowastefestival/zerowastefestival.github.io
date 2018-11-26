@@ -173,6 +173,18 @@ Your old favourite market stall Bring Your Own has now teamed up with Phibsborou
 <br><br><br>
 
 
+![Filter and Brew]({{ site.baseurl }}/images/logos-external/logo-filter-brew.png "Filter and Brew"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Filter and Brew](https://www.filterandbrew.com/) is dedicated to creating unique and exciting speciality teas. They operate in a way that is eco friendly, fair and ethical and use only the finest ingredients to create blends to savour. Make sure to check their [website](https://www.filterandbrew.com/) for what they have to offer, or check out their [Instagram](https://www.instagram.com/filterandbrewdublin/).
+<br><br><br>
+
+
+![Jennifer]({{ site.baseurl }}/images/logos-external/logo-jennifer-lorigan.png "Jennifer"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+**Jennifer** handmakes re-usable alternatives to single-use make-up removal pads and carrier bags. Made from unbleached cotton, these products can be composted when they eventually wear out. She also turns old t-shirts into coasters, place-mats and tote bags, and makes scarves and gloves from project remnants, so that nothing goes to waste.
+<br><br><br>
+
+
 ![Jiminy]({{ site.baseurl }}/images/logos-external/logo-jiminy.jpg "Jiminy"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Jiminy: Crafts with a Conscience](www.jiminy.ie) offers gorgeous, packaging-free, made-in-Europe, eco-friendly art and craft supplies and cardboard design toys, including: 3D colour-in Christmas trees, fingerpaint, bioglitter, plastic-free felt, wooden beads, kiddie crafting kits, press-build-play farm and astronaut sets. Make sure to check their [website](www.jiminy.ie) or [Instagram](https://www.instagram.com/jiminy.ie).
@@ -200,6 +212,12 @@ Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian 
 ![Other Mother]({{ site.baseurl }}/images/logos-external/logo-other-mother.jpg "Other Mother"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Other Mother](https://www.facebook.com/OtherMotherCreations/) makes upcycled alternatives to everyday and parenting disposable products. Using waste material, such as old t-shirts, Belle hand-crafts beautiful products. For more info, check out her [facebook page](https://www.facebook.com/OtherMotherCreations/).
+<br><br><br>
+
+
+![Sonett Ireland]({{ site.baseurl }}/images/logos-external/logo-sonett.jpg "Sonett Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Sonett Ireland](https://sonett.eu/) will bring organic soaps and detergents - protecting natural water resources, the essence of life. Make sure to check their [website](https://sonett.eu/) for what they have to offer.
 <br><br><br>
 
 <a href="#top">Back to top</a>
