@@ -173,13 +173,13 @@ Your old favourite market stall Bring Your Own has now teamed up with Phibsborou
 <br><br><br>
 
 
-![Filter and Brew]({{ site.baseurl }}/images/logos-external/logo-filter-brew.png "Filter and Brew"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Filter and Brew]({{ site.baseurl }}/images/logos-external/logo-filter-brew.jpg "Filter and Brew"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Filter and Brew](https://www.filterandbrew.com/) is dedicated to creating unique and exciting speciality teas. They operate in a way that is eco friendly, fair and ethical and use only the finest ingredients to create blends to savour. Make sure to check their [website](https://www.filterandbrew.com/) for what they have to offer, or check out their [Instagram](https://www.instagram.com/filterandbrewdublin/).
 <br><br><br>
 
 
-![Jennifer]({{ site.baseurl }}/images/logos-external/logo-jennifer-lorigan.png "Jennifer"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Jennifer]({{ site.baseurl }}/images/logos-external/logo-jennifer-lorigan.jpg "Jennifer"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 **Jennifer** handmakes re-usable alternatives to single-use make-up removal pads and carrier bags. Made from unbleached cotton, these products can be composted when they eventually wear out. She also turns old t-shirts into coasters, place-mats and tote bags, and makes scarves and gloves from project remnants, so that nothing goes to waste.
 <br><br><br>
