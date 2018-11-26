@@ -154,6 +154,11 @@ As always, we will bring a selection of Zero Waste lifestyle market stalls to ou
 [Bare Necessities](https://www.facebook.com/BareNecessitiesIreland/) sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly Friday Market in the Bullring, Wexford town, a weekly Saturday market in Skerries Mills and once a month in Maynooth. Find them at the Zero Waste Festival or check out their [facebook page](https://www.facebook.com/BareNecessitiesIreland/).
 <br><br><br>
 
+![Minimal Waste Grocery]({{ site.baseurl }}/images/logos-external/logo-minimal-waste-grocery.jpg "BMinimal Waste Grocery"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Minimal Waste Grocery](https://minimalwastegrocery.com/) is a Zero Waste grocery selling bulk organic dry goods, oils, vinegars, household cleaning items, bath and body refills and much more. Find them at St Anne's Park every Saturday or online at [minimalwastegrocery.com](https://minimalwastegrocery.com/) They also deliver nationwide!
+<br><br><br>
+
 
 ![Noms]({{ site.baseurl }}/images/logos-external/logo-noms.jpg "Noms"){:style="float: top;margin-right: 10px;height: 150px;"}
 
