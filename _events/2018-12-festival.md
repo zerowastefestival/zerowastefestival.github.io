@@ -243,7 +243,7 @@ With the [Dublin CSA](https://csadublin.wordpress.com/) (community-supported agr
 
 ![Revived Yarn]({{ site.baseurl }}/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-[Revived Yarn] is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
+[Revived Yarn](https://www.facebook.com/revivedyarn) is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn).
 <br><br><br>
 
 
@@ -290,7 +290,7 @@ We will host a selected range of hands-on workshops and events in our Make Space
 
 A refreshingly different Santa experience for you and your child. Come along to our children’s workshop at the Make Space where you will work with Santa and his helpers to make a biodegradable pot and, then, plant your very own tree to take home with you.
 
-Please note, that a separate ticket will be required for each child for the Planting Trees with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our [tickets](/tickets) section. 
+Please note, that a separate ticket will be required for each child for the Tree Planting with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our [tickets](/tickets) section. 
 
 <a href="#top">Back to top</a>
 
