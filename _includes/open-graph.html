@@ -20,4 +20,8 @@
 	{% endif %}
 	<meta property="og:url" content="https://www.zerowastefestival.ie{{ page.url }}">
 	<meta property="og:site_name" content="{{ site.title }}">
-	<meta property="og:image" content="{{ site.baseurl }}/images/logos-zero-waste-festival/zero-waste-festival-ireland-logo.jpg">
+	{% if post.image.teaser %}
+		<meta property="og:image" content="{{ site.baseurl }}/images/{{ post.image.teaser }}">
+	{% else %}
+		<meta property="og:image" content="{{ site.baseurl }}/images/logos-zero-waste-festival/zero-waste-festival-ireland-logo.jpg">
+	{% endif %}
