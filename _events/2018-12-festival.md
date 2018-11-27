@@ -63,16 +63,15 @@ We will host a variety of workshops and talks as part of the Festival. Getting y
 <a name="impress"></a>
 ##### 11:00 -- 12:00 <br/> Impress Your Mother-In-Law 
 
-Cleaning your house for the festive season the eco way. More info coming soon.
+Cleaning your house for the festive season the eco way.  At 11am in Room 1 Titta from [Lilly's Eco Clean](https://www.lillysecoclean.com/) will be talking about how to impress your mother-in-law (and other guests) with a spotless home during the Christmas holidays at the Zero Waste Christmas Festival. Titta is the co founder, main owner and MD of Lilly's Eco Clean, manufacturer of natural cleaning products made here in Ireland. Both in her business and her own life she aims to live towards zero waste and likes the concept of minimalism. 
+
 
 <a name="bites"></a>
 ##### 12:00 -- 1:00 <br/> Bites, Dips & Nibbles 
 
 ![Bites, Dips & Nibbles]({{ site.baseurl }}/images/events/2018-12-festival/teaser-bites-dips-nibbles.jpg "Bites, Dips & Nibbles"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-Treat your guests without filling the bin. Christmas is a party season - but you don't have to be a chef to put together a nice spread for your friends and family. Get some inspiration for simple bites, crowd-pleasing dips and delicious nibbles... all with sustainability in mind.
-
-Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
+Treat your guests without filling the bin. Christmas is a party season - but you don't have to be a chef to put together a nice spread for your friends and family. Get some inspiration for simple bites, crowd-pleasing dips and delicious nibbles... all with sustainability in mind. Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
 
 <a name="crochet"></a>
@@ -80,9 +79,7 @@ Your host for this workshop is Zdenka. She is a food lover and amateur aerial ac
 
 ![Learn to Crochet Toys]({{ site.baseurl }}/images/events/2018-12-festival/teaser-crochet-toys.jpg "Learn to Crochet Toys"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-The art of making amigurumi toys. This workshop with Elaine will teach the skills required to start creating handmade toys. All the necessary equipment and materials will be provided on the day to allow participants to make their own baby owl toy from scratch.
-
-Elaine Butler is a designer with a passion for sustainable living. Her blog [Living Lightly in Ireland](https://livinglightlyinireland.wordpress.com/) is a well of information on how to create a beautiful compassionate life in a sustainable and ethical manner. You can also find her on [Facebook](https://www.facebook.com/livinglightlyinireland/) and [Instagram](https://www.instagram.com/livinglightlyinireland/).
+The art of making amigurumi toys. This workshop with Elaine will teach the skills required to start creating handmade toys. All the necessary equipment and materials will be provided on the day to allow participants to make their own baby owl toy from scratch. Elaine Butler is a designer with a passion for sustainable living. Her blog [Living Lightly in Ireland](https://livinglightlyinireland.wordpress.com/) is a well of information on how to create a beautiful compassionate life in a sustainable and ethical manner. You can also find her on [Facebook](https://www.facebook.com/livinglightlyinireland/) and [Instagram](https://www.instagram.com/livinglightlyinireland/).
 
 
 <a name="yummy"></a>
@@ -90,14 +87,14 @@ Elaine Butler is a designer with a passion for sustainable living. Her blog [Liv
 
 ![Yummy Gifts]({{ site.baseurl }}/images/events/2018-12-festival/teaser-yummy-gifts.jpg "Yummy Gifts"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-Delicious treats for under the tree. Gifts that are made with love and care, rather than just hastily bought in the nearest shop are always more appreciated. If you want to give your friends and family some delicious homemade edible treats, sweet or savoury, or even some drinks with a little kick (and learn to cut food waste while you're at it) come along and get some recipes that won’t cost the Earth. Oh and don't fear - you won’t need to slave over the kitchen counter for hours! 
+Delicious treats for under the tree. Gifts that are made with love and care, rather than just hastily bought in the nearest shop are always more appreciated. If you want to give your friends and family some delicious homemade edible treats, sweet or savoury, or even some drinks with a little kick (and learn to cut food waste while you're at it) come along and get some recipes that won’t cost the Earth. Oh and don't fear - you won’t need to slave over the kitchen counter for hours! Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
-Your host for this workshop is Zdenka. She is a food lover and amateur aerial acrobat who likes to keep things simple. She shares her tips and tricks for living a more sustainable life on her blog [Coming to Zero](https://comingtozero.com) and you can also find her on [Instagram](https://www.instagram.com/comingtozero/).
 
 <a name="bath"></a>
 ##### 3:00 -- 4:00 <br/> Bath and Beyond: Stocking Fillers 
 
-Homemade products that show you care. More info coming soon.
+Homemade products that show you care. Christmas is almost upon us and that means presents! While people say the gift is in the giving, keeping to zero waste principles can be hard! There is a simple solution at hand though. Making your own is easy! Even the generic fall back of bath sets looks thoughtful when you make it yourself! Join this workshop to learn how to make beauty treats and sample before you gift! For the ladies in your life there are vegan lotion bars, body scrubs and other delicious potions and lotions! If the men in your life have gotten shaving sets for all their Christmases no need to change! For the smooth-cheeked there will be shaving cream and the bearded gentlemen can have beard balm and oil! Not an upset rang-tan in sight either! Have a hippy Christmas! The workshop will be led by Molly Aylesbury. She has spent her life making-her-own, growing-her-own and doing-it-herself. Molly makes most of her own food, beauty and cleaning products with friends as usually willing guinea pigs. All of this naturally led her to the Zero Waste lifestyle, beginning her journey 3 years ago. Since then she has fully embraced it, opening a Zero Waste stall Bare Necessities Ireland with her best friend and accomplice Mies Stam. She also holds workshops and talks about living greener as well as being one half of Wildflower Walks Ireland teaching people the value of our native flora.
+You can follow her on her blog: [confessionsofaparttimehippy.wordpress.com](confessionsofaparttimehippy.wordpress.com)
 
 
 #### Room 2
@@ -105,31 +102,26 @@ Homemade products that show you care. More info coming soon.
 <a name="zero"></a>
 ##### 11:00 -- 12:00 <br/> Zero Waste with Kids 
 
-Cutting down even when you have little ones about. More info coming soon.
-
+Cutting down even when you have little ones about. Have you noticed how much waste is generated since the arrival of your baby? Want the best for your little one but still want to care for the environment and your pocket! Adapting elements of the Zero Waste lifestyle can have benefits for all the family. This talk is brought to you by Timi Nicholson of [Simple No Waste Life](https://simplenowastelife.com/). Get practical tips that you can start using straight away.
 
 <a name="wrapping"></a>
 ##### 12:00 -- 1:00 <br/> Alternative Gift Wrapping 
 
 ![Alternative Gift Wrapping]({{ site.baseurl }}/images/events/2018-12-festival/teaser-alternative-gift-wrapping.jpg "Alternative Gift Wrapping"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-Less glitter, less waste and a lot more taste! This workshop will be looking at how to gift wrap responsibly using upcycled materials, fabrics and craft supplies.
-
-Your host will be Belle from [Other Mother Creations](https://www.facebook.com/OtherMotherCreations/). She is an upcycling enthusiast who loves to use old fabrics and materials to create new and wonderful items in the most zero waste way possible.
+Less glitter, less waste and a lot more taste! This workshop will be looking at how to gift wrap responsibly using upcycled materials, fabrics and craft supplies. Your host will be Belle from [Other Mother Creations](https://www.facebook.com/OtherMotherCreations/). She is an upcycling enthusiast who loves to use old fabrics and materials to create new and wonderful items in the most zero waste way possible.
 
 
 <a name="decluttering"></a>
 ##### 1:00 -- 2:00 <br/> Decluttering Before Christmas 
 
-Clear out for the season the conscious way. More info coming soon.
+Clear out for the season the conscious way. Laura will give you practical ideas how you can take control of your life and clear out the clutter for good. She will tell you how to listen to your own heart, do more of what you love, and learn to let go of everything else. Laura is a relationship counsellor. She has been giving talks since 2014 on conscious living, decluttering and how they effect mental health and relationships. She lives a simple (slow, minimalist, zero waste) life with her husband and two sons in Dublin.
 
 
 <a name="gifting"></a>
 ##### 2:00 -- 3:00 <br/> Ideas for Experience Gifts 
 
-Give memories, not clutter! Ideas and inspiration for gifting your loved ones with experiences to remember, rather than "stuff" ultimately destined for landfill...! Lots of gift suggestions for various ages, interests and budgets, while positively impacting the planet along the way! So many people these days seem to have everything they need already. Why not help them live in the moment by giving them the gift of a wonderful experience, instead? You'll reduce the burden on our planet, and the excess of unwanted consumer products around the holidays, which clog up our lives, and later, our landfill sites and oceans! Ditch the "stuff", and still get that all-important list sorted by Christmas eve, it's a win-win! 
-
-This talk ist hosted by Sinéad. She is a musician and composer with a strong interest in the environment and climate action in particular. She has previously worked with WWF's Earth Hour initiative here in Ireland, and has completed training with Eco Unesco on Education for Sustainable Development from an environmental perspective. She finds an outlet for her environmental concerns with her facebook page, [Clarion Call for Climate Action](https://www.facebook.com/ClarionCallforClimateAction/), which will be running an experience-focused, eco gift guide throughout the month of December.
+Give memories, not clutter! Ideas and inspiration for gifting your loved ones with experiences to remember, rather than "stuff" ultimately destined for landfill...! Lots of gift suggestions for various ages, interests and budgets, while positively impacting the planet along the way! So many people these days seem to have everything they need already. Why not help them live in the moment by giving them the gift of a wonderful experience, instead? This talk ist hosted by Sinéad. She is a musician and composer with a strong interest in the environment and climate action in particular. She finds an outlet for her environmental concerns with her facebook page, [Clarion Call for Climate Action](https://www.facebook.com/ClarionCallforClimateAction/), which will be running an experience-focused, eco gift guide throughout the month of December.
 
 
 <a name="buy"></a>
@@ -137,9 +129,7 @@ This talk ist hosted by Sinéad. She is a musician and composer with a strong in
 
 ![Buy to Last]({{ site.baseurl }}/images/events/2018-12-festival/teaser-buy-to-last.jpg "Buy to Last"){:style="float: top;margin-right: 10px;height: 200px;"}
 
-A light bulb that lasts a hundred years? Electronics you probably lose before they break? A decade’s supply of shaving soap? There are many (durable and long-lasting) alternatives to the quick and cheap buys we encounter most of the time. In this talk, Jan will discuss some strategies to spot planned obsolescence, assess repairability, and fight fast fashion by looking at examples from everyday household items, to home electronics, white goods, and clothes. In the long run, buying to last will save money, time, stress, and the planet. If you want to learn more, come and join us for this talk in Room 2 at 3 pm.
-
-This talk is hosted by [Jan](https://www.janknappe.com). He is an environmental researcher here in Dublin, part of the [Zero Waste Festival organising team](/team) and has an undeniable passion for nature, sustainability, and quirky facts. E.g., did you know that the average 10-year-old in Britain owns 238 toys but plays with just 12 of them daily?
+A light bulb that lasts a hundred years? Electronics you probably lose before they break? A decade’s supply of shaving soap? There are many (durable and long-lasting) alternatives to the quick and cheap buys we encounter most of the time. In this talk, Jan will discuss some strategies to spot planned obsolescence, assess repairability, and fight fast fashion by looking at examples from everyday household items, to home electronics, white goods, and clothes. In the long run, buying to last will save money, time, stress, and the planet.  This talk is hosted by [Jan](https://www.janknappe.com), an environmental researcher here in Dublin.
 
 <a href="#top">Back to top</a>
 
