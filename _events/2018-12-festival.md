@@ -294,7 +294,9 @@ Revived Yarn will host a beginner's knitting workshop at the upcoming Zero Waste
 
 ####  2:30 -- 4:00 <br/> Jar Upcycling
 
-More info soon.
+![Jar Upcycling]({{ site.baseurl }}/images/events/2018-12-festival/teaser-jar-upcycling.jpg "Jar Upcycling"){:style="float: top;margin-right: 10px;height: 250px;"}
+
+Give a second life to all your glass jars. Big or small, skinny or wide, they can be all saved, reused and customized for perfect Christmas decoration or Christmas gifts. Just drop in anytime and Laetitia will show you how.
 
 
 
