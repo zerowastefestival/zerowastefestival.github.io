@@ -210,6 +210,12 @@ Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian 
 [Sonett Ireland](https://sonett.eu/) will bring organic soaps and detergents - protecting natural water resources, the essence of life. Make sure to check their [website](https://sonett.eu/) for what they have to offer.
 <br><br><br>
 
+
+![Three Hills Soap]({{ site.baseurl }}/images/logos-external/logo-three-hills-soap.jpg "Three Hills Soap"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Three Hills Soap](https://www.threehillssoap.ie/) offer natural-only soaps and shampoos for sensitive, oily, combination, normal, dry, acne-prone, itchy,  and irritated skin. They use only natural ingredients in all products. They only colour all products with natural plant colourants, cosmetic-grade clays and spices. Only pure essential oils are used to scent their products. Three Hills Soap is also committed to Eco-Friendly Green Packaging as they minimise packaging materials and their products packaging is 100% recycled, recyclable and compostable. Check out their [website](https://www.threehillssoap.ie/) or follow them on [Facebook](https://www.facebook.com/threehillssoap/), [Twitter](https://twitter.com/ThreeHillsSoap?lang=en), or [Instagram](https://www.instagram.com/threehillssoap/).
+<br><br><br>
+
 <a href="#top">Back to top</a>
 
 
