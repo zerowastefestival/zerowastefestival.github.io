@@ -216,6 +216,12 @@ Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian 
 [Three Hills Soap](https://www.threehillssoap.ie/) offer natural-only soaps and shampoos for sensitive, oily, combination, normal, dry, acne-prone, itchy,  and irritated skin. They use only natural ingredients in all products. They only colour all products with natural plant colourants, cosmetic-grade clays and spices. Only pure essential oils are used to scent their products. Three Hills Soap is also committed to Eco-Friendly Green Packaging as they minimise packaging materials and their products packaging is 100% recycled, recyclable and compostable. Check out their [website](https://www.threehillssoap.ie/) or follow them on [Facebook](https://www.facebook.com/threehillssoap/), [Twitter](https://twitter.com/ThreeHillsSoap?lang=en), or [Instagram](https://www.instagram.com/threehillssoap/).
 <br><br><br>
 
+
+![Twisted Dough]({{ site.baseurl }}/images/logos-external/logo-twisted-dough.jpg "Twisted Dough"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Twisted Dough](https://www.facebook.com/twisteddoughwicklow/) will also join us at the Zero Waste Christmas Festival with their local Irish food truck with a Polish twist. They have the first pierogi food truck on Irish Market. The pierogies are handmade from scratch with locally sourced ingredients. Loads of vegan and vegetarian options for pierogi lovers. Bring your own plate!
+<br><br><br>
+
 <a href="#top">Back to top</a>
 
 
