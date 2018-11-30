@@ -187,6 +187,13 @@ Your old favourite market stall Bring Your Own has now teamed up with Phibsborou
 <br><br><br>
 
 
+![Meastelo]({{ site.baseurl }}/images/logos-external/logo-meastelo.jpg "Meastelo"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Meastelo](https://meastelo.com/) brings the best Brazilian coffee to the Zero Waste Christmas Festival - drink it, feel it, share it! You can also find them on [Facebook](https://www.facebook.com/Meastelo/), [Twiter](https://www.twitter.com/meastelo), [Instagram](https://www.instagram.com/meastelo), or check their [website](https://meastelo.com/).
+
+<br><br><br>
+
+
 ![mandastic]({{ site.baseurl }}/images/logos-external/logo-mandastic.jpg "mandastic"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Mandastic.com](https://www.mandastic.com) offers high quality artistic gifts, stylishly designed and uniquely handcrafted in Dublin while making a positive impact on both the people and the planet. You can also find them on their [website](https://www.mandastic.com) or [Facebook](https://www.facebook.com/mandasticcrafts).
