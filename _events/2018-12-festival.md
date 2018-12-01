@@ -212,6 +212,12 @@ Get your refill of Italian extra virgin olive oil from [Olivieri's Fine Italian 
 <br><br><br>
 
 
+![Prisca Bags]({{ site.baseurl }}/images/events/2018-12-festival/prisca-bags.jpg "Prisca Bags"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Prisca Bags](https://www.instagram.com/priscabags/) brings you unique, handmade travel bags sewn from remnant materials. No two bags are the same as each has its own exclusive Prisca feel. Check our their [Instagram](https://www.instagram.com/priscabags/) for some of their latest creations.
+<br><br><br>
+
+
 ![Sonett Ireland]({{ site.baseurl }}/images/logos-external/logo-sonett.jpg "Sonett Ireland"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Sonett Ireland](https://sonett.eu/) will bring organic soaps and detergents - protecting natural water resources, the essence of life. Make sure to check their [website](https://sonett.eu/) for what they have to offer.
