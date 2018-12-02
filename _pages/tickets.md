@@ -6,7 +6,7 @@ title: "Buy Your Talk and Workshop Passes Here"
 
 Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. 
 
-Remaining tickets for the Talks and Workshops will be for sale during the Festival on December 2nd at the Front Desk. Please talk to our lovely volunteers if you'd like to sign up for workshops and talks on the spot.
+Remaining tickets for the Talks and Workshops will be for sale during the Festival on December 2nd at the Front Desk. Please talk to our lovely volunteers if you'd like to sign up for workshops and talks on the spot. 
 
 See you at the Green Door Market!
 
