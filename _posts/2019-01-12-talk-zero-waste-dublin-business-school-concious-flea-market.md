@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk Zero Waste at the DBS Concious Flee Market
+title: Talk Zero Waste at the DBS Concious Flea Market
 
 category: 2019-02-festival
 
