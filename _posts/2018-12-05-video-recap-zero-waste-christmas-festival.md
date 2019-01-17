@@ -16,7 +16,7 @@ Here are some impressions from our Zero Waste Christmas Festival at The Greendoo
 
 Thanks to all the people making this festival possible. 
 
-The next Zero Waste Festival will take place in March 2019 in Carlow. 
+The next Zero Waste Festival will take place in April 2019 in Carlow. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qb5C3TkzGjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
