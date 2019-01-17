@@ -18,4 +18,4 @@ Claire Byrne is discussing waste reduction and Zero Waste living with [Elaine](h
 
 Click on the image below or the [link here](https://www.rte.ie/news/player/claire-byrne-live-web/2019/0114/) go get to the RTÉ player. Jump to 14:30 minutes in the video to get to the segment directly. 
 
-[![Zero Waste at Claire Byrne Live](/images/events/2019-02-festival/zero-waste-claire-byrne-teaser.jpg "Zero Waste at Claire Byrne Live"){:height="400px"}](https://www.rte.ie/news/player/claire-byrne-live-web/2019/0114/)<br>
+[![Zero Waste at Claire Byrne Live](/images/events/2019-02-festival/zero-waste-claire-byrne-link.jpg "Zero Waste at Claire Byrne Live"){:height="400px"}](https://www.rte.ie/news/player/claire-byrne-live-web/2019/0114/)<br>
