@@ -12,7 +12,7 @@ sidebar: true
 share: true
 ---
 
-The Zero Waste Festival team will come to the DBS Concious Flea Market to talk about Zero Waste living in Dublin and Ireland.
+The Zero Waste Festival team will come to the DBS Concious Flea Market on January 14 to talk about Zero Waste living in Dublin and Ireland.
 
 The DBS Concious Flea Market hosted at the Dublin Buisiness School's Castle House (4th floor) is a student-led initiative to raise awareness for becoming a more concious consumer. 
 
