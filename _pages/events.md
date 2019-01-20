@@ -23,6 +23,7 @@ Christmas can be a difficult time to keep your bins empty and your recycling pil
 
 The 2018 edition of the Zero Waste Christmas Festival took place on Sunday December 2nd 2018 at the Green Door Market in Bluebell Business Park, Dublin 12.
 
+Click [here](/2018-12-festival) for more details about the [Zero Waste Christmas Festival 2018](/2018-12-festival).
 
 ### Zero Waste Week 2018
 
