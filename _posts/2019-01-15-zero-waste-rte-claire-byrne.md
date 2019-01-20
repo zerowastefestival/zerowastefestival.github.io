@@ -14,7 +14,7 @@ share: true
 
 Zero Waste is making it to the mainstream - slowly but surely! Catch yesterday's Claire Byrne Live show on the RTÉ player.
 
-Claire Byrne is discussing waste reduction and Zero Waste living with [Elaine](https://www.instagram.com/livinglightlyinireland/), [Orla](https://www.instagram.com/weeyawoo/), [Zdenka](https://www.instagram.com/comingtozero/) and [Íde](https://www.instagram.com/itseasyifyouwantto/)
+Claire Byrne is discussing waste reduction and Zero Waste living with [Elaine](https://www.instagram.com/livinglightlyinireland/), [Orla](https://www.instagram.com/weeyawoo/), [Zdenka](https://www.instagram.com/comingtozero/) and [Íde](https://www.instagram.com/itseasyifyouwantto/) (all of whom are members of our Zero Waste Festival Community).
 
 Click on the image below or the [link here](https://www.rte.ie/news/player/claire-byrne-live-web/2019/0114/) go get to the RTÉ player. Jump to 14:30 minutes in the video to get to the segment directly. 
 
