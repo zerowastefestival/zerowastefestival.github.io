@@ -17,7 +17,12 @@ Join us for our next Zero Waste Festival in April in Carlow. Stay tuned for more
  
 ### Zero Waste Christmas Festival 2018
 
-Recap coming soon.
+[![Zero Waste Christmas Festival 2018](/images/events/2018-12-festival/2018-12-zero-waste-christmas-festival-header.png "Zero Waste Christmas Festival 2018")](/2018-12-festival)<br>
+
+Christmas can be a difficult time to keep your bins empty and your recycling pile small, but during this day-long event you will get tips on cutting down on waste from food and packaging, gifts and wrapping, decorations and festive dressing and even pre-Christmas cleaning! From making better choices of materials to reusing and upcycling what is already created, there will be something to be learned for everyone, no matter where you are on your journey.
+
+The 2018 edition of the Zero Waste Christmas Festival took place on Sunday December 2nd 2018 at the Green Door Market in Bluebell Business Park, Dublin 12.
+
 
 ### Zero Waste Week 2018
 

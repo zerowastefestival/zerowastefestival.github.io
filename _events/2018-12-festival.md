@@ -27,10 +27,11 @@ Admission to the main festival with info stands, swap shops, drop-in workshops, 
 | Concession Talk/Workshop Pass     |  8 EUR |
 | Tree-planting with Santa for Kids |  3 EUR |
 
-
+<!--
 <form method="get" action="/tickets">
     <button type="submit">Get your Talk/Workshop Passes here</button>
 </form>
+-->
 
 <a href="#top">Back to top</a>
 
@@ -39,15 +40,15 @@ Admission to the main festival with info stands, swap shops, drop-in workshops, 
 
 # Events
 
-[![Event Schedule]({{ site.baseurl }}/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 350px;"}](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg)
+[![Event Schedule](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg "Event Schedule"){:style="float: top;margin-right: 10px;height: 350px;"}](/images/events/2018-12-festival/2018-12-zero-waste-festival-event-schedule.jpg)
 
 <sup>Click on the image to download a high-resolution version.</sup>
 
-The entrance to the main Festival with [Zero Waste Market](#market), [Info Stands](#info-stands), [Make Space](#make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a [Talk/Workshop Pass](/tickets) from out [Ticket](/tickets) section for attending the talks and workshops.
+The entrance to the main Festival with [Zero Waste Market](#market), [Info Stands](#info-stands), [Make Space](#make-space) and [Swap Shops](#swap-shops) is free, but you will need to get a Talk/Workshop Pass from for attending the talks and workshops.
 
 ### Talks and Workshops
 
-We will host a variety of workshops and talks as part of the Festival. Getting your [Talk/Workshop Pass](/tickets) early entitles you to advanced sign-up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
+We will host a variety of workshops and talks as part of the Festival. Getting your Talk/Workshop Pass early entitles you to advanced sign-up for your preferred event. Limited places may be left on the day itself and are given away on first-come first-serve basis.
 
 | Time     | Room 1                                        | Room 2                                         |
 |----------|-----------------------------------------------|------------------------------------------------|
@@ -305,7 +306,7 @@ We will host a selected range of hands-on workshops and events in our Make Space
 
 A refreshingly different Santa experience for you and your child. Come along to our children’s workshop at the Make Space where you will work with Santa and his helpers to make a biodegradable pot and, then, plant your very own tree to take home with you.
 
-Please note, that a separate ticket will be required for each child for the Tree Planting with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our [tickets](/tickets) section. 
+Please note, that a separate ticket will be required for each child for the Tree Planting with Santa workshop to help us cover Santa's milk and cookies. You can sign up and get your ticket in our Tickets section. 
 
 <a href="#top">Back to top</a>
 
