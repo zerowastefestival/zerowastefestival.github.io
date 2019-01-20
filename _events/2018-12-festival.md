@@ -18,7 +18,7 @@ Find all the information for planning your visit below and check out the [press 
 
 # Tickets
 
-Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. If you would like to attend our workshops and talks on the mezzanine level, you can sign up and buy your passes [here](/tickets). A separate ticket will be required for each child for the Tree-planting With Santa.
+Admission to the main festival with info stands, swap shops, drop-in workshops, meet-ups and market stalls is free. If you would like to attend our workshops and talks on the mezzanine level, you can sign up and buy your passes. A separate ticket will be required for each child for the Tree-planting With Santa.
 
 | Category                          | Price  | 
 |-----------------------------------|--------|
