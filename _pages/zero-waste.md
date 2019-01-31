@@ -10,7 +10,7 @@ The term Zero Waste started out as an industry term for manufacturing processes 
 
 ![Circular Economy]({{site.baseurl}}images/pages/zero-waste/linear-vs-circular-economy.jpg "Circular Economy")
 
-Over 10 years ago the term Zero Waste was adopted by blogger (Bea Johnson)[https://zerowastehome.com/] in America to describe her efforts to reduce her family's waste. She blogs about her efforts at (zerowastehome.com)[https://zerowastehome.com/], and in doing so popularised the term. Nowadays "Zero Waste" is typically used to describe a way of life or thinking that has waste minimisation at its heart. 
+Over 10 years ago the term Zero Waste was adopted by blogger [Bea Johnson](https://zerowastehome.com/) in America to describe her efforts to reduce her family's waste. She blogs about her efforts at [zerowastehome.com](https://zerowastehome.com/), and in doing so popularised the term. Nowadays "Zero Waste" is typically used to describe a way of life or thinking that has waste minimisation at its heart. 
 
 Although the term "Zero" is used in "Zero Waste", it is impossible for an individual to produce no waste at all. For this reason "Low-waste lifestyle" or "Low-impact lifestyle" are more accurate descriptions of a what is commonly known as the Zero Waste way of living.
 
@@ -18,8 +18,8 @@ Although the term "Zero" is used in "Zero Waste", it is impossible for an indivi
 
 When it comes to creating the unavoidable waste the Zero Waste community has a preference for paper, cardboard and infinitely recyclable materials, like glass and metal, over biodegradable or recyclable plastic. This is for a number of reasons. 
 
-- "Biodegradable" is not a legally defined term. Therefore (biodegradable plastic)[https://en.wikipedia.org/wiki/Biodegradable_plastic] does not have to comply with any set criteria. This means that plastics labelled as biodegradable might actually take up to 100 years or more to degrade and could leave a large percentage of micro-plastics and toxic residue in the soil. 
-- Plastic can only be recycled a limited number of times before it has to be sent to landfill or incineration. Therefore the recycling of plastic only pauses it journey to the landfill or incineration.  Some plastics, like (thermoset plastics)[https://en.wikipedia.org/wiki/Thermosetting_polymer], cannot be recycled at all.
+- "Biodegradable" is not a legally defined term. Therefore [biodegradable plastic](https://en.wikipedia.org/wiki/Biodegradable_plastic) does not have to comply with any set criteria. This means that plastics labelled as biodegradable might actually take up to 100 years or more to degrade and could leave a large percentage of micro-plastics and toxic residue in the soil. 
+- Plastic can only be recycled a limited number of times before it has to be sent to landfill or incineration. Therefore the recycling of plastic only pauses it journey to the landfill or incineration.  Some plastics, like [thermoset plastics](https://en.wikipedia.org/wiki/Thermosetting_polymer), cannot be recycled at all.
 
 ## The 5 R's of Zero Waste
 
