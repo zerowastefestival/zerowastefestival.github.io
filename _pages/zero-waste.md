@@ -8,7 +8,7 @@ title: "Zero Waste"
 
 The term Zero Waste started out as an industry term for manufacturing processes that resulted in no waste. They do this by feeding waste back into the manufacturing process in the form of fuel or raw material. Manufacturing that operates in this way is central to the concept of a circular economy --- an economy based on reuse and recycling of waste to generate new products. 
 
-![Circular Economy](images/pages/zero-waste/linear-vs-circular-economy.jpg "Circular Economy")
+![Circular Economy]({{site.baseurl}}images/pages/zero-waste/linear-vs-circular-economy.jpg "Circular Economy")
 
 Over 10 years ago the term Zero Waste was adopted by blogger (Bea Johnson)[https://zerowastehome.com/] in America to describe her efforts to reduce her family's waste. She blogs about her efforts at (zerowastehome.com)[https://zerowastehome.com/], and in doing so popularised the term. Nowadays "Zero Waste" is typically used to describe a way of life or thinking that has waste minimisation at its heart. 
 
@@ -25,7 +25,7 @@ When it comes to creating the unavoidable waste the Zero Waste community has a p
 
 It is worth noting that, although glass and metal can be recycled infinitely, they are heavier than plastic packaging. This means that a product in glass will create more carbon emissions than the same product in plastic, particularly if imported from far. The same is true for paper or cardboard packaging. This is why the Zero Waste community seeks to minimise all forms of packaging and single-use-items, not just plastic. We do this by living by the 5 R's:
 
-![5 R's of Zero Waste](images/pages/zero-waste/zero-waste-five-r.jpg "5 R's of Zero Waste")
+![5 R's of Zero Waste]({{site.baseurl}}images/pages/zero-waste/zero-waste-five-r.jpg "5 R's of Zero Waste")
 
 1. Refuse --- don't take anything you don't need, even if it's free!
 2. Reduce --- aim to buy as little as possible and when you do buy something, buy it in as little packaging as possible. 
