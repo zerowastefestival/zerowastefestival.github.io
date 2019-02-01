@@ -1,6 +1,6 @@
 ---
 layout: event
-category: events
+category: event
 
 title: "Zero Waste Spring Clean Festival 2018"
 image:
