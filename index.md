@@ -19,9 +19,8 @@ For all the latest updates see the news section here or follow our social media 
 
 <div class="tiles">
 {% for post in site.posts %}
-  {% if post.category == "team" %}    
-  {% else if %}
-  {% if post.category == "event" %}   
+  {% if post.category == "team" and post.category == "event" %} 
+  
   {% else if %}
 	{% include post-grid.html %}
   {% endif %}
