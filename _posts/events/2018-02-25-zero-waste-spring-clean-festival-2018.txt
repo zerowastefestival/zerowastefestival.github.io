@@ -1,11 +1,10 @@
 ---
 layout: event
-title: "Zero Waste Spring Clean Festival 2018"
-
 category: events
 
+title: "Zero Waste Spring Clean Festival 2018"
 image:
-  teaser : pages/team/zdenka.jpg
+  #teaser : pages/team/zdenka.jpg
 ---
 
-Íde is a true sustainarian and founding mother of the Zero Waste Festival. Her journey towards living more sustainably started back in 2016, which she declared to be her personal buy-nothing-new-year. Ever since, she graduated to be a renown [Zero Waste lifestyle expert](https://www.tipperarystar.ie/news/home/307930/lifestyle-expert-to-visit-cashel.html) and also is the co-owner of [Bring Your Own](https://www.facebook.com/bringyourowncontainers/), the first Zero Waste stall touring the markets of Dublin and its surroundings (which has now graduated into a consultancy firm). She tried her hand at blogging on various zero waste related topics, tracking her Buy Nothing New Year, living on a low budget and moving towards a more sustainable wardrobe [blog](http://blogota.weebly.com), but has now switched over to tracking her efforts on [Instagram](https://www.instagram.com/itseasyifyouwantto/).
+Recap coming soon.
