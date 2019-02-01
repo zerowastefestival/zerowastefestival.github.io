@@ -1,5 +1,6 @@
 ---
 layout: post
+category: events
 permalink: /2018-02-festival/
 title: "Zero Waste Festival: Spring Clean (February 25, 2018)"
 image:
