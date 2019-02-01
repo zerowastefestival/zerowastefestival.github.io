@@ -31,7 +31,7 @@ Recap coming soon.
  
 ### Zero Waste "Make It Last" Festival 2018
 
-[![Zero Waste Festival 2018](/images/events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png "Zero Waste Festival 2018")]({{ site.baseurl}}/2018-06-festival)<br>
+[<picture> <source media="(min-width: 650px)" srcset="/images/events/2018-06-festival/2018-06-zero-waste-summer-festival-logo-wide.jpg"> <img src="/images/events/2018-06-festival/2018-06-zero-waste-summer-festival-logo-short.jpg" alt="Zero Waste Summer Festival 2018" style="width:auto;"> </picture>](/2018-06-festival)
 
 Thanks to everyone who made this Zero Waste Festival a success. Find a recap, pictures, videos, and all information about the festival [here]({{ site.baseurl}}/2018-06-festival).
  
