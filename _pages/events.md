@@ -61,7 +61,7 @@ Recap coming soon.
 
 
 <div class="tiles">
-{% for post in site.categories.event %}
+{% for post in site.categories.events %}
 	{% include event-grid.html %}
 {% endfor %}
 </div>
