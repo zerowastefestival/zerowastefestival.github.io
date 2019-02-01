@@ -1,5 +1,6 @@
 ---
 layout: event
+category: event
 permalink: /2018-06-festival/
 title: "Zero Waste Festival: Make It Last (June 24, 2018)"
 image:
