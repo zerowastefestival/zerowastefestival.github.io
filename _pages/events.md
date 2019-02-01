@@ -8,7 +8,7 @@ We are hosting regular pop-up Zero Waste Festivals at various locations in Irela
 
 ## Upcoming Events
 
-[<picture> <source media="(min-width: 650px)" srcset="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow" style="width:auto;"> </picture>](/2019-02-festival)
+[<picture> <source media="(min-width: 650px)" srcset="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow 2019" style="width:auto;"> </picture>](/2019-02-festival)
 
 Join us for our next Zero Waste Festival in April in Carlow. Stay tuned for more updates coming soon.
 
@@ -17,7 +17,7 @@ Join us for our next Zero Waste Festival in April in Carlow. Stay tuned for more
  
 ### Zero Waste Christmas Festival 2018
 
-[![Zero Waste Christmas Festival 2018](/images/events/2018-12-festival/2018-12-zero-waste-christmas-festival-header.png "Zero Waste Christmas Festival 2018")](/2018-12-festival)<br>
+[<picture> <source media="(min-width: 650px)" srcset="/images/events/2018-12-festival/2018-12-zero-waste-christmas-festival-logo-wide.jpg"> <img src="/images/events/2018-12-festival/2018-12-zero-waste-christmas-festival-logo-long.jpg" alt="Zero Waste Christmas Festival 2018" style="width:auto;"> </picture>](/2018-12-festival)
 
 Christmas can be a difficult time to keep your bins empty and your recycling pile small, but during this day-long event you will get tips on cutting down on waste from food and packaging, gifts and wrapping, decorations and festive dressing and even pre-Christmas cleaning! From making better choices of materials to reusing and upcycling what is already created, there will be something to be learned for everyone, no matter where you are on your journey.
 
