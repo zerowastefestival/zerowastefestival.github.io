@@ -19,11 +19,12 @@ For all the latest updates see the news section here or follow our social media 
 
 <div class="tiles">
 {% for post in site.posts %}
-  {% if post.category == "team" %}
-    
-	{% else if %}
-	  {% include post-grid.html %}
-	{% endif %}
+  {% if post.category == "team" %}    
+  {% else if %}
+  {% if post.category == "event" %}   
+  {% else if %}
+	{% include post-grid.html %}
+  {% endif %}
 {% endfor %}
 </div>
 
