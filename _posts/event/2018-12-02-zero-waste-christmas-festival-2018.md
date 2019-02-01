@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 category: event
 
 title: "Zero Waste Spring Clean Festival 2018"
