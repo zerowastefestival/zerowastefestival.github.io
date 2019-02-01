@@ -4,6 +4,7 @@ permalink: /2018-02-festival/
 title: "Zero Waste Festival: Spring Clean (February 25, 2018)"
 image:
   #feature: 
+  teaser : pages/team/jan.jpg
 ---
 
 A big thank you to all the people who made our Spring Clean Festival a big success. We are excited to see our festival and the interest in the Zero Waste lifestyle grow from festival to festival. A special shout out goes to all the volunteers who contributed with their time and skills and made this festival possible. We hope to see you all again at our next Zero Waste Festival, themed "Make It Last", at the St. Andrews Resource Centre on June 24.
