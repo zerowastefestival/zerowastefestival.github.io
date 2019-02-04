@@ -8,8 +8,6 @@ image:
   teaser : posts/2018-06-22/teaser.jpg
 ---
 
-# "Make It Last" Festival Recap
-
 A big thank you to all the people who made our Make It Last Festival a big success. We are excited to see our festival and the interest in the Zero Waste lifestyle grow from festival to festival. A special shout out goes to all the volunteers who contributed with their time and skills and made this festival possible. We hope to see you all again at our next Zero Waste Festival in September. In the meantime, for all the latest updates and news follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland), [Twitter](https://twitter.com/ZeroWasteFest) and [Instagram](https://www.instagram.com/zerowastefestirl), or subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
 
 
