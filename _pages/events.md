@@ -8,49 +8,13 @@ We are hosting regular pop-up Zero Waste Festivals at various locations in Irela
 
 ## Upcoming Events
 
-[<picture> <source media="(min-width: 650px)" srcset="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-02-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow 2019" style="width:auto;"> </picture>](/2019-02-festival)
+[<picture> <source media="(min-width: 650px)" srcset="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow 2019" style="width:auto;"> </picture>](/2019-04-festival)
 
 Join us for our next Zero Waste Festival in April in Carlow. Stay tuned for more updates coming soon.
 
 
 ## Past Events
  
-<!--
-### Zero Waste Week 2018
-
-Recap coming soon.
- 
-### Zero Waste "Make It Last" Festival 2018
-
-[<picture> <source media="(min-width: 650px)" srcset="/images/events/2018-06-festival/2018-06-zero-waste-summer-festival-logo-wide.jpg"> <img src="/images/events/2018-06-festival/2018-06-zero-waste-summer-festival-logo-short.jpg" alt="Zero Waste Summer Festival 2018" style="width:auto;"> </picture>](/2018-06-festival)
-
-Thanks to everyone who made this Zero Waste Festival a success. Find a recap, pictures, videos, and all information about the festival [here]({{ site.baseurl}}/2018-06-festival).
- 
- 
-### Zero Waste "Spring Clean" Festival 2018
-
-[![Spring Clean Festival 2018](/images/events/2018-02-festival/spring-clean-festival-logo-850x315.png "pring Clean Festival 2018")]({{ site.baseurl}}/2018-02-festival)<br>
-
-The 2018 Zero Waste Spring Clean Festival took place on February 25 at the ABC Drumcondra, Dublin.
-
-Find pictures, videos, and all information about the festival [here]({{ site.baseurl}}/2018-02-festival).
-
-
-### Zero Waste Christmas Festival (December 9, 2017)
-
-Recap coming soon.
-
-
-### Zero Waste Week (September 4 - 10, 2017)
-
-Recap coming soon.
-
-
-### Zero Waste Festival (June 25, 2017)
-
-Recap coming soon.
--->
-
 <div class="tiles">
 {% for post in site.categories.events %}
 	{% include event-grid.html %}
