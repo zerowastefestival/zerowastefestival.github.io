@@ -1,5 +1,5 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <h5>{{ site.title }}</h5>
+  <a href="{{ site.baseurl }}"><h5>{{ site.title }}</h5></a>
   <ul class="menu-item">
     {% for link in site.data.navigation %}<li>
       <a href="{{ site.baseurl }}{{ link.url }}">
