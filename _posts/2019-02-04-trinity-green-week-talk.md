@@ -28,4 +28,4 @@ Demo Room, Simon Perry Building, Trinity College Dublin
 
 #### More info:
 
-More info can be found at the events [Facebook page](https://www.facebook.com/events/2855971594429755/?notif_t=plan_user_invited&notif_id=1549291182317488).
+More info can be found at the events [Facebook page](https://www.facebook.com/events/2855971594429755/?notif_t=plan_user_invited&notif_id=1549291182317488). Find more about TCD Green Week at the [TCD website](https://www.tcd.ie/provost/sustainability/greenweek/).
