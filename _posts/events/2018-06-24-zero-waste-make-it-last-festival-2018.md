@@ -1,6 +1,6 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "Zero Waste Festival: Make It Last"
 permalink: /2018-06-festival/

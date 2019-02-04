@@ -1,9 +1,11 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "Zero Waste Christmas Festival"
 permalink: /2018-12-festival/
+sidebar: false
+
 image:
   teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
 ---
@@ -16,9 +18,8 @@ For some impressions check out our video recap and image gallery below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qb5C3TkzGjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--
 {% include image-gallery.html folder="/images/events/2018-12-festival/galleries/impressions" %}
--->
+
 
 # Festival Summary
 

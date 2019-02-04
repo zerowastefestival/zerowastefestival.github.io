@@ -1,6 +1,6 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "Zero Waste Week at Festival of Food"
 permalink: /2018-09-festival/

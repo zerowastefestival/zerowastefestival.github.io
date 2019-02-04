@@ -1,6 +1,6 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "First Zero Waste Festival"
 permalink: /2017-06-festival/

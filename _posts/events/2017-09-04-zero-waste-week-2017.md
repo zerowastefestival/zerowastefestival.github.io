@@ -1,6 +1,6 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "Zero Waste Week"
 permalink: /2017-09-festival/

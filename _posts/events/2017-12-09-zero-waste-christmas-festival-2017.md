@@ -1,6 +1,6 @@
 ---
 layout: post
-category: event
+category: events
 
 title: "Zero Waste Christmas Festival"
 permalink: /2017-12-festival/
