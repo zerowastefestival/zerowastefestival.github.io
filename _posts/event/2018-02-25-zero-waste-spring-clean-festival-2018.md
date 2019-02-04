@@ -2,9 +2,10 @@
 layout: post
 category: event
 
-title: "Zero Waste Spring Clean Festival 2018"
+title: "Zero Waste Festival: Spring Clean"
+permalink: /2018-02-festival/
 image:
-  #teaser : pages/team/zdenka.jpg
+  teaser : posts/2018-02-10/teaser.jpg
 ---
 
 Recap coming soon.

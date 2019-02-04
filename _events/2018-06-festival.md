@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-permalink: /2018-06-festival/
+permalink: /2018-06-festival-old/
 title: "Zero Waste Festival: Make It Last (June 24, 2018)"
 image:
   feature: events/2018-06-festival/2018-06-summer-festival-front-page-logo-1200x375.png

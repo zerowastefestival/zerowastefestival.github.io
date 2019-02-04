@@ -2,9 +2,10 @@
 layout: post
 category: event
 
-title: "Zero Waste Spring Clean Festival 2018"
+title: "Zero Waste Week at Festival of Food"
+permalink: /2018-09-festival/
 image:
-  #teaser : pages/team/zdenka.jpg
+  teaser : posts/2018-09-02/teaser-fof-zw.png
 ---
 
 Recap coming soon.

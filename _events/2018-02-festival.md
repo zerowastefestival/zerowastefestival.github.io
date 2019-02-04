@@ -1,7 +1,7 @@
 ---
 layout: post
 category: events
-permalink: /2018-02-festival/
+permalink: /2018-02-festival-old/
 title: "Zero Waste Festival: Spring Clean (February 25, 2018)"
 image:
   #feature: 

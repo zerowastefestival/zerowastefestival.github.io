@@ -2,9 +2,10 @@
 layout: post
 category: event
 
-title: "Zero Waste Spring Clean Festival 2018"
+title: "Zero Waste Christmas Festival"
+permalink: /2017-12-festival/
 image:
-  #teaser : pages/team/zdenka.jpg
+  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
 ---
 
 Recap coming soon.
