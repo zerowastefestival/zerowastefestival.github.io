@@ -2,11 +2,11 @@
 layout: post
 title: Zero Waste at Claire Byrne Live
 
-category: 2018-12-festival
+category: 
 
 image:
-  feature: events/2019-02-festival/zero-waste-claire-byrne-feature.jpg
-  teaser: events/2019-02-festival/zero-waste-claire-byrne-teaser.jpg
+  feature: events/2019-04-festival/zero-waste-claire-byrne-feature.jpg
+  teaser: events/2019-04-festival/zero-waste-claire-byrne-teaser.jpg
 
 sidebar: true
 share: true

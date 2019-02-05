@@ -2,11 +2,11 @@
 layout: post
 title: Talk Zero Waste at the DBS Concious Flea Market
 
-category: 2019-02-festival
+category: 
 
 image:
   #feature: 
-  teaser: events/2019-02-festival/dbs-flea-market-teaser.jpg
+  teaser: events/2019-04-festival/dbs-flea-market-teaser.jpg
 
 sidebar: true
 share: true
