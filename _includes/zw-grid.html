@@ -18,5 +18,11 @@
   <p class="post-excerpt" itemprop="description">
   {{ post.excerpt | strip_html | truncate: 300 }}
   </p>
+  
+  <p class="post-excerpt" itemprop="description">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+	  <font color="#acacac">Read more...</font>
+	</a>
+  </p>
 </article><!-- /.tile -->
 
