@@ -3,6 +3,7 @@ layout: post
 category: pop-up
 
 title: "Grow Your Own &#8211; Zero Waste Pop-Up Event"
+eventdate: 2019-02-28
 #permalink: /2017-06-festival/
 image:
   teaser : events/pop-up/190228-grow-your-own-teaser.jpg
