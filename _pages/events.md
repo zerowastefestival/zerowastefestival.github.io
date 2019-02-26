@@ -15,8 +15,8 @@ Check out the latest news and updates about our upcoming [Zero Waste Festival in
 
 Can't wait until the next Festival? Why not check out one of our new themed [Zero Waste Pop-Up Events](/pop-up)?
 
-- [Grow Your Own](/pop-up/first-zero-waste-festival-ireland/) on Thursday, February 28, 2019 at Third Space Cafe in Smithfield
-
+- [Grow Your Own](/pop-up/first-pop-up-event-grow-your-own/) on Thursday, February 28, 2019 at Third Space Cafe in Smithfield
+- [Swap Shop](/pop-up/second-pop-up-event-swap-shop/) on Thursday, March 14, 2019 at Third Space Cafe in Smithfield
 
 
 
