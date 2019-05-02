@@ -15,6 +15,7 @@ Check out the latest news and updates about our upcoming [Zero Waste Festival in
 
 Can't wait until the next Festival? Why not check out one of our new themed [Zero Waste Pop-Up Events](/pop-up)?
 
+<ul>
 {% for post in site.posts %}
   {% if post.category == "pop-up" %} 
     {% include popup-list.html %}
@@ -22,6 +23,7 @@ Can't wait until the next Festival? Why not check out one of our new themed [Zer
 	  
   {% endif %}
 {% endfor %}
+</ul>
 
 # Past Events
  
