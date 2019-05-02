@@ -4,9 +4,11 @@ category: pop-up
 
 title: "Make Your Own: Beauty Edition &#8211; Zero Waste Pop-Up Event"
 eventdate: 2019-04-11
+venue: "Third Space, Dublin 7"
+
 image:
   teaser : events/pop-up/190411-make-your-own-teaser.jpg
-  feature: events/pop-up/190411-make-your-own.jpg
+  feature: #events/pop-up/190411-make-your-own.jpg
 ---
 
 The team of the Zero Waste Festival Ireland is organising a series of free, themed pop-up events. The theme of the next session is "Make Your Own: Beauty Edition".
@@ -28,6 +30,8 @@ Thursday, April 11, 2019 at 6:30 PM &#8211; 8:30 PM
 ## More info!
 
 Head over to the [Facebook Event](https://www.facebook.com/events/2066024490369268/) to let us know if you can make it and get the latest updates.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FZeroWasteFestivalIreland%2Fposts%2F1120973721407654&width=500" width="500" height="536" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 The event is free but we will need to cover 60€ for renting the space. So, we welcome a small contribution towards that, if you can. You can also buy coffee from Third Space during the event.
 

@@ -1,0 +1,26 @@
+<script>
+    function getCompareDate() {
+        var d = new Date(),
+            month = '' + (d.getMonth() + 1),
+            day = '' + d.getDate(),
+            year = d.getFullYear();
+        if (month.length < 2) month = '0' + month;
+        if (day.length < 2) day = '0' + day;
+        return [year, month, day].join('');
+    }
+    $('[past-date]').each(function() {
+        if($(this).attr('past-date') > getCompareDate()) $(this).hide();
+    });
+
+    var firstpastdate = $("[first-past-date]").sort(sortbydate);
+    function sortbydate(a, b) {
+        return ($(b).attr('first-past-date')) < ($(a).attr('first-past-date')) ? 1 : -1;
+    }
+    $(firstpastdate).each(function() {
+        $('[first-past-date]').hide();
+        if($(this).attr('first-past-date') > getCompareDate()) {
+            $(this).show();
+            return false;
+        }
+    });
+</script>

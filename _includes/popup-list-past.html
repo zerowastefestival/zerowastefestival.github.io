@@ -1,0 +1,31 @@
+<ul>
+
+{% for post in site.posts %}  
+  {% if post.category == "pop-up" %} 
+  
+    <div past-date="{{ post.eventdate | date: '%Y%m%d' }}">
+      <li>
+	  
+	    {% if post.eventdate %}
+		  <span> 
+			{{ post.eventdate | date: "%B %d, %Y" }}
+		  </span> &raquo; 
+	    {% endif %}
+	
+	    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &laquo; 
+	
+	    {% if post.venue %}
+		  <span>
+			at {{ post.venue }}
+		  </span>
+	    {% endif %}	
+      
+        {% assign postcounter = forloop.index0 %}
+	  
+      </li>
+    </div>
+  
+  {% endif %}
+{% endfor %}
+
+</ul>

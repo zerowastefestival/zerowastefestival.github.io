@@ -1,35 +1,40 @@
 ---
 layout: page
 permalink: /events/
-title: "Upcoming Events"
+title: "Events"
 ---
+
+Here you find an overview of our upcoming and past events.
+
+## Upcoming Events
 
 ### Festivals
 
-[<picture> <source media="(min-width: 650px)" srcset="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow 2019" style="width:auto;"> </picture>](/2019-04-festival)
+We are running regular Zero Waste Festivals in Dublin and Ireland. Check out the full list of upcoming Festival below or head straight over to our [Festivals](/festival) section for more updates.
 
-Check out the latest news and updates about our upcoming [Zero Waste Festival in April in Carlow](/2019-04-festival) by clicking on the banner above or the link [here](/2019-04-festival). 
+##### Upcoming Zero Waste Festivals
+
+There are no upcoming festivals at the moment. 
+
+{% include festival-list-future.html %}
+
+### Pop-up Events
+
+Can't wait until the next Festival? Why not check out one of our new themed [Zero Waste Pop-up Events](/pop-up)? 
+
+##### Upcoming Zero Waste Pop-up Events
+
+{% include popup-list-future.html %}
 
 
-### Pop-Up Events
 
-Can't wait until the next Festival? Why not check out one of our new themed [Zero Waste Pop-Up Events](/pop-up)?
+## Past Events
 
-<ul>
-{% for post in site.posts %}
-  {% if post.category == "pop-up" %} 
-    {% include popup-list.html %}
-	{% else if %}
-	  
-  {% endif %}
-{% endfor %}
-</ul>
+### Festivals
 
-# Past Events
- 
-<div class="tiles">
-{% for post in site.categories.events %}
-	{% include event-grid.html %}
-{% endfor %}
-</div>
+{% include festival-list-past.html %}
 
+
+### Pop-up Events
+
+{% include popup-list-past.html %}

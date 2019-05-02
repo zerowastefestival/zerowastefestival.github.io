@@ -4,10 +4,11 @@ category: pop-up
 
 title: "Grow Your Own &#8211; Zero Waste Pop-Up Event"
 eventdate: 2019-02-28
-#permalink: /2017-06-festival/
+venue: "Third Space, Dublin 7"
+
 image:
   teaser : events/pop-up/190228-grow-your-own-teaser.jpg
-  feature: events/pop-up/190228-grow-your-own.jpg
+  feature: #events/pop-up/190228-grow-your-own.jpg
 ---
 
 The team of the Zero Waste Festival Ireland is organising a new series of free, themed pop-up events. The theme of the first session is "Grow Your Own" and we are teaming up with the [Dublin CSA](https://csadublin.wordpress.com/) (Community Supported Agriculture) for this event.

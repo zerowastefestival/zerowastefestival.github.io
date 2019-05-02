@@ -4,6 +4,8 @@ category: pop-up
 
 title: "Journey to Zero Waste &#8211; Zero Waste Pop-Up Event"
 eventdate: 2019-05-07
+venue: "MVP, Dublin 8"
+
 image:
   teaser : events/pop-up/190507-journey-to-zero-waste-teaser.jpg
   #feature: events/pop-up/190507-journey-to-zero-waste.jpg
