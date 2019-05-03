@@ -12,6 +12,10 @@ image:
 
 <picture> <source media="(min-width: 650px)" srcset="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-wide.jpg"> <img src="/images/events/2019-04-festival/carlow-zero-waste-festival-logo-long.jpg" alt="Zero Waste Festival Carlow" style="width:auto;"> </picture>
 
+Thanks to everyone who came out to the Zero Waste Festival in Carlow despite the weather. Here are some impressions: 
+
+{% include image-gallery.html folder="/images/events/2019-04-festival/impressions" %}
+
 
 
 ## Events
