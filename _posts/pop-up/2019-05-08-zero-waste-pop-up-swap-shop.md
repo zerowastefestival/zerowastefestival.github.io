@@ -11,7 +11,7 @@ image:
   #feature: 
 ---
 
-Swap Shop's back, alright! We will host another of our Swap Shops for pre-loved clothes, this time at MVP in Dbulin 8.
+Swap Shop's back, alright! We will host another of our Swap Shops for pre-loved clothes, this time at MVP in Dublin 8.
 
 ## What?
 
