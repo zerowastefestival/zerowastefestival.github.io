@@ -3,7 +3,6 @@ layout: page
 permalink: /
 ---
 
-# Zero Waste Festival Ireland
 
 We are planning to bring our next Zero Waste Festival to Dublin in the summer. Stay tuned for more updates. In the mean time, you can check out our ongoing series of [Pop-up Events](/pop-up) in Dublin.
 
