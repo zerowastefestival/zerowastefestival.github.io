@@ -15,7 +15,11 @@ Homemade cleaning products are natural, green and eco-friendly. We show you how 
 
 ## What?
 
-We're still working on finalising the workshop. Check back soon for updates of the content of this event.
+Want to have a zero waste household?
+
+In this event, we will tell you everything you need to start and continue with your journey towards zero from your soap to your laundry products!
+
+On the 21st of May, join us upstairs at the MVP for a series of talks and workshops where you will get to know all the tips and techniques to turn your kitchen and your bathroom into a zero waste paradise!
 
 The event is free and you can order drinks from the [MVP bar](http://mvpdublin.com/) downstairs during the event if you like!
 
@@ -37,6 +41,10 @@ Tuesday, May 21, 2019 from 7:00 PM &#8211; 9:00 PM
 
 ## More info!
 
+
+Head over to the [Facebook Event](https://www.facebook.com/events/412459959591521/) to let us know if you can make it and get the latest updates.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FZeroWasteFestivalIreland%2Fposts%2F1142591879245838&width=500" width="500" height="624" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 Thanks to [MVP bar](http://mvpdublin.com/) for hosting us and helping us keeping the event free for everyone. Feel free to leave us a tip in the donation box at the end if you liked the event. Whatever we collect will help us to express our gratitude (in form of a Zero Waste shop voucher) towards all our speakers without whom this event wouldn't be possible.
 
