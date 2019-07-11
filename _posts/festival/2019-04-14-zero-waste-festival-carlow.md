@@ -85,7 +85,7 @@ We have four events lined up for the geodome at the Zero Waste Festival in Carlo
 
 1 pm - [Seal Rescue Ireland](http://www.sealrescueireland.org) is going to show how to make ecobricks using the soft plastics that cannot be thrown into our green bins; but save the plastic bags for later, because at
 
-2 pm - [Celia Somlai](https://celiasomlai.com/) from [Precious Plastic Dublin\(https://www.preciousplasticdublin.org) is going to turn those plastic bags into pretty bowls
+2 pm - [Celia Somlai](https://celiasomlai.com/) from [Precious Plastic Dublin](https://www.preciousplasticdublin.org) is going to turn those plastic bags into pretty bowls
 
 
 
