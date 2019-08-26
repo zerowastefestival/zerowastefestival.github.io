@@ -1,7 +1,10 @@
 ---
 layout: page
-permalink: /test2/
-title: "Hello World"
+permalink: /camilla/
+title: "Hello"
 ---
 
-This is some text and here is a link to the [homepage](/) or our [contact page](/contact) and an external link to [Facebook](https://www.facebook.com).
+Hello, my name is Camilla and I am trying to learn how to upload ![images](teasers/190811-electric-picnic.jpg), how to link [events](https://www.electricpicnic.ie/) and how to link our [contacts](/contacts).
+
+Have a good evening!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hY7m5jjJ9mM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
