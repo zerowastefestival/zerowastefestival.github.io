@@ -1,15 +1,7 @@
 ---
 layout: page
-permalink: /contact/
-title: "Contact"
+permalink: /test2/
+title: "Hello World"
 ---
 
-Let us know if you need more information about the Zero Waste Festival Ireland.
-
-## Send us an email
-
-You can drop us an email at [info@zerowastefestival.ie](mailto:info@zerowastefestival.ie).
-
-## Connect with us
-
-Follow us on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland/), check out our [Instagram](https://www.instagram.com/zerowastefestirl/) feed, or tweet at us [@ZeroWasteFest](https://ctt.ec/3UY79).
+This is some text and here is a link to the [homepage](/) or our [contact page](/contact) and an external link to [Facebook](https://www.facebook.com).
