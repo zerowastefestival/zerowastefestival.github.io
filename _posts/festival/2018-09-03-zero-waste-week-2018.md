@@ -3,7 +3,7 @@ layout: post
 category: festival
 
 title: "Zero Waste Week 2018"
-eventdate: 2017-06-25
+eventdate: 2018-06-25
 venue: "various venues across Dublin"
 
 image:
