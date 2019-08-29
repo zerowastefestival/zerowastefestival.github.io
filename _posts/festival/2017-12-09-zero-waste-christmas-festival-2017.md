@@ -7,7 +7,10 @@ eventdate: 2017-12-09
 venue: "St. Andrew's Resource Centre, Dublin 2"
 
 image:
-  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
+  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png"
+
+sidebar: true
+share: true
 ---
 
 Following on from hugely successful events earlier in the year, on Saturday the 9th of December, the Zero Waste Festival is back with a festive touch! 

@@ -8,7 +8,10 @@ venue: "Third Space, Dublin 7"
 
 image:
   teaser : events/pop-up/190314-swap-shop-teaser.jpg
-  #feature: events/pop-up/190314-swap-shop.jpg
+  #feature: events/pop-up/190314-swap-shop.jpg"
+
+sidebar: true
+share: true
 ---
 
 The team of the Zero Waste Festival Ireland is organising a new series of free, themed pop-up events. The second event of this series will be a clothes swap shop.

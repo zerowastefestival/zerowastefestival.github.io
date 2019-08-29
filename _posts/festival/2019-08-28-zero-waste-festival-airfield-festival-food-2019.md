@@ -10,6 +10,9 @@ venue: "Airfield Estate, Dundrum, D14"
 
 image:
   teaser : /teasers/festival-of-food-2019.jpg
+  
+sidebar: true
+share: true
 ---
 
 The Zero Waste Festival is excited to part of the the Airfield Festival of Food for the second year this time. Come and experience beautiful local and international food and Zero Waste living on September 7 and 8 at the Airfield Estate in Dundrum.

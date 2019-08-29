@@ -7,7 +7,10 @@ eventdate: 2018-12-02
 venue: "Green Door Market, Dublin 12"
 
 image:
-  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
+  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png"
+
+sidebar: true
+share: true
 ---
 
 The 2018 edition of the Zero Waste Christmas Festival took place on Sunday, December 2nd, at the Green Door Market in Bluebell Business Park, Dublin 12. With this year's Christmas-themed festival in December, we brought you a one-day festival with market, swap-shops, info stands, talks, and workshops all dedicated to helping you reduce your waste this Christmas and meet like-minded people.

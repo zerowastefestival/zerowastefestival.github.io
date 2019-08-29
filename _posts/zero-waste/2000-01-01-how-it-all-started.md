@@ -4,7 +4,10 @@ title: How it all started
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/how-it-all-started-teaser.jpg 
+  teaser : zero-waste/how-it-all-started-teaser.jpg "
+
+sidebar: true
+share: true
 ---  
 
 [Laura Cahill](https://www.instagram.com/laura0cahill/?hl=en) is a born minimalist who stumbled upon the Zero Waste lifestyle in 2003. She takes us on her personal journey towards low impact living and how a single talk brought [Ireland on the fast track to Zero Waste](https://zerowastehome.com/2017/08/17/ireland-fast-track-zero-waste/). 

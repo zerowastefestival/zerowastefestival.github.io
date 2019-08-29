@@ -7,7 +7,10 @@ eventdate: 2017-06-25
 venue: "CIE Hall Inchicore, Dublin 8"
 
 image:
-  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg
+  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg"
+
+sidebar: true
+share: true
 ---
 
 The First Zero Waste Festival, which took place on 25th June 2017 at CIE Sports and Social Club, Inchicore Dublin 8, was a sell out success.
