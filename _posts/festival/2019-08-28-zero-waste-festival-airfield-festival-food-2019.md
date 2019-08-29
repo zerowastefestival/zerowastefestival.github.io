@@ -15,7 +15,8 @@ sidebar: true
 share: true
 ---
 
-The Zero Waste Festival is excited to part of the the Airfield Festival of Food for the second year this time. Come and experience beautiful local and international food and Zero Waste living on September 7 and 8 at the Airfield Estate in Dundrum.
+After the summer break, we are back! We will be joining the Airfield's Festival of Food in the Environmental Zone on Saturday and Sunday, 7th & 8th of September in Dundrum, Dublin 14. You can look forward to artisan food village, zero waste & environmental zone (we will be there!), street food, backwoods cooking, walks & talks, cooking demos & workshops, wellness zone, live music and family fun!
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O8ZiZRCce7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -23,11 +24,16 @@ The Zero Waste Festival is excited to part of the the Airfield Festival of Food 
 
 # Zero Waste & Environmental Zone
 
-We'll be a part of the [Festival of Food in Airfield Estate](https://www.airfield.ie/festival-of-food/), Dundrum, Dublin 14 in September. You can chat to us about your zero waste journeys, wins, fails, conundrums and all you are interested in! We will also bring a swap shop with us so make sure you bring that unloved clothes with you and give them a new life... This is a free event so what are you waiting for? Make your plans to come now!
+We'll be a part of the [Festival of Food in Airfield Estate](https://www.airfield.ie/festival-of-food/), Dundrum, Dublin 14 in September. We will bring our zero waste stand where we’ll chat to you about your journeys, your ups and downs, conundrums and easy wins. We will also bring a swap shop with us so make sure you bring that unloved clothes with you and refresh your wardrobe for the coming autumn season... This is a free event so what are you waiting for? Make your plans to come now!
+
+The festival has sustainability in-mind encouraging visitors to use public transport and reduce plastic consumption. All food vendors will use only compostable or recyclable food containers and festival goers are encouraged to bring their own lunch boxes & reusable cups to help reduce the amount of waste generated from the festival…
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FZeroWasteFestivalIreland%2Fposts%2F1212306718941020&width=500" width="500" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Admission
+
+The festival is 100% free all weekend and you can get local, seasonal and sustainable food from the delicious offerings from over 50 producers, showcasing the very best of artisan and locally produced goods.
 
 Open 9.30 am – 5 pm – FREE entry for all and last admission at 4 pm.
 
