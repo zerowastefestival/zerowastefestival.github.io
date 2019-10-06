@@ -5,6 +5,7 @@ permalink: /
 
 Wherever you are on your Zero Waste journey, meet us at one of our upcoming events to get in touch with likeminded people and learn more about the various aspects of Zero Waste living.
 
+<!--
 Our next [Zero Waste Festival](/airfield-festival-food-2019/) is at the [Festival of Food](https://www.festivaloffood.ie/) in Airfield.
 
 <picture>
@@ -16,6 +17,7 @@ Our next [Zero Waste Festival](/airfield-festival-food-2019/) is at the [Festiva
 		alt="Zero Waste Festival Airfield" 
 		style="width:auto;">
 </picture>
+//-->
 
 # Latest News
 
