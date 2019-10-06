@@ -4,7 +4,7 @@ title: How it all started
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/how-it-all-started-teaser.jpg "
+  teaser : zero-waste/how-it-all-started-teaser.jpg
 
 sidebar: true
 share: true

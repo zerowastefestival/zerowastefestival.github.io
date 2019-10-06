@@ -5,7 +5,7 @@ title: What is Zero Waste?
 category: zero-waste
 
 image:
-  teaser : zero-waste/what-is-zero-waste-teaser.jpg"
+  teaser : zero-waste/what-is-zero-waste-teaser.jpg
 
 sidebar: true
 share: true

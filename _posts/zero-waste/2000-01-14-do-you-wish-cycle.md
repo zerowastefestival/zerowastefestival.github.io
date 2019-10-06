@@ -4,7 +4,7 @@ title: Do you wish-cycle?
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/do-you-wish-cycle.jpg "
+  teaser : zero-waste/do-you-wish-cycle.jpg
 
 sidebar: true
 share: true

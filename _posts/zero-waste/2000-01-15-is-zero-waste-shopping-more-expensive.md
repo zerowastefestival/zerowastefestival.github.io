@@ -4,7 +4,7 @@ title: Is Zero Waste shopping more expensive?
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/is-zero-waste-shopping-more-expensive-teaser.jpg "
+  teaser : zero-waste/is-zero-waste-shopping-more-expensive-teaser.jpg
 
 sidebar: true
 share: true
