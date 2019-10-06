@@ -8,7 +8,10 @@ venue: "MVP, Dublin 8"
 
 image:
   teaser : events/pop-up/190521-homemade-cleaning-products-teaser.jpg
-  #feature: 
+  #feature: "
+
+sidebar: true
+share: true
 ---
 
 Homemade cleaning products are natural, green and eco-friendly. We show you how to make them at our free, themed pop-up events hosted by MVP in Dublin 8

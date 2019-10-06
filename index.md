@@ -3,15 +3,23 @@ layout: page
 permalink: /
 ---
 
+Wherever you are on your Zero Waste journey, meet us at one of our upcoming events to get in touch with likeminded people and learn more about the various aspects of Zero Waste living.
 
-We are planning to bring our next Zero Waste Festival to Dublin in the summer. Stay tuned for more updates. In the mean time, you can check out our ongoing series of [Pop-up Events](/pop-up) in Dublin.
+Our next [Zero Waste Festival](/airfield-festival-food-2019/) is at the [Festival of Food](https://www.festivaloffood.ie/) in Airfield.
 
-For all the latest updates head over to the [News](/news) section and follow our social media accounts on [Facebook](https://www.facebook.com/ZeroWasteFestivalIreland) and [Instagram](https://www.instagram.com/zerowastefestirl), and [Twitter](https://twitter.com/ZeroWasteFest). You can also subscribe to our [Atom feed]({{ site.baseurl}}/feed.xml).
-
+<picture>
+	<source 
+		media="(min-width: 650px)" 
+		srcset="/images/events/2019-09-festival-of-food/airfield-announcemant-wide.jpg"> 
+	<img 
+		src="/images/events/2019-09-festival-of-food/airfield-announcemant-narrow.jpg" 
+		alt="Zero Waste Festival Airfield" 
+		style="width:auto;">
+</picture>
 
 # Latest News
 
-For all news check the [News](/news) section.
+Find our latest announcements here of and be sure to check out the [News](/news) and [Events](/events) section to see what we've been up to in the past.
 
 <div class="tiles">
 {% for post in site.posts  limit:8 %}

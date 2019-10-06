@@ -8,7 +8,10 @@ venue: "MVP, Dublin 8"
 
 image:
   teaser : events/pop-up/190507-journey-to-zero-waste-teaser.jpg
-  #feature: events/pop-up/190507-journey-to-zero-waste.jpg
+  #feature: events/pop-up/190507-journey-to-zero-waste.jpg"
+
+sidebar: true
+share: true
 ---
 
 We are back with our series of free, themed pop-up events, this time hosted by MVP in Dublin 8. The theme of the next session is "Journey to Zero Waste".

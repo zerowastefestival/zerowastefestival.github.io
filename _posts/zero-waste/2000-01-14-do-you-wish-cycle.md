@@ -4,7 +4,10 @@ title: Do you wish-cycle?
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/do-you-wish-cycle.jpg 
+  teaser : zero-waste/do-you-wish-cycle.jpg "
+
+sidebar: true
+share: true
 ---  
 
 Recycling might be your first step towards a Zero Waste / low impact lifestyle, but hopefully this step will not be the last.

@@ -5,7 +5,10 @@ title: What is Zero Waste?
 category: zero-waste
 
 image:
-  teaser : zero-waste/what-is-zero-waste-teaser.jpg
+  teaser : zero-waste/what-is-zero-waste-teaser.jpg"
+
+sidebar: true
+share: true
 ---
 
 The term Zero Waste started out as an industry term for manufacturing processes that resulted in no waste. They do this by feeding waste back into the manufacturing process in the form of fuel or raw material. Manufacturing that operates in this way is central to the concept of a circular economy --- an economy based on reuse and recycling of waste to generate new products. 

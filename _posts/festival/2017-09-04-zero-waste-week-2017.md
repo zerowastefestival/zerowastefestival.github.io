@@ -7,7 +7,10 @@ eventdate: 2017-09-04
 venue: "various venues across Dublin"
 
 image:
-  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg
+  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg"
+
+sidebar: true
+share: true
 ---
 
 Welcome to Dublin's Zero Waste Week from September 4th---10th 2017.

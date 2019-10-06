@@ -8,7 +8,7 @@ image:
   #feature: events/2019-02-trinity-green-week/trinity-green-week-talk-feature.jpg
   teaser: teasers/volunteer-with-us.jpg
 
-sidebar: false
+sidebar: true
 share: true
 ---
 

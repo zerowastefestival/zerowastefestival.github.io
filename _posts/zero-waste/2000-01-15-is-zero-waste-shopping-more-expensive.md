@@ -4,7 +4,10 @@ title: Is Zero Waste shopping more expensive?
 
 category: zero-waste  
 image:   
-  teaser : zero-waste/is-zero-waste-shopping-more-expensive-teaser.jpg 
+  teaser : zero-waste/is-zero-waste-shopping-more-expensive-teaser.jpg "
+
+sidebar: true
+share: true
 ---  
 
 Is buying Zero Waste and package free in Dublin more expensive than just going to a "normal" supermarket? Follow along Celia's journey to several package-free and traditional stores and see where Zero Waste shopping can actually save you money.

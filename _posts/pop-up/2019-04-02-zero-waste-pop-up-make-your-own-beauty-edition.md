@@ -8,7 +8,10 @@ venue: "Third Space, Dublin 7"
 
 image:
   teaser : events/pop-up/190411-make-your-own-teaser.jpg
-  feature: #events/pop-up/190411-make-your-own.jpg
+  feature: #events/pop-up/190411-make-your-own.jpg"
+
+sidebar: true
+share: true
 ---
 
 The team of the Zero Waste Festival Ireland is organising a series of free, themed pop-up events. The theme of the next session is "Make Your Own: Beauty Edition".

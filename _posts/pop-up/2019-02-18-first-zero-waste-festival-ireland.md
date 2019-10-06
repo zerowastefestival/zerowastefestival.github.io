@@ -1,4 +1,7 @@
----
+"
+
+sidebar: true
+share: true---
 layout: post
 category: pop-up
 
