@@ -4,17 +4,16 @@ category: pop-up
 
 title: "Swap Shop &#8211; Zero Waste Pop-Up Event"
 eventdate: 2019-06-04
-venue: "MVP, Dublin 8
+venue: "MVP, Dublin 8"
 
 image:
   teaser : events/pop-up/190604-swap-shop-teaser.jpg
-  #feature: "
 
 sidebar: true
 share: true
 ---
 
-Swap Shop's back, alright! We will host another of our Swap Shops for pre-loved clothes, this time at MVP in Dublin 8.
+Swap Shop's back, all right! We will host another of our Swap Shops for pre-loved clothes, this time at MVP in Dublin 8.
 
 ## What?
 

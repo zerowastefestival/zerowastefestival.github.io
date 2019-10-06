@@ -7,7 +7,7 @@ eventdate: 2018-02-25
 venue: "ABC Drumcondra, Dublin 9"
 
 image:
-  teaser : posts/2018-02-10/teaser.jpg"
+  teaser : posts/2018-02-10/teaser.jpg
 
 sidebar: true
 share: true

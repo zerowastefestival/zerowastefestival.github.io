@@ -7,7 +7,7 @@ eventdate: 2019-04-14
 venue: "An Gairdin Beo, Carlow"
 
 image:
-  teaser : events/2019-04-festival/zero-waste-festival-carlow-teaser.jpg"
+  teaser : events/2019-04-festival/zero-waste-festival-carlow-teaser.jpg
 
 sidebar: true
 share: true

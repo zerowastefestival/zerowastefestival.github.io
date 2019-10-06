@@ -8,7 +8,7 @@ venue: "MVP, Dublin 8"
 
 image:
   teaser : events/pop-up/190521-homemade-cleaning-products-teaser.jpg
-  #feature: "
+  #feature:
 
 sidebar: true
 share: true

@@ -7,7 +7,7 @@ eventdate: 2018-06-24
 venue: "St. Andrews Resource Centre, Dublin 2"
 
 image:
-  teaser : posts/2018-06-22/teaser.jpg"
+  teaser : posts/2018-06-22/teaser.jpg
 
 sidebar: true
 share: true

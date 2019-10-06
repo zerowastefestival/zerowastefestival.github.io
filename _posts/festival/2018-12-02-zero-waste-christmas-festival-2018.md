@@ -7,7 +7,7 @@ eventdate: 2018-12-02
 venue: "Green Door Market, Dublin 12"
 
 image:
-  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png"
+  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
 
 sidebar: true
 share: true

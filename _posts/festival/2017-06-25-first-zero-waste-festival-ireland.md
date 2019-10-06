@@ -7,7 +7,7 @@ eventdate: 2017-06-25
 venue: "CIE Hall Inchicore, Dublin 8"
 
 image:
-  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg"
+  teaser : logos-zero-waste-festival/zero-waste-festival-ireland-logo-400.jpg
 
 sidebar: true
 share: true

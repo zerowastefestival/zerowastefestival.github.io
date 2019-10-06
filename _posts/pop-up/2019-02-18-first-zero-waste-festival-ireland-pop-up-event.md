@@ -1,7 +1,4 @@
-"
-
-sidebar: true
-share: true---
+---
 layout: post
 category: pop-up
 
@@ -14,7 +11,7 @@ image:
   feature: #events/pop-up/190228-grow-your-own.jpg
 ---
 
-The team of the Zero Waste Festival Ireland is organising a new series of free, themed pop-up events. The theme of the first session is "Grow Your Own" and we are teaming up with the [Dublin CSA](https://csadublin.wordpress.com/) (Community Supported Agriculture) for this event.
+The team of the Zero Waste Festival Ireland is organising a new series of free, themed pop-up events. The theme of the first session is "Grow Your Own" and we are teaming up with the Dublin CSA (Community Supported Agriculture) for this event.
 
 ## What?
 

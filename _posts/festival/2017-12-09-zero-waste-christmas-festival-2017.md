@@ -7,7 +7,7 @@ eventdate: 2017-12-09
 venue: "St. Andrew's Resource Centre, Dublin 2"
 
 image:
-  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png"
+  teaser : /events/2018-12-festival/2018-12-zero-waste-christmas-festival-teaser.png
 
 sidebar: true
 share: true
