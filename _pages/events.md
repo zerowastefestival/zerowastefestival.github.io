@@ -14,6 +14,8 @@ We are running regular Zero Waste Festivals in Dublin and Ireland. Check out the
 
 ##### Upcoming Zero Waste Festivals
 
+We are currently working to organis the next Zero Waste Festival. Stay tunes for more updates soon!
+
 {% include festival-list-future.html %}
 
 ### Pop-up Events
@@ -22,7 +24,7 @@ Can't wait until the next Festival? Why not check out one of our new themed [Zer
 
 ##### Upcoming Zero Waste Pop-up Events
 
-There are no upcoming Pop-up Events at the moment. 
+[//]: <> (There are no upcoming Pop-up Events at the moment.)
 
 {% include popup-list-future.html %}
 
