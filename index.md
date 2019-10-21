@@ -25,7 +25,7 @@ Find our latest announcements here of and be sure to check out the [News](/news)
 
 <div class="tiles">
 {% for post in site.posts  limit:8 %}
-  {% if post.category == "team" or post.category == "event" or post.category == "events" or post.category == "zero-waste" %} 
+  {% if post.category == "team" %} 
   
   {% else if %}
 	{% include post-grid.html %}

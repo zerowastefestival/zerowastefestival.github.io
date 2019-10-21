@@ -6,7 +6,7 @@ title: News
 
 <div class="tiles">
 {% for post in site.posts %}
-  {% if post.category == "team" or post.category == "event" or post.category == "events" or post.category == "zero-waste" %} 
+  {% if post.category == "team" %} 
   
   {% else if %}
 	{% include post-grid.html %}
