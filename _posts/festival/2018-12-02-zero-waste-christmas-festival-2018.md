@@ -303,7 +303,7 @@ With the [Dublin CSA](https://csadublin.wordpress.com/) (community-supported agr
 
 ### Swap Shops
 
-There will be three swaps hops at this Christmas Edition of the Zero Waste Festival, back by popular demand. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
+There will be three swap shops at this Christmas Edition of the Zero Waste Festival, back by popular demand. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
 
 #### Pre-loved Clothes Swap Shop
 

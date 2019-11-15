@@ -50,7 +50,7 @@ For all the latest about the Zero Waste themed events and Market in the Environm
 
 ### Swap Shops
 
-There will be three swaps hops at this Christmas Edition of the Zero Waste Festival, back by popular demand. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
+There will be a clothes swap shop at this edition of the Zero Waste Festival, back by popular demand. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
 
 #### Pre-loved Clothes Swap Shop
 
