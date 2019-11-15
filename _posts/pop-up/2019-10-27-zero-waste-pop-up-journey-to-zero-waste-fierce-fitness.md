@@ -20,7 +20,13 @@ Are you planning to start your own Zero Waste journey? Are you already well on t
 
 We are eager to share personal stories about Zero Waste living in Ireland and Dublin with each other, share empathy, hacks, tips and tricks, and everything Zero Waste related.
 
-We'll announce the full list of speakers soon, in the meantime check out our [Facebook Event](https://www.facebook.com/events/3142664955775157/).
+We are happy to have Jess with us who is just about to open a zero waste shop in Dublin!!!
+
+Jess is a Canadian who recently returned to Ireland with the goal of setting up a zero waste grocery shop. She was inspired to cut down on waste after a visit to a zero waste shop in Canada showed her how a few easy steps could make a drastic difference in the amount of waste she was producing- and as a bonus, it was a nicer way to shop! Her store, [The Good Neighbour](https://www.facebook.com/thegoodneighbourdublin/), aims to make zero waste shopping easy. Whether you're coming to stock up on pantry staples, cleaning products, tea, or snacks, you can find it all package-free. Opening date: December 7th, Dundrum Village.
+
+Zdenka is a zero-waste advocate who lives in Dublin and shares her tips and tricks for living a more sustainable life on her platform, [Coming to Zero](https://comingtozero.com/). If she’s not working or training on aerial silks, you’ll most likely find her in the garden trying to coax vegetables out of the ground or in the kitchen/laboratory where she passionately fills glass jars with everything and anything that couldn’t be allowed to go to waste. She will share a few tips and tricks how to reduce the weight that goes into our weekly bins.
+
+Brian Mac Muiris has just recently got involved in the zero waste movement. What inspired him was seeing all the plastic bottles being dumped at a race he was helping at. So he worked on that race to help them reduce the amount of bottles being used and they went from using a 1000 bottles to none. And then he started thinking about the waste he generates himself. Started to work on reducing the amount he produced at home. Still working on the journey but slowly getting there :)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FZeroWasteFestivalIreland%2Fposts%2F1267453923426299&width=500" width="500" height="576" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
