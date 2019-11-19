@@ -32,7 +32,7 @@ The ever popular clothes swap will be back too with the festive addition of Chri
 
 ## Venue
 
-The festival will be hosted at the [The George Bar](http://thegeorge.ie/) at [89 South Great George's Street](https://goo.gl/maps/VmcQiFwirShH7JrC7), Dublin 2, from 12 noon to 6 pm on Sunday, December 1st, 2018.
+The festival will be hosted at the [The George Bar](http://thegeorge.ie/) at [89 South Great George's Street](https://goo.gl/maps/VmcQiFwirShH7JrC7), Dublin 2, from 12 noon to 6 pm on Sunday, December 1st, 2019.
 
 The George is one of Dublin's most iconic LGBT+ venues and features a wide variety of LGBT+ artwork. Please consider this when visiting with children.
 
@@ -48,7 +48,7 @@ There are bicycle racks just across the street of the bar and plenty of [Dublin 
 
 ## Admission
 
-The festival is 100% free for access to the marked and workshops. You can grab your drinks and coffee from the bar at The George.
+The festival is 100% free for access to the market and workshops. You can grab your drinks and coffee from the bar at The George.
 
 Open 12 noon – 6 pm – FREE entry.
 
