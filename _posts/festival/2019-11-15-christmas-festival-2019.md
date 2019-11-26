@@ -166,12 +166,6 @@ Jennifer hand-makes cotton make-up pads and face-cloths. She also re-purposes ol
 	
 [Keep it Green eco shop](http://www.keepitgreenecoshop.com) sell products that support sustainable lifestyles and promote the principles of reuse and refill. Their wide range of products include stainless steel bottles, bamboo, glass and collapsible coffee cups, lunch boxes and food jars, travel cutlery and reusable straws, beeswax wrap, organic cotton cleansing pads, wipes and sanitary pads, palm oil free soaps, shampoo and shaving bars. Razors and beard oil, tooth wash and toothpaste tablets, compostable dental floss, bamboo toothbrushes and cotton buds. Their products are made to last a long time and can be composted, recycled or given to someone else at the end of their life. Find out more on their [Facebook](https://www.facebook.com/keepitgreenecoshop/).
 	
-####	Lilly's Eco Clean
-
-![Lilly's Eco-Clean]({{ site.baseurl }}/images/logos-external/logo-lillys-ecoclean.jpg "Lilly's Eco-Clean"){:style="float: top;margin-right: 10px;height: 150px;"}
-	
-[Lilly's Eco Clean](https://www.lillysecoclean.com) is an Irish manufacturer or natural cleaning products. The company believes strongly in reducing waste and plastics and has offered refill options for over 10 years. For more info, check out their [website](https://www.lillysecoclean.com), [Instagram](https://www.instagram.com/lillysecoclean), or [Facebook](https://www.facebook.com/lillysecoproducts).
-	
 ####	LittlePrinceinIreland
 	
 Buy a hand-knitted doll, which is a good place to start for zero waste toys because dolls are fun for kids and can be washed and used for generations to come.
