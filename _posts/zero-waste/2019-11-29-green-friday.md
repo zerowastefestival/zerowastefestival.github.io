@@ -7,13 +7,15 @@ author: Laura Astori
 
 image:
   teaser : zero-waste/green-friday-teaser.jpg
-  feature : zero-waste/green-friday-feature.jpg
+ #feature : zero-waste/green-friday-feature.jpg
 
 sidebar: true
 share: true
 ---
 
 In contrast to the ubiquitous Black Friday today (as many other people and businesses do, too) we want to support a Green Friday, characterized by less wasteful consumerism and sustainable choices.
+
+![green-friday-feature](/images/zero-waste/green-friday-feature.jpg "green-friday-feature")
 
 ### The Black Friday frenzy has begun
 
@@ -22,6 +24,8 @@ So, it has officially started: Today marks the start of the crazy-compulsive-sho
 ### Do you really need it?
 
 Today, more than any other day of the year, you’ll probably be bombarded with “unmissable offers” and “crazy-good deals” that might at first sight appear to be a “waste” not to take on (pun intended). The reality is, however, that 9 times out of 10 these deals ARE a waste. A waste of money, a waste of material, a waste of your time. More often than not you will be tempted to buy something you wouldn’t really need or want in the first place just because “it is so much cheaper, how could you not take advantage of it”?
+
+![think before you buy](/images/zero-waste/green-friday-think-before-you-buy.jpg "think before you buy")
 
 Our suggestion is simple: don’t rush, take a moment to consciously think of what you are about to do and ask yourself honestly how much do you really need or really want that thing, and if there wouldn’t be any other more sustainable way to get it. If the answer is “I really, really, really” cannot miss out on it, then off you go, we hope it turns out to be a great deal and a long-lasting, long-loved product for you; but if you have even just a little bit of hesitation than you should probably leave it. We are not telling you absolutely stop shopping and hunting for great deals for things you love, we just want to point out that there are ways to buy consciously, reflected and with purpose. 
 
