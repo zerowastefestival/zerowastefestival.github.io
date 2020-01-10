@@ -16,7 +16,7 @@ Fancy a great start into the new? We are looking for volunteers helping us to ru
 
 ### We need you!
  
-We need volunteers on the day to do various jobs from moving tables to manning doors and our beloved swap shop. In exchange for a few hours of helping out, you'll get a run of the festival, meet like-minded people and have the first pick from the swap shop
+We need volunteers on the day to do various jobs from moving tables to manning doors and our beloved swap shop. In exchange for a few hours of helping out, you'll get the run of the festival, meet like-minded people and have the first pick from the swap shop
 
 If you are interested, please fill out the [Volunteer Form here](/forms/zwf-at-sg-2020) where you can pick your preferred role and day.
 
@@ -30,7 +30,7 @@ The Zero Waste Festival is a non-for-profit and completely volunteer-run event t
 
 Please leave us your details and preferences in the form above if you would like to volunteer during the Festival. We would like to ask volunteers to commit to volunteer for at least 2 hours during any of the two days. The exact shifts will be scheduled closer to the event.
 
-### Volunteers' Orientation Meeting: January 22, 2020
+### Volunteers' Orientation Meeting: January 21, 2020
 
 Please already mark the date for the Volunteer Meeting which will take place on Tuesday, January 21, in the late afternoon/early evening. Exact time and location is still to be confirmed. At the Volunteer Meeting we will all have the opportunity to get to know each other, run through the event and organise our volunteering schedule. Taking part in the Volunteer Meeting is not mandatory, but highly recommended. Please indicate below if you are unavailable on that day and we will try our best to find alternative arrangements.
 
