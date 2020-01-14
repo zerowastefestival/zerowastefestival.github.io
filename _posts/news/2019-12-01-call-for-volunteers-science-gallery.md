@@ -6,7 +6,7 @@ category:
 
 image:
   #feature: 
-  teaser : /events/2020-01-science-gallery-festival/call-for-volunteers-teaser.jpg
+  teaser : events/2020-01-science-gallery-festival/call-for-volunteers-teaser.jpg
 
 sidebar: true
 share: true

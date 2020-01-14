@@ -9,8 +9,8 @@ eventdate: 2020-01-25
 venue: "Science Gallery, D02"
 
 image:
-  teaser : /events/2020-01-science-gallery-festival/science-gallery-2020-teaser.jpg
-  feature: /events/2020-01-science-gallery-festival/science-gallery-2020-feature.jpg
+  teaser : events/2020-01-science-gallery-festival/science-gallery-2020-teaser.jpg
+  feature: events/2020-01-science-gallery-festival/science-gallery-2020-feature.jpg
   
 sidebar: true
 share: true
