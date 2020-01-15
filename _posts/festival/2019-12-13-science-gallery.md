@@ -50,7 +50,7 @@ The Science Gallery is located right in the heart of Dublin, at the north-east e
 
 The Trinity LUAS stop on the Green line is just 500 m away and all buses going along Pearse Street bring you close enough to the Science Gallery. 
 
-There are bicycle racks on campus and plenty of [Dublin Bike stations](http://www.dublinbikes.ie/All-Stations/Station-map) in the area, including one just riht in front of the Science Gallery.
+There are bicycle racks on campus and plenty of [Dublin Bike stations](http://www.dublinbikes.ie/All-Stations/Station-map) in the area, including one just right in front of the Science Gallery.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.9514720384345!2d-6.25248378416163!3d53.344124879978544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e91b3ad67ad%3A0x47ac71852b901761!2sScience%20Gallery%20Dublin!5e0!3m2!1sen!2sie!4v1578686018936!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
@@ -94,7 +94,7 @@ Join us for our panel discussion on Zero Waste Living in Dublin. We will hear wh
 
 **Naomi Sheridan**, the owner of Phibsborogh based health food store [Noms](https://www.noms.ie/) will share her experience of continously expanding the package-free options in her shop driven by customer demand.
 
-**Ciarán Smith** who co-founded the first fully packaging free food stall in Ireland (Bring Your Own) will talk about how it felt to pioneer Zero Waste living in uncharted terretory.
+**Ciarán Smith** who co-founded the first fully packaging free food stall in Ireland (Bring Your Own) will talk about how it felt to pioneer Zero Waste living in uncharted territory.
 
 **Zdenka Thunder** of [Coming To Zero](https://comingtozero.com/) is a Dublin-based Zero Waste activist and blogger who is fighting food waste one jar at a time.
 
@@ -133,7 +133,7 @@ Trevor Woods who has previously carried out research into bio-degradable plastic
 
 ##### 16:00 -- 17:00 <br/> The ECOmedy Hour
 
-Join us for an hour of clever comedy where some of Dublins funniest comedians will turn topical environmental issues into comedy gold. There will be no jokes wasted here!
+Join us for an hour of clever comedy where some of Dublin's funniest comedians will turn topical environmental issues into comedy gold. There will be no jokes wasted here!
 
 The line-up includes [Pauline Shanahan](https://twitter.com/paulineshanahan?lang=en) (Vodaphone Comedy Festival), [Elaine Gallagher](https://www.sdgi.ie/elaine-gallagher) (Edingburgh Fringe Festival), Gary Tyrell (Bright Club Ireland), Sean Begley (Bray Comedy Festival New Act of the Year) , Anne Gill (Comedy Gold), [Ian Lynham](https://www.facebook.com/IanDLynam/) (Vodaphone Comedy Festival) hosted by [Diane O'Connor](https://www.facebook.com/dianeoconnorcomedian/) (Electric Picnic).
 
