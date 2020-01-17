@@ -25,6 +25,9 @@ Christmas can be a difficult time to keep your bins empty and your recycling pil
 
 From making better choices of materials, reusing and upcycling, there will be something to be learned for everyone, no matter where you are on your journey. For your first foray into zero waste, stop by our info-stand for guidance on beginning your zero waste lifestyle and learn about simple changes you can do in your daily life, be it in the bathroom, kitchen or on the go. The workshops, talks and demos this Christmas will include advice on alternative gifting and gift wrapping, edible gifts, festive food and drinks, creating upcycled gifts and buying items that last. These workshops and talks will operate on a first-come first-served basis. 
 
+Anne from the Zero Waste festival gave some tips about Zero Waste Christmas at [Beat 102/103's Sunday Grill Podcast](https://beat102103.com/djs/the-sunday-grill/). Listen to it here:
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/727319995&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 Our market stalls will offer you alternatives to plastic-laden gifts promoting handmade, sustainable and conscious gifts. We will focus on handmade, natural, package-free, locally made and second-hand products to help you with your Christmas shopping - but you will also be able to stock up on your loose food items or refills of cleaning products. 
 
 The ever popular clothes swap will be back too with the festive addition of Christmas jumpers! So bring your old one and swap it for a new loved one.  
