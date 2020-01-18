@@ -154,7 +154,10 @@ Celia Somlai is an environmental activist and researcher who is trying to live a
 
 ##### 15:00 -- 15:45 <br/> Bio-Plastic Fantastic *with Trevor Woods*
 
-Trevor Woods who has previously carried out research into bio-degradable plastics will present a short and informative talk on bio-degradable plastic research and options available at the moment to replace standard plastics.
+![Trevor Woods](/images/events/2020-01-science-gallery-festival/trevor-woods.jpg "Trevor Woods"){:style="float: left;margin-right: 20px;height: 125px;"}
+
+Trevor Woods who has previously carried out research on bio-degradable plastics will present a talk on current Bio-degradable plastic research and bio-degradable plastic options available to replace standard use single plastics at home and at festivals. He will also showcase how artists are communicating the current plastic pollution problem and give examples of his own recycled plastic artwork to highlight the need for plastic education and change.
+
 
 
 
