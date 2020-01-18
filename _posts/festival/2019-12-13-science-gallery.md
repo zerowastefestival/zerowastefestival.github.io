@@ -54,9 +54,18 @@ There are bicycle racks on campus and plenty of [Dublin Bike stations](http://ww
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.9514720384345!2d-6.25248378416163!3d53.344124879978544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e91b3ad67ad%3A0x47ac71852b901761!2sScience%20Gallery%20Dublin!5e0!3m2!1sen!2sie!4v1578686018936!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-<a href="#top">Back to top</a>
+<a href="#top">↑ Back to top</a>
 
 ## What's on?
+
+Here are the full schedules for both Saturday and Sunday (click on the picture to get a higher resolution image). You'll find more info below.
+
+[![schedule-saturday](/images/events/2020-01-science-gallery-festival/schedule-saturday.jpg "schedule-saturday"){:width: 100%;"}](/images/events/2020-01-science-gallery-festival/schedule-saturday.jpg)
+
+[![schedule-sunday](/images/events/2020-01-science-gallery-festival/schedule-sunday.jpg "schedule-sunday"){:width: 100%;"}](/images/events/2020-01-science-gallery-festival/schedule-sunday.jpg)
+
+
+<a href="#top">↑ Back to top</a>
 
 ### Talks in the Paccar Theatre
 
@@ -123,6 +132,8 @@ living a more sustainable life on her platform, [Coming To Zero](https://comingt
 **Ciarán Smyth** background is in science research, and he has been working on minimising waste and consumption since 2016. In early 2017, he and his wife Íde set up the Bring Your Own market stall to provide zero-waste shopping in Dublin and the surrounding area. At the end of 2018 he teamed up with the health and wholefoods store [Noms](https://www.noms.ie/) in Phibsborough to help with the package-free ethos of the store. He is particularly interested in minimising food waste, and trying to source as locally as possible.
 
 
+<a href="#top">↑ Back to top</a>
+
 #### Sunday, January 26
 
 <a name="ide"></a>
@@ -172,6 +183,7 @@ The line-up includes [Pauline Shanahan](https://twitter.com/paulineshanahan?lang
 You will laugh, learn & leave feeling positively fired up! Find out more on the [ECOmedy Hour Facebook Event](https://www.facebook.com/events/506468579985987/).
 
 
+<a href="#top">↑ Back to top</a>
 
 
 ### Zero Waste Market
@@ -224,6 +236,8 @@ Where most see waste, we see possibility. [The Upcycle Movement](www.theupcyclem
 
 [Literary Lip Balms](https://literarylipbalms.com/) makes natural skincare inspired by fiction. Their best-selling lip balms are carefully crafted by hand in Dublin with 100% natural and organic ingredients, and come in both reusable aluminium tins and compostable tubes. View the full range of products at [literarylipbalms.com](https://literarylipbalms.com/). Find out more about them on their [Facebook](https://www.facebook.com/literarylipbalms/) or [Instagram](https://www.instagram.com/literarylipbalms).
 
+<a href="#top">↑ Back to top</a>
+
 
 ### Info Stands
 
@@ -234,6 +248,12 @@ As always we invite a good few great local initiatives and community groups to p
 ![zerowaste](/images/logos-external/logo-zerowaste-infostand.jpg "zerowaste"){:style="float: top;margin-right: 10px;height: 50px;"}
 
 Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear up misconceptions or be inspired on the next steps to take at our Zero Waste Info Stand. We can show you some easy swaps to get away from single use items, explain the [5R's of Zero Waste](/zero-waste/what-is-zero-waste/), talks about a [zero waste wardrobe](/zero-waste/creating-zero-waste-closet-wardrobe/), and share stories about our journey to Zero Waste.
+
+####	Precious Plastic Dublin
+
+![Precious Plastic Dublin](/images/logos-external/logo-precious-plastic-dublin.png "Precious Plastic Dublin"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Precious Plastic Dublin](https://www.preciousplasticdublin.org) is a volunteer collective working on practical solutions to reduce plastic waste and pollution in Dublin. As part of the Precious Plastic global movement, they aim to bring plastic recycling closer to the local community. As a special for the Zero Waste Christmas Festival they will set up [collection boxes for HDPE bottle caps at their stall](https://www.preciousplasticdublin.org/zero-waste-christmas-festival-plastic-collection/), so make sure to collect and bring them with you on the day for recycling. You can check out their [website](https://www.preciousplasticdublin.org) and [Instagram feed](https://www.instagram.com/preciousplasticdublin/). They also [tweet @DublinPlastic](https://twitter.com/dublinplastic).
 
 ### Revived Yarn
 
@@ -246,12 +266,6 @@ Revived Yarn is a community of knitters and crocheters who help to warm the home
 ![Seal Rescue Ireland](/images/logos-external/logo-seal-rescue-ireland.jpg "Seal Rescue Ireland"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Seal Rescue Ireland](http://www.sealrescueireland.org/) is a charity based in Courtown Co. Wexford, which works hard to rescue, rehabilitate and release sick, injured and orphaned seal pups from the coastline of Ireland while also placing a strong focus on environmental and wildlife education and engaging the public in proactive conservation activities. Find out more about their work on [Instagram](https://www.instagram.com/sealrescueireland/) and [Twitter](https://twitter.com/seal_rescue).
-
-####	Precious Plastic Dublin
-
-![Precious Plastic Dublin](/images/logos-external/logo-precious-plastic-dublin.png "Precious Plastic Dublin"){:style="float: top;margin-right: 10px;height: 200px;"}
-
-[Precious Plastic Dublin](https://www.preciousplasticdublin.org) is a volunteer collective working on practical solutions to reduce plastic waste and pollution in Dublin. As part of the Precious Plastic global movement, they aim to bring plastic recycling closer to the local community. As a special for the Zero Waste Christmas Festival they will set up [collection boxes for HDPE bottle caps at their stall](https://www.preciousplasticdublin.org/zero-waste-christmas-festival-plastic-collection/), so make sure to collect and bring them with you on the day for recycling. You can check out their [website](https://www.preciousplasticdublin.org) and [Instagram feed](https://www.instagram.com/preciousplasticdublin/). They also [tweet @DublinPlastic](https://twitter.com/dublinplastic).
 
 ####	Dublin Food Cooperative
 
@@ -278,6 +292,7 @@ The [Dublin CSA](https://csadublin.wordpress.com/) is a community supported agri
 [Nuw](https://www.thenuwardrobe.com/) is a clothes sharing app and community. Borrow beautiful clothes and accessories from people in your area and lend out pieces that aren't getting the love they deserve. You can find them also on [Instagram](https://www.instagram.com/thenuwardrobe/).
 
 
+<a href="#top">↑ Back to top</a>
 
 ### Workshops
 
@@ -314,6 +329,8 @@ What is completely compostable, washable and can be rewaxed if needed to top you
 In this workshop, [Science Gallery Dublin](https://dublin.sciencegallery.com/) will provide the materials and direction you need to infuse cotton with food-grade beeswax perfect to pack a lunch, wrap your shampoo bar or bundle a bouquet. Wax wraps have so many uses and can easily be folded into makeshift bowls, water vessels and many other objects with some simple folding skills. We are reusing old cotton t-shirts for this workshop as one t-shirt takes 2,700 litres of water to make, which equates to drinking water for one person for two years!
 
 
+<a href="#top">↑ Back to top</a>
+
 #### Sunday, January 26
 
 <a name="tetrapaks"></a>
@@ -340,7 +357,7 @@ While upcycling isn’t the solution to our waste problems it's a fun place to s
 Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon.
 
 
-
+<a href="#top">↑ Back to top</a>
 
 
 ### Swap Shop
@@ -361,6 +378,7 @@ All unclaimed items will be donated to a local charity at the end of the day.
 
 
 
+<a href="#top">↑ Back to top</a>
 
 
 
@@ -388,6 +406,10 @@ Bring your own mug, water bottle and lunch box and utensils. You're also welcome
 - Spare jars can be useful for other people who didn't bring enough
 - Bring any take-away containers you have built up to share in case people are short
 
+
+
+<a href="#top">↑ Back to top</a>
+
 ## Photo and video recording
 
 We are very happy if you take photos at the festival and share them on our or your social media with the hashtags #ZeroWasteFestival #SustainableTrinity #ScienceGallery
@@ -398,7 +420,7 @@ Under any circumstances, please be considerate of your peers and be aware that n
 
 We will be taking photos and recording short videos during the event itself to share on our website and social media. Feel free to talk to our volunteers during the day if you do not want to appear in our photos or recordings.
 
-<a href="#top">Back to top</a>
+<a href="#top">↑ Back to top</a>
 
 
 
