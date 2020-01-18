@@ -231,9 +231,9 @@ As always we invite a good few great local initiatives and community groups to p
 
 ### Zero Waste Infostand
 
-![zerowaste](/images/logos-external/logo-zerowaste-infostand.jpg "zerowaste"){:style="float: top;margin-right: 10px;height: 150px;"}
+![zerowaste](/images/logos-external/logo-zerowaste-infostand.jpg "zerowaste"){:style="float: top;margin-right: 10px;height: 50px;"}
 
-Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear up misconceptions or be inspired on the next steps to take at our Info Stand.
+Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear up misconceptions or be inspired on the next steps to take at our Zero Waste Info Stand. We can show you some easy swaps to get away from single use items, explain the [5R's of Zero Waste](/zero-waste/what-is-zero-waste/), talks about a [zero waste wardrobe](/zero-waste/creating-zero-waste-closet-wardrobe/), and share stories about our journey to Zero Waste.
 
 ### Revived Yarn
 
@@ -267,13 +267,13 @@ The [Dublin CSA](https://csadublin.wordpress.com/) is a community supported agri
 
 ### Cloth Nappy Library (Saturday only)
 
-![Cloth Nappy Library](/images/logos-external/logo-cloth-nappy-library.jpg "Cloth Nappy Library"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Cloth Nappy Library](/images/logos-external/logo-cloth-nappy-library.jpg "Cloth Nappy Library"){:style="float: top;margin-right: 10px;height: 50px;"}
 
 [Cloth Nappy Library Ireland](http://www.clothnappylibrary.ie/) is a non profit organisation ran completely by volunteers. Our aim is to provide information and support for those wishing to learn more about cloth nappies. You can find them at the Zero Waste Info stand on Saturday.
 
 ### Nuw (Saturday only)
 
-![Nuwardrobe](/images/logos-external/logo-nuwardrobe.jpg "Nuwardrobe"){:style="float: top;margin-right: 10px;height: 150px;"}
+![Nuwardrobe](/images/logos-external/logo-nuwardrobe.jpg "Nuwardrobe"){:style="float: top;margin-right: 10px;height: 75px;"}
 
 [Nuw](https://www.thenuwardrobe.com/) is a clothes sharing app and community. Borrow beautiful clothes and accessories from people in your area and lend out pieces that aren't getting the love they deserve. You can find them also on [Instagram](https://www.instagram.com/thenuwardrobe/).
 
