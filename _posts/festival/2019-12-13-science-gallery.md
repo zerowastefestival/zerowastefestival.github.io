@@ -239,7 +239,7 @@ Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear 
 
 ![Revived Yarn](/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+Revived Yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
 ####	Seal Rescue Ireland
 
@@ -286,6 +286,7 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 |      | **Saturday, January 25** | **Sunday, January 26** |
 |------|-----|--------|
 | 12:30 to 14:00 <br> in the Accenture Gallery | [Upcycling Plastic Bottles](#bottles) <br> *with Emmanuel Reynaud* | [Upcycling Tetrapaks](#tetrapaks) <br> *with Ruth Phelane* |
+| 15:00 to 17:00 <br> in the Accenture Gallery | [Knitting for the Homeless](#knittingsat) <br> *with Revived Yarn* | [Knitting for the Homeless](#knittingsun) <br> *with Revived Yarn* |
 | 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br>  |
 
 #### Saturday, January 25
@@ -295,6 +296,12 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 ##### 12:30 to 14:00 <br/> Upcycling Plastic Bottles *with Emmanuel Reynaud*
 
 Learn how to upcycle PET bottles into new, exciting things. More info to come soon.
+
+<a name="knittingsat"></a>
+
+##### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
+
+[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 <a name="beeswax"></a>
 
@@ -318,6 +325,12 @@ In this workshop, [Science Gallery Dublin](https://dublin.sciencegallery.com/) w
 [Ruth Phelane](https://www.instagram.com/zerowasterino/) is a climate and environmental activist with [Extinction Rebellion Cork](https://www.facebook.com/XRCork/), vegan advocate, artist and passionate zerowaster. She started a yearlong zerowaste challenge in April 2019 and has been documenting her efforts and experience through her [Instagram page @zerowasterino](https://www.instagram.com/zerowasterino/).
 
 While upcycling isn’t the solution to our waste problems it's a fun place to start! This workshop will show you a couple of different methods to upcycle tetrapak cartons into very usable and surprisingly durable wallets. Bring along your favourite drink carton.
+
+<a name="knittingsun"></a>
+
+##### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
+
+[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 
 <a name="sanitary"></a>
