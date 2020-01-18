@@ -159,8 +159,6 @@ Celia Somlai is an environmental activist and researcher who is trying to live a
 Trevor Woods who has previously carried out research on bio-degradable plastics will present a talk on current Bio-degradable plastic research and bio-degradable plastic options available to replace standard use single plastics at home and at festivals. He will also showcase how artists are communicating the current plastic pollution problem and give examples of his own recycled plastic artwork to highlight the need for plastic education and change.
 
 
-
-
 <a name="comedy"></a>
 
 ##### 16:00 -- 17:00 <br/> The ECOmedy Hour
@@ -180,15 +178,156 @@ You will laugh, learn & leave feeling positively fired up! Find out more on the 
 
 Want to get your Zero Waste shopping shorted? Come check our market. We will be updating our list of vendors in the next few days.
 
+<!---
+Eco AnniePooh
+Keep It Green
+Toothfaerie
+AB Soap Studio
+Jiminy
+Recycle Venture
+Filter and Brew
+--->
+
+####	Three Hills Soap
+
+![Three Hills Soap](/images/logos-external/logo-three-hills-soap.jpg "Three Hills Soap"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Three Hills Soap](https://www.threehillssoap.ie/) offer natural-only soaps and shampoos for sensitive, oily, combination, normal, dry, acne-prone, itchy,  and irritated skin. They use only natural ingredients in all products. They only colour all products with natural plant colourants, cosmetic-grade clays and spices. Only pure essential oils are used to scent their products. Three Hills Soap is also committed to Eco-Friendly Green Packaging as they minimise packaging materials and their products packaging is 100% recycled, recyclable and compostable. Check out their [website](https://www.threehillssoap.ie/) or follow them on [Facebook](https://www.facebook.com/threehillssoap/), [Twitter](https://twitter.com/ThreeHillsSoap?lang=en), or [Instagram](https://www.instagram.com/threehillssoap/).
+
+####	The Upcycle Movement
+
+![The Upcycle Movement](/images/logos-external/logo-the-upcycle-movement.jpg "The Upcycle Movement"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Where most see waste, we see possibility. [The Upcycle Movement](www.theupcyclemovement.com) is an Irish Design studio specialising in upcycling products from waste materials. Neo Collection is the debut range - bags and accessories made from discarded wetsuits. Find out more about them on their [Facebook](https://www.facebook.com/TheUpcycleMovement) or [Instagram](https://www.instagram.com/the_upcycle_movement).
+
+####	Blue Bridge House
+
+![Blue Bridge House](/images/logos-external/logo-blue-bridge-house.jpg "Blue Bridge House"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Blue Bridge House](https://bluebridgehouse.etsy.com/) makes handmade eco-friendly reusable items such as face wipes, sponges, beeswax wraps, travel soap pouches, furoshikis and more! We love playing with ideas that can help to reduce waste, reuse, change our habits and consume differently, while looking for materials that are kind to both humans and the environment. For more info check out their [Etsy store](https://bluebridgehouse.etsy.com/), [Facebook](https://www.facebook.com/Handmade.in.co.Clare.Ireland) or [Instagram](https://www.instagram.com/bluebridgehouse/).
+
+####	Mandastic
+
+![mandastic](/images/logos-external/logo-mandastic.jpg "mandastic"){:style="float: top;margin-right: 10px;height: 150px;"}
+	
+[Mandastic.com](https://www.mandastic.com) offers high quality artistic gifts, stylishly designed and uniquely handcrafted in Dublin, Ireland, while making a positive impact on both the people and the planet. You can also find them on their [website](https://www.mandastic.com) or [Facebook](https://www.facebook.com/mandasticcrafts).
+	
+####	Hazy Blue Skies
+
+![Hazy Blue Skies](/images/logos-external/logo-hazy-blue-skies.jpg "Hazy Blue Skies"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Hazy Blue Skies](https://www.etsy.com/ie/shop/HazyBlueSkies?ref=l2-shopheader-name) offers marine themed art made from repurposed fishing debris found on beach cleans in Ireland. Framed in reused shadow box frames. Also driftwood with aquatic quotes. Handmade glycerine seaweed shampoo & body bar.
+
+####	Literary Lip Balms
+
+![Literary Lip Balms](/images/logos-external/logo-literary-lip-balms.jpg "Literary Lip Balms"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Literary Lip Balms](https://literarylipbalms.com/) makes natural skincare inspired by fiction. Their best-selling lip balms are carefully crafted by hand in Dublin with 100% natural and organic ingredients, and come in both reusable aluminium tins and compostable tubes. View the full range of products at [literarylipbalms.com](https://literarylipbalms.com/). Find out more about them on their [Facebook](https://www.facebook.com/literarylipbalms/) or [Instagram](https://www.instagram.com/literarylipbalms).
+
 
 ### Info Stands
 
-As always we invite a good few great local initiatives and community groups to present their work at our Festival. So, keep checking back for more info in the next few days. 
+As always we invite a good few great local initiatives and community groups to present their work at our Festival. 
+
+### Zero Waste Infostand
+
+![zerowaste](/images/logos-external/logo-zerowaste-infostand.jpg "zerowaste"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear up misconceptions or be inspired on the next steps to take at our Info Stand.
+
+### Revived Yarn
+
+![Revived Yarn](/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Revived yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+
+####	Seal Rescue Ireland
+
+![Seal Rescue Ireland](/images/logos-external/logo-seal-rescue-ireland.jpg "Seal Rescue Ireland"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Seal Rescue Ireland](http://www.sealrescueireland.org/) is a charity based in Courtown Co. Wexford, which works hard to rescue, rehabilitate and release sick, injured and orphaned seal pups from the coastline of Ireland while also placing a strong focus on environmental and wildlife education and engaging the public in proactive conservation activities. Find out more about their work on [Instagram](https://www.instagram.com/sealrescueireland/) and [Twitter](https://twitter.com/seal_rescue).
+
+####	Precious Plastic Dublin
+
+![Precious Plastic Dublin](/images/logos-external/logo-precious-plastic-dublin.png "Precious Plastic Dublin"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Precious Plastic Dublin](https://www.preciousplasticdublin.org) is a volunteer collective working on practical solutions to reduce plastic waste and pollution in Dublin. As part of the Precious Plastic global movement, they aim to bring plastic recycling closer to the local community. As a special for the Zero Waste Christmas Festival they will set up [collection boxes for HDPE bottle caps at their stall](https://www.preciousplasticdublin.org/zero-waste-christmas-festival-plastic-collection/), so make sure to collect and bring them with you on the day for recycling. You can check out their [website](https://www.preciousplasticdublin.org) and [Instagram feed](https://www.instagram.com/preciousplasticdublin/). They also [tweet @DublinPlastic](https://twitter.com/dublinplastic).
+
+####	Dublin Food Cooperative
+
+![Dublin Food Cooperative](/images/logos-external/logo-dublin-food-coop.jpg "Dublin Food Cooperative"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+[Dublin Food Co-op](https://dublinfood.coop/) is a members co-operative established in 1983 by a group of friends with an aim to source good quality, affordable, sustainably sourced vegetarian food and eco-friendly products. In 2019, our aim is still the same - although now we operate out of a shop in Kilmainham and have almost 3,000 members. Dublin Food Co-op is an organisation that cares about community, the environment and education - we have demonstrated that year by launching our community development course in which we will offer courses in Co-operative Studies, Permaculture, zero waste cooking and facilitation & lectures by guest speakers on sustainability and community organising. Find out more about their work on [Instagram](https://www.instagram.com/thedublinfoodcoop/) and [Twitter](https://twitter.com/DublinFoodCoop).
+
+####	Dublin Community Supported Agriculture (Saturday only)
+
+![Dublin CSA](/images/logos-external/logo-dublin-csa.png "Dublin CSA"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+The [Dublin CSA](https://csadublin.wordpress.com/) is a community supported agriculture group based in Dublin. CSAs involve establishing a relationship with a farmer for a growing season. The members commit to pay an agreed fee for a season and receive in exchange local and organic veggies, good for your health and good for the environment! In our case, delicious veggies grown by our farmer Stuart. Find out more about the Dublin CSA on [their website](https://csadublin.wordpress.com/), [Instagram](https://www.instagram.com/dublincsa/) or directly at the Festival.
+
+### Cloth Nappy Library (Saturday only)
+
+![Cloth Nappy Library](/images/logos-external/logo-cloth-nappy-library.jpg "Cloth Nappy Library"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Cloth Nappy Library Ireland](http://www.clothnappylibrary.ie/) is a non profit organisation ran completely by volunteers. Our aim is to provide information and support for those wishing to learn more about cloth nappies. You can find them at the Zero Waste Info stand on Saturday.
+
+### Nuw (Saturday only)
+
+![Nuwardrobe](/images/logos-external/logo-nuwardrobe.jpg "Nuwardrobe"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Nuw](https://www.thenuwardrobe.com/) is a clothes sharing app and community. Borrow beautiful clothes and accessories from people in your area and lend out pieces that aren't getting the love they deserve. You can find them also on [Instagram](https://www.instagram.com/thenuwardrobe/).
+
 
 
 ### Workshops
 
-We will offer exciting workshops on making your own beeswax wrapping paper, sanitary pads and bioplastic. More details are coming soon.
+All our workshops are drop-in workshops, so just pop over any time during the workshop to learn new DIY and upcycling skills. Most workshops will keep you busy for between 10 and 20 minutes.
+
+|      | **Saturday, January 25** | **Sunday, January 26** |
+|------|-----|--------|
+| 12:30 to 14:00 <br> in the Accenture Gallery | [Upcycling Plastic Bottles](#bottles) <br> *with Emmanuel Reynaud* | [Upcycling Tetrapaks](#tetrapaks) <br> *with Ruth Phelane* |
+| 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br>  |
+
+#### Saturday, January 25
+
+<a name="bottles"></a>
+
+##### 12:30 to 14:00 <br/> Upcycling Plastic Bottles *with Emmanuel Reynaud*
+
+Learn how to upcycle PET bottles into new, exciting things. More info to come soon.
+
+<a name="beeswax"></a>
+
+##### 13:00 to 16:00 <br/> Beeswax Wrap Making
+
+![beeswax](/images/events/2020-01-science-gallery-festival/beeswax.jpg "beeswax"){:style="float: left;margin-right: 20px;height: 125px;"}
+
+What is completely compostable, washable and can be rewaxed if needed to top your bottle of wine, carry home your bread or can even be used as a biodegradable straw? Beeswax wrap is a sustainable alternative to plastic wrap and other single-use plastics. Traditional plastic wrap is very difficult to recycle and most often ends up in landfill or in the ocean where it will possibly leach chemicals and take decades to degrade. 
+
+In this workshop, [Science Gallery Dublin](https://dublin.sciencegallery.com/) will provide the materials and direction you need to infuse cotton with food-grade beeswax perfect to pack a lunch, wrap your shampoo bar or bundle a bouquet. Wax wraps have so many uses and can easily be folded into makeshift bowls, water vessels and many other objects with some simple folding skills. We are reusing old cotton t-shirts for this workshop as one t-shirt takes 2,700 litres of water to make, which equates to drinking water for one person for two years!
+
+
+#### Sunday, January 26
+
+<a name="tetrapaks"></a>
+
+##### 12:30 to 14:00 <br/> Upcycling Tetrapaks *with Ruth Phelane*
+
+![tetrapaks](/images/events/2020-01-science-gallery-festival/tetrapaks.jpg "tetrapaks"){:style="float: left;margin-right: 20px;height: 125px;"}
+
+[Ruth Phelane](https://www.instagram.com/zerowasterino/) is a climate and environmental activist with [Extinction Rebellion Cork](https://www.facebook.com/XRCork/), vegan advocate, artist and passionate zerowaster. She started a yearlong zerowaste challenge in April 2019 and has been documenting her efforts and experience through her [Instagram page @zerowasterino](https://www.instagram.com/zerowasterino/).
+
+While upcycling isn’t the solution to our waste problems it's a fun place to start! This workshop will show you a couple of different methods to upcycle tetrapak cartons into very usable and surprisingly durable wallets. Bring along your favourite drink carton.
+
+
+<a name="sanitary"></a>
+
+##### 13:00 to 16:00 <br/> Sanitary Pads Making
+
+Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon.
+
+
+
 
 
 ### Swap Shop
