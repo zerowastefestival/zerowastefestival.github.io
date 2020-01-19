@@ -67,7 +67,8 @@ Here are the full schedules for both Saturday and Sunday (click on the picture t
 
 <a href="#top">↑ Back to top</a>
 
-### Talks in the Paccar Theatre
+
+## Talks in the Paccar Theatre
 
 |      | **Saturday, January 25** | **Sunday, January 26** |
 |------|-----|--------|
@@ -76,11 +77,11 @@ Here are the full schedules for both Saturday and Sunday (click on the picture t
 | 15:00 | [The World of Waste - how to get to Zero](#michele) <br> Michele Hallahan | [Bio-Plastic Fantastic](#trevor) <br> *Trevor Woods* |
 | 16:00 | [Refuse, Reduce, Reuse: Zero Waste Living in Dublin (Panel Discussion)](#panel) <br> *various* | [The ECOmedy Hour](#comedy) <br> *various* |
 
-#### Saturday, January 25
+### Saturday, January 25
 
 <a name="brian"></a>
 
-##### 13:00 -- 13:45 <br/> Waste not want not: The danger and value of our bin content *with Brian Kelleher*
+#### 13:00 -- 13:45 <br/> Waste not want not: The danger and value of our bin content *with Brian Kelleher*
 
 ![Brian Kelleher](/images/events/2020-01-science-gallery-festival/brian-kelleher.jpg "Brian Kelleher"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -90,7 +91,7 @@ Brian Kelleher is an environmental chemistry lecturer in the [School of Chemical
 
 <a name="una"></a>
 
-##### 14:00 -- 14:45 <br/> Zero lab waste – pipe-dream or possible? *with Una Fitzgerald*
+#### 14:00 -- 14:45 <br/> Zero lab waste – pipe-dream or possible? *with Una Fitzgerald*
 
 ![Una Fitzgerald](/images/events/2020-01-science-gallery-festival/una-fitzgerald.jpg "Una Fitzgerald"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -99,7 +100,7 @@ Brian Kelleher is an environmental chemistry lecturer in the [School of Chemical
 
 <a name="michele"></a>
 
-##### 15:00 -- 15:45 <br/> The World of Waste - how to get to Zero *with Michele Hallahan*
+#### 15:00 -- 15:45 <br/> The World of Waste - how to get to Zero *with Michele Hallahan*
 
 ![Michele Hallahan](/images/events/2020-01-science-gallery-festival/michele-hallahan.jpg "Michele Hallahan"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -108,7 +109,7 @@ Michele Hallahan has worked in the fields of ecological design, environmental ma
 
 <a name="panel"></a>
 
-##### 16:00 -- 17:00 <br/> Refuse, Reduce, Reuse: Zero Waste Living in Dublin (Panel Discussion)
+#### 16:00 -- 17:00 <br/> Refuse, Reduce, Reuse: Zero Waste Living in Dublin (Panel Discussion)
 
 Join us for our panel discussion on Zero Waste Living in Dublin. We will hear what saying "No!" to single-use items and unnecessary packaging means for several of our fellow Dubliners. We are happy to have the following Zero Wasters on stage for a moderated discussion, followed by an open Q&A.
 
@@ -134,11 +135,11 @@ living a more sustainable life on her platform, [Coming To Zero](https://comingt
 
 <a href="#top">↑ Back to top</a>
 
-#### Sunday, January 26
+### Sunday, January 26
 
 <a name="ide"></a>
 
-##### 13:00 -- 13:45 <br/> Zero Waste 101 *with Íde Mhic Gabhann*
+#### 13:00 -- 13:45 <br/> Zero Waste 101 *with Íde Mhic Gabhann*
 
 ![Íde Mhic Gabhann](/images/events/2020-01-science-gallery-festival/ide-mhic-gabhann.jpg "Íde Mhic Gabhann"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -150,7 +151,7 @@ An introduction to Zero Waste. Íde will guide you through the 5R’s, giving ti
 
 <a name="celia"></a>
 
-##### 14:00 -- 14:45 <br/> Precious Plastic?! – Facts and figures on global plastic abundance and what we can do about it *with Celia Somlai*
+#### 14:00 -- 14:45 <br/> Precious Plastic?! – Facts and figures on global plastic abundance and what we can do about it *with Celia Somlai*
 
 ![Celia Somlai](/images/events/2020-01-science-gallery-festival/celia-somlai.jpg "Celia Somlai"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -163,7 +164,7 @@ Celia Somlai is an environmental activist and researcher who is trying to live a
 
 <a name="trevor"></a>
 
-##### 15:00 -- 15:45 <br/> Bio-Plastic Fantastic *with Trevor Woods*
+#### 15:00 -- 15:45 <br/> Bio-Plastic Fantastic *with Trevor Woods*
 
 ![Trevor Woods](/images/events/2020-01-science-gallery-festival/trevor-woods.jpg "Trevor Woods"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -172,7 +173,7 @@ Trevor Woods who has previously carried out research on bio-degradable plastics 
 
 <a name="comedy"></a>
 
-##### 16:00 -- 17:00 <br/> The ECOmedy Hour
+#### 16:00 -- 17:00 <br/> The ECOmedy Hour
 
 ![ECOmedy Hour](/images/events/2020-01-science-gallery-festival/ecomedy-hour.jpg "ECOmedy Hour"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -186,7 +187,7 @@ You will laugh, learn & leave feeling positively fired up! Find out more on the 
 <a href="#top">↑ Back to top</a>
 
 
-### Zero Waste Market
+## Zero Waste Market
 
 Want to get your Zero Waste shopping shorted? Come check our market. We will be updating our list of vendors in the next few days.
 
@@ -200,37 +201,37 @@ Recycle Venture
 Filter and Brew
 --->
 
-####	Three Hills Soap
+###	Three Hills Soap
 
 ![Three Hills Soap](/images/logos-external/logo-three-hills-soap.jpg "Three Hills Soap"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Three Hills Soap](https://www.threehillssoap.ie/) offer natural-only soaps and shampoos for sensitive, oily, combination, normal, dry, acne-prone, itchy,  and irritated skin. They use only natural ingredients in all products. They only colour all products with natural plant colourants, cosmetic-grade clays and spices. Only pure essential oils are used to scent their products. Three Hills Soap is also committed to Eco-Friendly Green Packaging as they minimise packaging materials and their products packaging is 100% recycled, recyclable and compostable. Check out their [website](https://www.threehillssoap.ie/) or follow them on [Facebook](https://www.facebook.com/threehillssoap/), [Twitter](https://twitter.com/ThreeHillsSoap?lang=en), or [Instagram](https://www.instagram.com/threehillssoap/).
 
-####	The Upcycle Movement
+###	The Upcycle Movement
 
 ![The Upcycle Movement](/images/logos-external/logo-the-upcycle-movement.jpg "The Upcycle Movement"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Where most see waste, we see possibility. [The Upcycle Movement](www.theupcyclemovement.com) is an Irish Design studio specialising in upcycling products from waste materials. Neo Collection is the debut range - bags and accessories made from discarded wetsuits. Find out more about them on their [Facebook](https://www.facebook.com/TheUpcycleMovement) or [Instagram](https://www.instagram.com/the_upcycle_movement).
 
-####	Blue Bridge House
+###	Blue Bridge House
 
 ![Blue Bridge House](/images/logos-external/logo-blue-bridge-house.jpg "Blue Bridge House"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Blue Bridge House](https://bluebridgehouse.etsy.com/) makes handmade eco-friendly reusable items such as face wipes, sponges, beeswax wraps, travel soap pouches, furoshikis and more! We love playing with ideas that can help to reduce waste, reuse, change our habits and consume differently, while looking for materials that are kind to both humans and the environment. For more info check out their [Etsy store](https://bluebridgehouse.etsy.com/), [Facebook](https://www.facebook.com/Handmade.in.co.Clare.Ireland) or [Instagram](https://www.instagram.com/bluebridgehouse/).
 
-####	Mandastic
+###	Mandastic
 
 ![mandastic](/images/logos-external/logo-mandastic.jpg "mandastic"){:style="float: top;margin-right: 10px;height: 150px;"}
 	
 [Mandastic.com](https://www.mandastic.com) offers high quality artistic gifts, stylishly designed and uniquely handcrafted in Dublin, Ireland, while making a positive impact on both the people and the planet. You can also find them on their [website](https://www.mandastic.com) or [Facebook](https://www.facebook.com/mandasticcrafts).
 	
-####	Hazy Blue Skies
+###	Hazy Blue Skies
 
 ![Hazy Blue Skies](/images/logos-external/logo-hazy-blue-skies.jpg "Hazy Blue Skies"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Hazy Blue Skies](https://www.etsy.com/ie/shop/HazyBlueSkies?ref=l2-shopheader-name) offers marine themed art made from repurposed fishing debris found on beach cleans in Ireland. Framed in reused shadow box frames. Also driftwood with aquatic quotes. Handmade glycerine seaweed shampoo & body bar.
 
-####	Literary Lip Balms
+###	Literary Lip Balms
 
 ![Literary Lip Balms](/images/logos-external/logo-literary-lip-balms.jpg "Literary Lip Balms"){:style="float: top;margin-right: 10px;height: 150px;"}
 
@@ -239,17 +240,17 @@ Where most see waste, we see possibility. [The Upcycle Movement](www.theupcyclem
 <a href="#top">↑ Back to top</a>
 
 
-### Info Stands
+## Info Stands
 
 As always we invite a good few great local initiatives and community groups to present their work at our Festival. 
 
-### Zero Waste Infostand
+## Zero Waste Infostand
 
 ![zerowaste](/images/logos-external/logo-zerowaste-infostand.jpg "zerowaste"){:style="float: top;margin-right: 10px;height: 50px;"}
 
 Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear up misconceptions or be inspired on the next steps to take at our Zero Waste Info Stand. We can show you some easy swaps to get away from single use items, explain the [5R's of Zero Waste](/zero-waste/what-is-zero-waste/), talks about a [zero waste wardrobe](/zero-waste/creating-zero-waste-closet-wardrobe/), and share stories about our journey to Zero Waste.
 
-####	Precious Plastic Dublin
+###	Precious Plastic Dublin
 
 ![Precious Plastic Dublin](/images/logos-external/logo-precious-plastic-dublin.png "Precious Plastic Dublin"){:style="float: top;margin-right: 10px;height: 200px;"}
 
@@ -261,19 +262,19 @@ Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear 
 
 Revived Yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
 
-####	Seal Rescue Ireland
+###	Seal Rescue Ireland
 
 ![Seal Rescue Ireland](/images/logos-external/logo-seal-rescue-ireland.jpg "Seal Rescue Ireland"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Seal Rescue Ireland](http://www.sealrescueireland.org/) is a charity based in Courtown Co. Wexford, which works hard to rescue, rehabilitate and release sick, injured and orphaned seal pups from the coastline of Ireland while also placing a strong focus on environmental and wildlife education and engaging the public in proactive conservation activities. Find out more about their work on [Instagram](https://www.instagram.com/sealrescueireland/) and [Twitter](https://twitter.com/seal_rescue).
 
-####	Dublin Food Cooperative
+###	Dublin Food Cooperative
 
 ![Dublin Food Cooperative](/images/logos-external/logo-dublin-food-coop.jpg "Dublin Food Cooperative"){:style="float: top;margin-right: 10px;height: 200px;"}
 
 [Dublin Food Co-op](https://dublinfood.coop/) is a members co-operative established in 1983 by a group of friends with an aim to source good quality, affordable, sustainably sourced vegetarian food and eco-friendly products. In 2019, our aim is still the same - although now we operate out of a shop in Kilmainham and have almost 3,000 members. Dublin Food Co-op is an organisation that cares about community, the environment and education - we have demonstrated that year by launching our community development course in which we will offer courses in Co-operative Studies, Permaculture, zero waste cooking and facilitation & lectures by guest speakers on sustainability and community organising. Find out more about their work on [Instagram](https://www.instagram.com/thedublinfoodcoop/) and [Twitter](https://twitter.com/DublinFoodCoop).
 
-####	Dublin Community Supported Agriculture (Saturday only)
+###	Dublin Community Supported Agriculture (Saturday only)
 
 ![Dublin CSA](/images/logos-external/logo-dublin-csa.png "Dublin CSA"){:style="float: top;margin-right: 10px;height: 150px;"}
 
@@ -294,7 +295,7 @@ The [Dublin CSA](https://csadublin.wordpress.com/) is a community supported agri
 
 <a href="#top">↑ Back to top</a>
 
-### Workshops
+## Workshops
 
 All our workshops are drop-in workshops, so just pop over any time during the workshop to learn new DIY and upcycling skills. Most workshops will keep you busy for between 10 and 20 minutes.
 
@@ -304,23 +305,23 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 | 15:00 to 17:00 <br> in the Accenture Gallery | [Knitting for the Homeless](#knittingsat) <br> *with Revived Yarn* | [Knitting for the Homeless](#knittingsun) <br> *with Revived Yarn* |
 | 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br>  |
 
-#### Saturday, January 25
+### Saturday, January 25
 
 <a name="bottles"></a>
 
-##### 12:30 to 14:00 <br/> Upcycling Plastic Bottles *with Emmanuel Reynaud*
+#### 12:30 to 14:00 <br/> Upcycling Plastic Bottles *with Emmanuel Reynaud*
 
 Learn how to upcycle PET bottles into new, exciting things. More info to come soon.
 
 <a name="knittingsat"></a>
 
-##### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
+#### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
 [Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 <a name="beeswax"></a>
 
-##### 13:00 to 16:00 <br/> Beeswax Wrap Making
+#### 13:00 to 16:00 <br/> Beeswax Wrap Making
 
 ![beeswax](/images/events/2020-01-science-gallery-festival/beeswax.jpg "beeswax"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -331,11 +332,11 @@ In this workshop, [Science Gallery Dublin](https://dublin.sciencegallery.com/) w
 
 <a href="#top">↑ Back to top</a>
 
-#### Sunday, January 26
+### Sunday, January 26
 
 <a name="tetrapaks"></a>
 
-##### 12:30 to 14:00 <br/> Upcycling Tetrapaks *with Ruth Phelane*
+#### 12:30 to 14:00 <br/> Upcycling Tetrapaks *with Ruth Phelane*
 
 ![tetrapaks](/images/events/2020-01-science-gallery-festival/tetrapaks.jpg "tetrapaks"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -345,14 +346,14 @@ While upcycling isn’t the solution to our waste problems it's a fun place to s
 
 <a name="knittingsun"></a>
 
-##### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
+#### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
 [Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 
 <a name="sanitary"></a>
 
-##### 13:00 to 16:00 <br/> Sanitary Pads Making
+#### 13:00 to 16:00 <br/> Sanitary Pads Making
 
 Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon.
 
@@ -360,7 +361,7 @@ Learn how to make sanitary pads by recycling old fabrics and take them home as w
 <a href="#top">↑ Back to top</a>
 
 
-### Swap Shop
+## Swap Shop
 
 There will be a Clothes Swap Shop in the gallery space just above the Cafe. So, please bring your pre-loved items along, drop them off with our volunteers, and pick up what you need from the Swap Shop.
 
@@ -375,52 +376,13 @@ Also, don't worry if you run out of tokens but still find this nice pre-loved pi
 All unclaimed items will be donated to a local charity at the end of the day.
 
 
-
-
-
 <a href="#top">↑ Back to top</a>
 
-
-
-## What to bring?
-
-### For notes
-
-There'll be no leaflets or business cards, so bring your phone, a camera or a pen and paper.
-
-### For workshops and the market
-
-You'll need a fork or spoon for samples of food.
-
-### For shopping
-
-You'll need your own containers for loose goods and refills and bring some bags to carry your purchases home.
-
-### For food and drinks
-
-Bring your own mug, water bottle and lunch box and utensils. You're also welcome to bring a picnic to share with your new Zero Waste friends.
-
-### Stuff to swap/share/donate
-
-- Clean and wearable men's, women's and kid's clothes for the swap shop
-- Spare jars can be useful for other people who didn't bring enough
-- Bring any take-away containers you have built up to share in case people are short
+{% include festival/what-to-bring.md %}
+{% include festival/photo-video.md %}
 
 
 
-<a href="#top">↑ Back to top</a>
-
-## Photo and video recording
-
-We are very happy if you take photos at the festival and share them on our or your social media with the hashtags #ZeroWasteFestival #SustainableTrinity #ScienceGallery
-
-If you would like to record videos (private and to share), please talk to us in advance or ask any of the organizers during the day. Just drop us an email at [info@zerowastefestival.ie](mailto:info@zerowastefestival.ie).
-
-Under any circumstances, please be considerate of your peers and be aware that not everyone (especially visitors and their children) is comfortable with having their picture taken during the event.
-
-We will be taking photos and recording short videos during the event itself to share on our website and social media. Feel free to talk to our volunteers during the day if you do not want to appear in our photos or recordings.
-
-<a href="#top">↑ Back to top</a>
 
 
 
