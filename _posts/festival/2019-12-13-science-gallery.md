@@ -191,7 +191,7 @@ You will laugh, learn & leave feeling positively fired up! Find out more on the 
 
 ## Zero Waste Market
 
-Want to get your Zero Waste shopping shorted? Come check our market. We will be updating our list of vendors in the next few days.
+Want to get your Zero Waste shopping sorted? Come check our market. We will be updating our list of vendors in the next few days.
 
 <!---
 Eco AnniePooh
