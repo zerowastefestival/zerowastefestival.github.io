@@ -19,6 +19,8 @@ share: true
 We are happy to announce that our next Zero Waste Festival will be held at the Science Gallery Dublin from January 25 to 26, 2020, as part of their ongoing PLASTIC exhibition. Come and join us as we learn how to vastly reduce our waste output, and make simple replacements with products that have little or no waste.
 
 Zero Waste is all about getting as close to 'zero' as we can, in terms of the waste we produce as businesses, individuals and institutions.  This Zero Waste Festival will feature some of the best Zero Waste leaders in Ireland giving talks and workshops on how to cut the waste out of your household while keeping those purse strings tight!
+
+[![nearfm](/images/events/2020-01-science-gallery-festival/science-gallery-2020-nearfm.jpg "nearfm"){:width: 100%;"}](http://nearfm.ie/podcast/?p=35145)
  
 The PLASTIC exhibition in the Science Gallery hosts a huge variety of engaging exhibits suitable for all ages that deal with the one material we can’t live  with but also not without. Plastic has great power, and with great power comes great responsibility. It has changed our daily lives and our environment more than any other material. The unsustainability of our relationship with plastic is well documented, but to stop using plastic entirely is not an option. 
 
@@ -32,7 +34,7 @@ The Science Gallery will be open from 12 pm (noon) to 6 pm on both days. The Zer
 
 The event is free to attend and open for all. You can get your [free ticket on Eventbrite](https://www.eventbrite.ie/e/zero-waste-festival-at-the-science-gallery-tickets-87416951455) (No need to print! It's just for us to have an idea about how many people to expect...).
 
-[![Eventbrite Ticket](/images/events/2020-01-science-gallery-festival/science-gallery-2020-eventbrite-link.jpg "Eventbrite Ticket")](https://www.eventbrite.ie/e/zero-waste-festival-at-the-science-gallery-tickets-87416951455)
+[![Eventbrite Ticket](/images/events/2020-01-science-gallery-festival/science-gallery-2020-eventbrite-link.jpg "Eventbrite Ticket"){:width: 100%;"}](https://www.eventbrite.ie/e/zero-waste-festival-at-the-science-gallery-tickets-87416951455)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FZeroWasteFestivalIreland%2Fposts%2F1341212732717084&width=500" width="500" height="596" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -42,7 +44,7 @@ The festival will be hosted at the [Science Gallery](https://dublin.sciencegalle
 
 The venue is fully wheelchair/buggy accessible.
 
-![floor plan](/images/events/2020-01-science-gallery-festival/science-gallery-2020-floorplan.jpg "floor plan")
+![floor plan](/images/events/2020-01-science-gallery-festival/science-gallery-2020-floorplan.jpg "floor plan"){:width: 100%;"}
 
 ### How to get there?
 
