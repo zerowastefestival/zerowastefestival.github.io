@@ -268,7 +268,7 @@ Chat to one of our Zero Waste Lifestyle experts and learn where to start, clear 
 
 ![Revived Yarn](/images/logos-external/logo-revived-yarn.png "Revived Yarn"){:style="float: top;margin-right: 10px;height: 150px;"}
 
-Revived Yarn is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their [Facebook page](https://www.facebook.com/revivedyarn){:target="blank"}.
+[Revived Yarn](https://www.revivedyarn.com/) is a community of knitters and crocheters who help to warm the homeless of Dublin. They upcycle leftovers of yarn into handmade garments donated directly to the homeless on the streets. Find out more about Revived Yarn on their website [www.revivedyarn.com](https://www.revivedyarn.com/) or [Facebook page](https://www.facebook.com/revivedyarn).
 
 ###	Seal Rescue Ireland
 
@@ -330,7 +330,7 @@ Learn how to upcycle PET bottles into new, exciting things. This workshop will p
 
 #### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
-[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Melis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
+Give a new purpose to yarn leftovers and help people affected by homelessness in Dublin to stay warmer this winter. Download a pattern of preference on [www.revivedyarn.com](https://www.revivedyarn.com/) and bring your own needles. Yarn and materials will be available at the sessions. Knitters and crocheters of all levels are welcome! The finished items will be donated to charities and organisations assisting the homeless in Dublin.
 
 <a name="beeswax"></a>
 
@@ -361,7 +361,7 @@ While upcycling isn’t the solution to our waste problems it's a fun place to s
 
 #### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
-[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Melis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
+Give a new purpose to yarn leftovers and help people affected by homelessness in Dublin to stay warmer this winter. Download a pattern of preference on [www.revivedyarn.com](https://www.revivedyarn.com/) and bring your own needles. Yarn and materials will be available at the sessions. Knitters and crocheters of all levels are welcome! The finished items will be donated to charities and organisations assisting the homeless in Dublin.
 
 
 <a name="sanitary"></a>
