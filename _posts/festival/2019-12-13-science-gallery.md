@@ -319,13 +319,18 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 
 #### 12:30 to 14:00 <br/> Upcycling Plastic Bottles *with Emmanuel Reynaud*
 
-Learn how to upcycle PET bottles into new, exciting things. More info to come soon.
+![petdome](/images/events/2020-01-science-gallery-festival/petdome.jpg "petdome"){:style="float: left;margin-right: 20px;height: 125px;"}
+
+[Emmanuel Reynaud](https://twitter.com/ReynaudEmmanuel) who is a polymath with a need to build in a frugal manner. Raised in a remote farmland where everything must be used and preserved, he got involved in construction, electronics, optics gardening, cooking and so on. Emmanuel is a lecturer in UCD but develops open source easy to build microscopes and other scientific tools as well as provides support for major companies. Recently, he took on the challenge to reuse plastic items from our green bin to make everyday useful objects to demonstrate our wasteful ways and poor recycling policies.
+
+Learn how to upcycle PET bottles into new, exciting things. This workshop will present a modular approach to PET bottle recycling that allow people to build not only animals (jellyfish, octopi, sea gooseberries) but also more advanced structures such as geodesic domes and other 3D  geometrical shapes for design and education. People are welcome to bring their own bottles (preferentially 1.5l ones without corrugation). The workshop will also explain briefly how bottles are currently recycled and the issue with the refund scheme.
+
 
 <a name="knittingsat"></a>
 
 #### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
-[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
+[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Melis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 <a name="beeswax"></a>
 
@@ -356,7 +361,7 @@ While upcycling isn’t the solution to our waste problems it's a fun place to s
 
 #### 15:00 to 17:00 <br/> Knitting for the Homeless *with Revived Yarn*
 
-[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Mellis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
+[Revived Yarn](https://www.facebook.com/revivedyarn/) is a knitting community created by Elisabetta Melis that aims to bring a little bit of help to people who find themselves homeless in Dublin during the harsh winter months. Drop in and help knit things for the homeless.
 
 
 <a name="sanitary"></a>
