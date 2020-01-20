@@ -81,6 +81,9 @@ Here are the full schedules for both Saturday and Sunday (click on the picture t
 
 ### Saturday, January 25
 
+
+{% include image-gallery.html folder="/images/events/2020-01-science-gallery-festival/talks/saturday" %}
+
 <a name="brian"></a>
 
 #### 13:00 -- 13:45 <br/> Waste not want not: The danger and value of our bin content *with Brian Kelleher*
@@ -138,6 +141,9 @@ living a more sustainable life on her platform, [Coming To Zero](https://comingt
 <a href="#top">↑ Back to top</a>
 
 ### Sunday, January 26
+
+
+{% include image-gallery.html folder="/images/events/2020-01-science-gallery-festival/talks/sunday" %}
 
 <a name="ide"></a>
 
