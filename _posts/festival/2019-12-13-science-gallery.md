@@ -187,7 +187,7 @@ Trevor Woods who has previously carried out research on bio-degradable plastics 
 
 Join us for an hour of clever comedy where some of Dublin's funniest comedians will turn topical environmental issues into comedy gold. There will be no jokes wasted here!
 
-The line-up includes [Pauline Shanahan](https://twitter.com/paulineshanahan?lang=en) (Vodaphone Comedy Festival), [Elaine Gallagher](https://www.sdgi.ie/elaine-gallagher) (Edingburgh Fringe Festival), Gary Tyrell (Bright Club Ireland), Sean Begley (Bray Comedy Festival New Act of the Year) , Anne Gill (Comedy Gold), [Ian Lynham](https://www.facebook.com/IanDLynam/) (Vodaphone Comedy Festival) hosted by [Diane O'Connor](https://www.facebook.com/dianeoconnorcomedian/) (Electric Picnic).
+The line-up includes [Pauline Shanahan](https://twitter.com/paulineshanahan?lang=en) (Vodafone Comedy Festival), [Elaine Gallagher](https://www.sdgi.ie/elaine-gallagher) (Edingburgh Fringe Festival), Gary Tyrell (Bright Club Ireland), Sean Begley (Bray Comedy Festival New Act of the Year) , Anne Gill (Comedy Gold), [Ian Lynham](https://www.facebook.com/IanDLynam/) (Vodaphone Comedy Festival) hosted by [Diane O'Connor](https://www.facebook.com/dianeoconnorcomedian/) (Electric Picnic).
 
 You will laugh, learn & leave feeling positively fired up! Find out more on the [ECOmedy Hour Facebook Event](https://www.facebook.com/events/506468579985987/).
 
