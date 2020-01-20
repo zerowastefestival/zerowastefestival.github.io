@@ -31,12 +31,17 @@ Best to come by foot (if you live in the area) or by LUAS and bus. You can plan 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2381.9439583166463!2d-6.254618684161647!3d53.344259379978645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e906a304a93%3A0xf9222910b3885741!2sSimon%20Perry%20Building%2C%20Dublin!5e0!3m2!1sen!2sie!4v1579530806822!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
-
 ## When?
 
 Wednesday, February 19th, 2020 from 1:00 PM &#8211; 2:00 PM
 
 This is a free event but donations to support the Zero Waste Festival are always welcome, so that we can buy our speakers a drink.
+
+## Tickets
+
+The event is free to attend and open for all. You can get your [free ticket on Eventbrite](https://www.eventbrite.com/e/zero-waste-as-a-student-tickets-90627819247) (No need to print! It's just for us to have an idea about how many people to expect...).
+
+[![Eventbrite Ticket](/images/events/2020-01-science-gallery-festival/science-gallery-2020-eventbrite-link.jpg "Eventbrite Ticket"){:width: 100%;"}](https://www.eventbrite.com/e/zero-waste-as-a-student-tickets-90627819247)
 
 ## Get involved
 
