@@ -4,7 +4,7 @@ category: pop-up
 
 title: "My Journey to Zero Waste &#8211; Zero Waste Pop-Up Event"
 eventdate: 2019-11-10
-venue: "Firece Fitness, Dublin 6W"
+venue: "Fierce Fitness, Dublin 6W"
 
 image:
   teaser : events/pop-up/191110-zero-waste-journey-teaser.jpg
