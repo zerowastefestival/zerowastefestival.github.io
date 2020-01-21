@@ -343,6 +343,8 @@ What is completely compostable, washable and can be rewaxed if needed to top you
 In this workshop, [Science Gallery Dublin](https://dublin.sciencegallery.com/) will provide the materials and direction you need to infuse cotton with food-grade beeswax perfect to pack a lunch, wrap your shampoo bar or bundle a bouquet. Wax wraps have so many uses and can easily be folded into makeshift bowls, water vessels and many other objects with some simple folding skills. We are reusing old cotton t-shirts for this workshop as one t-shirt takes 2,700 litres of water to make, which equates to drinking water for one person for two years!
 
 
+
+
 <a href="#top">↑ Back to top</a>
 
 ### Sunday, January 26
@@ -366,10 +368,15 @@ Give a new purpose to yarn leftovers and help people affected by homelessness in
 
 <a name="sanitary"></a>
 
-#### 13:00 to 16:00 <br/> Sanitary Pads Making
+#### 13:00 to 16:00 <br/> ENVIRONMENSTRUAL Workshop (Sanitary Pads Making)
 
-Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon.
+ Why does one tampon take longer to degrade than the average woman’s lifespan? Why aren’t environmentally friendly period products highlighted in more discussions on waste reduction? Why do these products contain plastic in the first place!? An individual goes through approximately 11,000 disposable pads and/or tampons in a lifetime and these products will survive in the environment at least 500 years after their brief usage. 
 
+Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon. Pads are particularly bad, with an approximate plastic content of 90%. What’s worse, just one pack of sanitary pads contain the same amount of plastic as four plastic carrier bags.
+
+Lead by Caoimhe Ní Bhroin, participants will discover the simple steps to create your own reusable period pads containing zero plastic waste. We will provide all the tools you need and ask only that participants bring prewashed cotton in the pattern of their choosing. 
+
+Caoimhe Ní Bhroin is a recent graduate of Textiles Art & Artefact from the National College of Art and Design who freelances as a sewing facilitator in Dublin. She is passionate about up-cycling and re-working old materials to make new pieces while also promoting a more conscious outlook on what we wear, buy & throw away. @caoiva_designs
 
 <a href="#top">↑ Back to top</a>
 
