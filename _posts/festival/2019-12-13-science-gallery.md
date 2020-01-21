@@ -311,7 +311,7 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 |------|-----|--------|
 | 12:30 to 14:00 <br> in the Accenture Gallery | [Upcycling Plastic Bottles](#bottles) <br> *with Emmanuel Reynaud* | [Upcycling Tetrapaks](#tetrapaks) <br> *with Ruth Phelane* |
 | 15:00 to 17:00 <br> in the Accenture Gallery | [Knitting for the Homeless](#knittingsat) <br> *with Revived Yarn* | [Knitting for the Homeless](#knittingsun) <br> *with Revived Yarn* |
-| 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br> *with Caoimhe Ní Bhroin*  |
+| 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br> *with mediators of SG* | [Sanitary Pads Making](#sanitary) <br> *with Caoimhe Ní Bhroin*  |
 
 ### Saturday, January 25
 
@@ -334,7 +334,7 @@ Give a new purpose to yarn leftovers and help people affected by homelessness in
 
 <a name="beeswax"></a>
 
-#### 13:00 to 16:00 <br/> Beeswax Wrap Making
+#### 13:00 to 16:00 <br/> Beeswax Wrap Making *with mediators of SG*
 
 ![beeswax](/images/events/2020-01-science-gallery-festival/beeswax.jpg "beeswax"){:style="float: left;margin-right: 20px;height: 125px;"}
 
@@ -368,7 +368,7 @@ Give a new purpose to yarn leftovers and help people affected by homelessness in
 
 <a name="sanitary"></a>
 
-#### 13:00 to 16:00 <br/> ENVIRONMENSTRUAL Workshop (Sanitary Pads Making) *Caoimhe Ní Bhroin*
+#### 13:00 to 16:00 <br/> ENVIRONMENSTRUAL Workshop (Sanitary Pads Making) *with Caoimhe Ní Bhroin*
 
  Why does one tampon take longer to degrade than the average woman’s lifespan? Why aren’t environmentally friendly period products highlighted in more discussions on waste reduction? Why do these products contain plastic in the first place!? An individual goes through approximately 11,000 disposable pads and/or tampons in a lifetime and these products will survive in the environment at least 500 years after their brief usage. 
 
