@@ -20,9 +20,9 @@ Want to know more? Want to meet us and other like minded people? We are organisi
 
 We are always looking for volunteers to help us to organise our Festivals. If you are interested in the Zero Waste principle on a personal or professional level, get in touch with us to take part in any of our events. We would like to hear from individuals, organisations, educators, businesses and anyone who just wants to lend their skills as a volunteer. For each Festival we need volunteers on the day to do various jobs from moving tables to manning doors. In exchange for a few hours helping out you get a free Talk/Workshop Pass, a chance to meet like-minded people and have a first pick at the Swap Shops. But there is also a lot to do in between Festivals, so just drop us an email for details: [volunteers@zerowastefestival.ie](mailto:volunteers@zerowastefestival.ie)
 
-At the moment we are looking for dedicated volunteers that can support us with event planning, our social media outlets, press contacts, graphic design and website updates. You don't have to be an expert in any of these, but a healthy amount of enthusiasm is required. We provide a great community and loads of great, home-made food during meetings and get-togethers. Sounds interesting? We're looking forward to hearing from you.
-
 You can add yourself to our Volunteer Database by filling out our [Volunteer Database Form](/forms) and we will get in touch with you.
+
+At the moment we are looking for dedicated volunteers that can support us with event planning, our social media outlets, press contacts, graphic design and website updates. You don't have to be an expert in any of these, but a healthy amount of enthusiasm is required. We provide a great community and loads of great, home-made food during meetings and get-togethers. Sounds interesting? We're looking forward to hearing from you.
 
 <!--
 ## Support us
