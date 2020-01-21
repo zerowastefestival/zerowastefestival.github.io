@@ -311,7 +311,7 @@ All our workshops are drop-in workshops, so just pop over any time during the wo
 |------|-----|--------|
 | 12:30 to 14:00 <br> in the Accenture Gallery | [Upcycling Plastic Bottles](#bottles) <br> *with Emmanuel Reynaud* | [Upcycling Tetrapaks](#tetrapaks) <br> *with Ruth Phelane* |
 | 15:00 to 17:00 <br> in the Accenture Gallery | [Knitting for the Homeless](#knittingsat) <br> *with Revived Yarn* | [Knitting for the Homeless](#knittingsun) <br> *with Revived Yarn* |
-| 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br>  |
+| 13:00 to 16:00 <br> in Gallery 1 | [Beeswax Wrapper Making](#beeswax) <br>  | [Sanitary Pads Making](#sanitary) <br> *with Caoimhe Ní Bhroin*  |
 
 ### Saturday, January 25
 
@@ -368,15 +368,15 @@ Give a new purpose to yarn leftovers and help people affected by homelessness in
 
 <a name="sanitary"></a>
 
-#### 13:00 to 16:00 <br/> ENVIRONMENSTRUAL Workshop (Sanitary Pads Making)
+#### 13:00 to 16:00 <br/> ENVIRONMENSTRUAL Workshop (Sanitary Pads Making) *Caoimhe Ní Bhroin*
 
  Why does one tampon take longer to degrade than the average woman’s lifespan? Why aren’t environmentally friendly period products highlighted in more discussions on waste reduction? Why do these products contain plastic in the first place!? An individual goes through approximately 11,000 disposable pads and/or tampons in a lifetime and these products will survive in the environment at least 500 years after their brief usage. 
 
 Learn how to make sanitary pads by recycling old fabrics and take them home as well. More info to come soon. Pads are particularly bad, with an approximate plastic content of 90%. What’s worse, just one pack of sanitary pads contain the same amount of plastic as four plastic carrier bags.
 
-Lead by Caoimhe Ní Bhroin, participants will discover the simple steps to create your own reusable period pads containing zero plastic waste. We will provide all the tools you need and ask only that participants bring prewashed cotton in the pattern of their choosing. 
+Lead by [Caoimhe Ní Bhroin](https://www.instagram.com/caoiva_designs/), participants will discover the simple steps to create your own reusable period pads containing zero plastic waste. We will provide all the tools you need and ask only that participants bring prewashed cotton in the pattern of their choosing. 
 
-Caoimhe Ní Bhroin is a recent graduate of Textiles Art & Artefact from the National College of Art and Design who freelances as a sewing facilitator in Dublin. She is passionate about up-cycling and re-working old materials to make new pieces while also promoting a more conscious outlook on what we wear, buy & throw away. @caoiva_designs
+Caoimhe Ní Bhroin is a recent graduate of Textiles Art & Artefact from the National College of Art and Design who freelances as a sewing facilitator in Dublin. She is passionate about up-cycling and re-working old materials to make new pieces while also promoting a more conscious outlook on what we wear, buy & throw away.
 
 <a href="#top">↑ Back to top</a>
 
