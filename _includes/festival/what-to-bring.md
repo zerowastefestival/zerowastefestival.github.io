@@ -6,11 +6,11 @@ There'll be no leaflets or business cards, so bring your phone, a camera or pen 
 
 ### For shopping
 
-You'll need your own containers, beeswax wrap, cotton bag, etc. for loose goods and refills and bring some bags to carry your purchases home.
+You’ll need your own containers, beeswax wrap, cotton bag, etc. for your purchases, and bring some tote bags to carry your items home.
 
 ### For food and drinks
 
-Bring your own mug, water bottle, lunch box and utensils. The [Science Gallery Cafe](https://dublin.sciencegallery.com/cafe) and the [Forum at the Trinity Buisness School](https://www.forumdublin.ie/) will offer a 40 cent discount during the weekend if you bring your own mug and food container on coffee, hot drinks and food that you take with you.
+Bring your own mug, water bottle, lunch box and utensils. The [Science Gallery Cafe](https://dublin.sciencegallery.com/cafe) and the [Forum at the Trinity Buisness School](https://www.forumdublin.ie/) will offer a 40 cent discount during the weekend if you bring your own mug and food container on coffee, hot drinks and food that you take with you. Camille Thai (just across the road) will offer a whopping 3 EUR discout on take-away food if you bring your own lunchbox on Saturday.
 
 ### Stuff to swap/share/donate
 
