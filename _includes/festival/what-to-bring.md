@@ -8,6 +8,10 @@ There'll be no leaflets or business cards, so bring your phone, a camera or pen 
 
 You’ll need your own containers, beeswax wrap, cotton bag, etc. for your purchases, and bring some tote bags to carry your items home.
 
+### For workshops
+
+We are looking for clean, dry tetrapaks for the tetrapak recycling workshop on Sunday as well as terry cloth material (hand towels, cloths, fleece) to be used as an absorbent layer and polyutherane laminate (baby changing pads/ breathable raincoats) which is used as a waterproof layer for the sanitary pad workshop on Sunday. You can drop these off at the festival info stand in the foyer of the Science Gallery on Saturday (all day) or Sunday (before the respective workshop starts). 
+
 ### For food and drinks
 
 Bring your own mug, water bottle, lunch box and utensils. The [Science Gallery Cafe](https://dublin.sciencegallery.com/cafe) and the [Forum at the Trinity Buisness School](https://www.forumdublin.ie/) will offer a 40 cent discount during the weekend if you bring your own mug and food container on coffee, hot drinks and food that you take with you. Camille Thai (just across the road) will offer a whopping 3 EUR discout on take-away food if you bring your own lunchbox on Saturday.
