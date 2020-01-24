@@ -201,13 +201,46 @@ Want to get your Zero Waste shopping sorted? Come check our market. We will be u
 
 <!---
 Eco AnniePooh
-Keep It Green
-Toothfaerie
-AB Soap Studio
-Jiminy
 Recycle Venture
-Filter and Brew
 --->
+
+### Jiminy
+
+![Jiminy]({{ site.baseurl }}/images/logos-external/logo-jiminy.jpg "Jiminy"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Jiminy: Crafts with a Conscience](www.jiminy.ie) offers gorgeous, packaging-free, made-in-Europe, eco-friendly art and craft supplies and cardboard design toys, including: 3D colour-in Christmas trees, fingerpaint, bioglitter, plastic-free felt, wooden beads, kiddie crafting kits, press-build-play farm and astronaut sets. Make sure to check their [website](www.jiminy.ie) or [Instagram](https://www.instagram.com/jiminy.ie).
+
+###	Keep It Green
+
+![Keep It Green](/images/logos-external/logo-keep-it-green.jpg "Keep It Green"){:style="float: top;margin-right: 10px;height: 150px;"}
+	
+[Keep it Green eco shop](http://www.keepitgreenecoshop.com) sell products that support sustainable lifestyles and promote the principles of reuse and refill. Their wide range of products include stainless steel bottles, bamboo, glass and collapsible coffee cups, lunch boxes and food jars, travel cutlery and reusable straws, beeswax wrap, organic cotton cleansing pads, wipes and sanitary pads, palm oil free soaps, shampoo and shaving bars. Razors and beard oil, tooth wash and toothpaste tablets, compostable dental floss, bamboo toothbrushes and cotton buds. Their products are made to last a long time and can be composted, recycled or given to someone else at the end of their life. Find out more on their [Facebook](https://www.facebook.com/keepitgreenecoshop/).
+
+### Toothfaerie
+
+![Toothfaerie]({{ site.baseurl }}/images/logos-external/logo-toothfaerie.png "Toothfaerie"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+Toothfaerie is a new and 100% Irish holistic and mineral rich toothpaste designed to heal gums and stimulate enamel growth (the stuff that whitens teeth) based on a magnesium and borax formula with cold pressed oils rich in omega 3, 6 & 9. This clay and oil pulling blend removes most stains and is safe to ingest. Sweetened with xylitol from tree sap and dragon blood tree resin from Peru to help reverse receding gums. Every batch is home-made without plastics or metals and packed by hand. For more info, check out their [Facebook page](https://www.facebook.com/toothfaerietoothpaste/).
+
+### Eco AnniePooh 
+
+![Eco AnniePooh](/images/logos-external/logo-eco-anniepooh.jpg "Eco AnniePooh"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Eco AnniePooh](https://anniepooh.ie/) has everything you need to make Eco Friendly living easy! For more info, check out their [website](https://anniepooh.ie/), [Facebook page](https://facebook.com/EcoAnniepooh/) or [Instagram](https://instagram.com/ecoanniepooh ). 
+
+
+### Recycle Venture
+
+![Recycle Venture](/images/logos-external/logo-recycle-venture.jpg "Recycle Venture"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Recycle Venture](https://www.facebook.com/RecyclingVenture/) is a TY Enterprise, taking recycling in another direction, making products from materials that would otherwise be dumped in landfill. For more info, check out their [Facebook page](https://www.facebook.com/RecyclingVenture/) or [Instagram](https://instagram.com/recycle_venture). 
+
+### Happy Luna
+
+[Happy Luna](https://www.facebook.com/Happy-Luna-108288127384950) is a shop with hand made reusable cosmetic products, all is made of new and upcycled materials. Check out their [Facebook page](https://www.facebook.com/Happy-Luna-108288127384950) for more info.
+
+
+
 
 ###	Three Hills Soap
 
@@ -244,6 +277,19 @@ Where most see waste, we see possibility. [The Upcycle Movement](www.theupcyclem
 ![Literary Lip Balms](/images/logos-external/logo-literary-lip-balms.jpg "Literary Lip Balms"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 [Literary Lip Balms](https://literarylipbalms.com/) makes natural skincare inspired by fiction. Their best-selling lip balms are carefully crafted by hand in Dublin with 100% natural and organic ingredients, and come in both reusable aluminium tins and compostable tubes. View the full range of products at [literarylipbalms.com](https://literarylipbalms.com/). Find out more about them on their [Facebook](https://www.facebook.com/literarylipbalms/) or [Instagram](https://www.instagram.com/literarylipbalms).
+
+###	AB Soap Studio
+
+![AB Soap](/images/logos-external/logo-ab-studio.jpg "AB Soap"){:style="float: top;margin-right: 10px;height: 200px;"}
+
+If you are aiming for plastic free and synthetic free body care, AB Soap Studio has you covered from head to toe. The AB Hair Transition set will help you adjust to natural hair care. You can browse though their new range of conditioning shampoo bars or reach for their all-time favourites, including the best-selling Rye and Hibiscus Flour shampoo, Apple Cider Vinegar shaving soap and charcoal face bar. You can also choose your favourite from the AB BABY range of soaps for delicate skin: Oat and Cocoa, Calendula with ACV and Lavender with Coconut Milk. Not just for babies! Soon to launch is the ZERO WASTE BODY CARE SUBSCRIPTION BOX, with a seasonally curated selection of their best sellers. Find out more on their [Facebook](https://www.facebook.com/ABSoapStudio/).
+
+### Filter and Brew
+
+![Filter and Brew]({{ site.baseurl }}/images/logos-external/logo-filter-brew.jpg "Filter and Brew"){:style="float: top;margin-right: 10px;height: 150px;"}
+
+[Filter and Brew](https://www.filterandbrew.com/) is dedicated to creating unique and exciting speciality teas. They operate in a way that is eco friendly, fair and ethical and use only the finest ingredients to create blends to savour. Make sure to check their [website](https://www.filterandbrew.com/) for what they have to offer, or check out their [Instagram](https://www.instagram.com/filterandbrewdublin/).
+
 
 <a href="#top">↑ Back to top</a>
 
