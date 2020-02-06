@@ -24,7 +24,7 @@ As part of [TCD's Green Week 2020](https://www.tcd.ie/provost/sustainability/gre
 
 | --- | --- |
 | 5 pm | **Seed Swap and Seed Saving Workshop** *with Ciara Kelly* |
-| 6 pm | **Urban Gardening Stories** *with Celia Somlain and Mies Stam* |
+| 6 pm | **Urban Gardening Stories** *with Celia Somlai and Mies Stam* |
 | 7 pm | **Seed: The Untold Story** *Film Screening* |
 
 [![Eventbrite Ticket](/images/events/2020-01-science-gallery-festival/science-gallery-2020-eventbrite-link.jpg "Eventbrite Ticket"){:width: 100%;"}](https://www.eventbrite.ie/e/grow-your-own-seed-swap-talks-movie-zero-waste-pop-up-event-tickets-93326777905)
@@ -55,7 +55,7 @@ This “Grow Your Own” event is co-hosted by the [Zero Waste Festival Ireland]
 Find out more information and let us know if you’re coming at our 
 
 Facebook Event: 
-Website: 
+Website: https://www.zerowastefestival.ie/pop-up/zero-waste-pop-up-tcd-green-week-seed-swap/
 Eventbrite: https://www.eventbrite.ie/e/grow-your-own-seed-swap-talks-movie-zero-waste-pop-up-event-tickets-93326777905
 TCD: 
 --->
