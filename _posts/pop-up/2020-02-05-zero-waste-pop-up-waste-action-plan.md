@@ -2,7 +2,7 @@
 layout: post
 category: pop-up
 
-title: "Panel Discussionon the Waste Action Plan &#8211; Zero Waste Pop-Up Event"
+title: "Panel Discussion on the Waste Action Plan &#8211; Zero Waste Pop-Up Event"
 eventdate: 2020-02-10
 venue: "Simon Perry Building, Trinity College, Dublin 2"
 
