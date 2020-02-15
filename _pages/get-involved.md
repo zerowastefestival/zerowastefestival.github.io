@@ -66,7 +66,7 @@ You can add yourself to our Vendor Database by filling out our [Vendor Database 
 
 ### Book us
 
-We have experienced speakers and workshop leaders amongst our ranks that are happy to come out to your event and share their experience and enthusiasm about Zero Waste living. Just drop us a mail at [info@zerowastefestival.ie](mailto:info@zerowastefestival.ie).
+We have experienced speakers and workshop leaders amongst our ranks that are happy to come out to your event and share their experience and enthusiasm about Zero Waste living. Just drop us a mail at [speakers@zerowastefestival.ie](mailto:speakers@zerowastefestival.ie).
 
 ### Sponsor us
 
