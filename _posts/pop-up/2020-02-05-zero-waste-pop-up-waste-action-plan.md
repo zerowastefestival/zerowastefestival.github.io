@@ -16,7 +16,7 @@ share: true
 
 The Department of Communications, Climate Action and Environment is seeking input on the development of a new Waste Action Plan for Ireland. Now is the time to make our voices heard.
 
-[![Download](/images/events/pop-up/waste-action-plan-download.jpg "Download"){:width: 100%;"}](https://docs.google.com/document/d/1LKoUCQ9jfUN_G6gd9pQgJ4M7iWHjkO74c0u0nfnZJ98/edit)
+[![Download](/images/events/pop-up/waste-action-plan-link.jpg "Download"){:width: 100%;"}](/zero-waste/consultation-waste-action-plan/)
 
 
 {% include toc.html %}
