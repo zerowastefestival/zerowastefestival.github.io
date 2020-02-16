@@ -44,4 +44,6 @@ Submission can be sent by email to [wastecomments@dccae.gov.ie](mailto:wastecomm
 > Newtown Road
 > Wexford Y35 AP90
 
+The Public Consultation will close at 5pm on Friday 21st February 2020. 
+
 If you send in your submission by using our template, it would be great if you could let us know by email at [info@zerowastefestival.ie](mailto:info@zerowastefestival.ie)
