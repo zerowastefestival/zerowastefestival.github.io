@@ -8,7 +8,7 @@ If you want to find out more about the Zero Waste lifestyle and how to live a lo
 
 <small>* Sorry if the map is not centered at Ireland, you can move in the map to find Ireland. We are working on solving this issue soon.</small>
 
- <div id="zerowastemap" style="display: block;" data-lang="" data-type="" data-center="" data-allow="fullscreen,geolocation" data-style="width: 100%; height: 500px; max-width: 100%;"></div>
+ <div id="zerowastemap" style="display: block;" data-lang="" data-type="" data-center="Dublin, Ireland" data-allow="fullscreen,geolocation" data-style="width: 100%; height: 500px; max-width: 100%;"></div>
  <script async src="//zerowastemap.org/zerowastemap-embed.js?x16511"></script> 
 
 <h2 itemprop="name">Articles</h2>
@@ -17,3 +17,5 @@ If you want to find out more about the Zero Waste lifestyle and how to live a lo
 	{% include zw-grid.html %}
 {% endfor %}
 </div>
+
+ 
