@@ -36,6 +36,34 @@ Inchicore Road,<br/>
 Kilmainham,<br/>
 Dublin 8<br/>
 
+## Noms
+
+![Noms](/images/zero-waste/shopping/noms.jpg)
+
+Noms stands for natural products, organically produced (certified where possible), mindfully chosen and sustainably sourced and packaged or unpackaged where possible. 
+
+Find more information about Noms by checking their website and social pages:
+
+- Website: [noms.ie](https://www.noms.ie/)
+- Instagram: [@noms_ire](https://www.instagram.com/noms_ire/)
+ 
+Address ([Google Maps](https://www.google.ie/maps/place/Small+Changes+Wholefoods+Store/@53.3633409,-6.2580476,17z/data=!4m5!3m4!1s0x4867e64e2b1fadd5:0xc357e6bc91436221!8m2!3d53.363428!4d-6.258298)):<br/>
+336A North Circular Road,<br />
+Phibsboro<br />
+Dublin 7<br />
+Ireland<br/>
+
+## Bare Necessities
+
+![Bare Necessities](/images/zero-waste/shopping/barenecessities.jpg)
+
+Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly [Friday market in The Bullring in Wexford]((https://www.instagram.com/bullringmarketwexford/), a weekly Saturday market in Skerries Mills and once a month in Brooklodge, Macreddin Village, Co. Wicklow. 
+
+Find more information about Bare Necessities by checking their social pages:
+
+- Facebook [BareNecessitiesIreland](https://www.facebook.com/BareNecessitiesIreland/)
+- Instagram [@bare.necessities.ireland](https://www.instagram.com/bare.necessities.ireland/)
+
 ## Smallchanges
 
 ![Smallchanges](/images/zero-waste/shopping/smallchanges.jpg)
@@ -104,23 +132,6 @@ St. Stephen's Green Shopping Centre,<br/>
 Dublin 2<br />
 Ireland<br/>
 
-## Noms
-
-![Noms](/images/zero-waste/shopping/noms.jpg)
-
-Noms stands for natural products, organically produced (certified where possible), mindfully chosen and sustainably sourced and packaged or unpackaged where possible. 
-
-Find more information about Noms by checking their website and social pages:
-
-- Website: [noms.ie](https://www.noms.ie/)
-- Instagram: [@noms_ire](https://www.instagram.com/noms_ire/)
- 
-Address ([Google Maps](https://www.google.ie/maps/place/Small+Changes+Wholefoods+Store/@53.3633409,-6.2580476,17z/data=!4m5!3m4!1s0x4867e64e2b1fadd5:0xc357e6bc91436221!8m2!3d53.363428!4d-6.258298)):<br/>
-336A North Circular Road,<br />
-Phibsboro<br />
-Dublin 7<br />
-Ireland<br/>
-
 ## The Source Bulk Foods
 
 ![The Source Bulk Foods](/images/zero-waste/shopping/source-bulk-foods.jpg)
@@ -157,18 +168,6 @@ Trim,<br />
 C15 Y22K,<br />
 Co. Meath<br />
 Ireland<br />
-
-## Bare Necessities
-
-![Bare Necessities](/images/zero-waste/shopping/barenecessities.jpg)
-
-Founded by a breast cancer survivor, Bare Necessities is an online shop committed to providing premium, handmade and organic headwear to women whom are going through chemotherapy. Their products are made from organic cotton and made in Ireland.
-
-Find more information about Bare Necessities by checking their website and social pages:
-
-- Website: [barenecessities.ie](https://www.barenecessities.ie/)
-- Instagram [@barenecessitieshats](https://www.instagram.com/barenecessitieshats/)
-
 ## The Good Neighbour
 
 ![The Good Neighbour](/images/zero-waste/shopping/thegoodneighbour.jpg)
@@ -228,4 +227,4 @@ Ireland
 
 ## More Stores
 
-You can also find more zero waste stores on the [ZeroWasteMap.org](https://zerowastemap.org/) and [GoZero.ie](http://gozero.ie). Don't hesitate to get in touch if you want to be featured here or to request changes about your listing!
+You can also find more zero waste stores on the [ZeroWasteMap.org](https://zerowastemap.org/) and [GoZero.ie](http://gozero.ie). Don't hesitate to get in touch if you want to be featured here or to request changes about your listing! Zero Waste Festivals also include markets, so make sure to join us at the next festival to shop zero waste and get to know about new shops!
