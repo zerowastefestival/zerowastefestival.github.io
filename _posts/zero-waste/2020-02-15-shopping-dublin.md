@@ -55,9 +55,9 @@ Ireland<br/>
 
 ## Bare Necessities
 
-![Bare Necessities](/images/zero-waste/shopping/barenecessities.jpg)
+![Bare Necessities](/images/zero-waste/shopping/bare-necessities.jpg)
 
-Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly [Friday market in The Bullring in Wexford]((https://www.instagram.com/bullringmarketwexford/), a weekly Saturday market in Skerries Mills and once a month in Brooklodge, Macreddin Village, Co. Wicklow. 
+Bare Necessities sells loose, organic food staples and hygiene products to help you live a zero waste life. They are Leinster based, with a weekly [Friday market in The Bullring in Wexford](https://www.instagram.com/bullringmarketwexford/), a weekly Saturday market in Skerries Mills and once a month in Brooklodge, Macreddin Village, Co. Wicklow. 
 
 Find more information about Bare Necessities by checking their social pages:
 
