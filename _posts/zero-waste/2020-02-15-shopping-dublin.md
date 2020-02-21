@@ -13,7 +13,9 @@ share: true
 Shopping is responsible for most of our waste production, so it is a good and important step to start shopping from zero waste stores.
 Zero waste stores are created around the idea of minimising waste by allowing people to refill their containers with what they need instead of buying groceries wrapped in single use packaging, so you get to reuse your containers and reduce your waste production from the beginning!
 
-We have gathered a list of zero waste stores in Dublin so you can start shopping zero waste!
+We have gathered a list of zero waste stores in Dublin so you can start shopping zero waste! You can also check these stores out on the map below.
+
+{% include zw-map.html %}
 
 ## Dublin Food Co-op
 
