@@ -2,7 +2,7 @@
 layout: post 
 title: Where to shop zero waste in Dublin?
 
-category: draft
+category: zero-waste
 image:   
   teaser : zero-waste/shopping.jpg
 
