@@ -1,7 +1,12 @@
-<article class="tile" itemscope itemtype="http://schema.org/Article">
+<article class="teamtile" itemscope itemtype="http://schema.org/Article">
   {% if post.image.teaser %}<img src="{{ site.baseurl }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
     {% else %}<img src="{{ site.baseurl }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}
-  <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+	{% if post.status == "active" %}
+		<h2 class="post-title" itemprop="name">{{ post.title }}</h2>
+	{% else %}
+		<h2 class="post-title" itemprop="name">{{ post.title }} (Former Member)</h2>
+	{% endif %}
+  
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | truncate: 1000 }}</p>
-</article><!-- /.tile -->
+</article><!-- /.teamtile -->
 
