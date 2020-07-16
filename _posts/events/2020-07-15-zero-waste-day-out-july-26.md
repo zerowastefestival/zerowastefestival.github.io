@@ -42,7 +42,7 @@ In order to get take part in the Swap Shop:
   - Make one post adding individual photos of up to 10 items.
   - Number the items in the order you have uploaded them, and add a description for each including the size and level of wear (see example post on our Facebook event)
 3. Browse the other posts and comment to pick the garments (give the numbers) you would like to request.
-4. No later than Wednesday July 22nd pop the items of yours that were requested in bags (seperate bags for each different person) and label them with the person's name.
+4. No later than Wednesday July 22nd pop the items of yours that were requested in bags (seperate bags for each different person) and label them with the person's name. This ensures that the item has not been handled 72 hours prior to the pick-up to help in reducing chances of transmission if any.
 5. On Sunday July 26th, from 1-2pm drop off the bags on the blanket provided in the correct section (it will be arranged in alphabetical order) and from 2-4pm collect the bags of clothes you requested from other people
  
 *Please follow all the safety guidelines we have put in place for the day, more info on this available from the website, facebook page and signage on the day*
