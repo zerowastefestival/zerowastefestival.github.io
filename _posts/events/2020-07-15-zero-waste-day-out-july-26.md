@@ -26,7 +26,7 @@ The event will start at 1pm on Sunday, July 26th at Bandstand, Phoenix Park and 
 
 ## No Contact Swap Shop
 
-The swapshop will be in 2 parts, on Sunday July 19th you will upload your items on our [Facebook event](https://www.facebook.com/events/1201364033563258/), and pick items uploaded by other people by commenting on their post. The Sunday of the event, July 26th, you will drop off the items of yours that were reserved, and pick up what you asked other people for at the specified times in the schedule!
+The swapshop will be in 2 parts, you can upload your items on our [Facebook event](https://www.facebook.com/events/1201364033563258/), and pick items uploaded by other people by commenting on their post. The Sunday of the event, July 26th, you will drop off the items of yours that were reserved, and pick up what you asked other people for at the specified times in the schedule!
 
 These times are:
 
@@ -38,7 +38,7 @@ These times are:
 In order to get take part in the Swap Shop:
 
 1. Attend our [Facebook Event](https://www.facebook.com/events/1201364033563258/)
-2. On Sunday July 19th between 1-4 upload your items to the event by:
+2. Upload your items to the event by:
   - Make one post adding individual photos of up to 10 items.
   - Number the items in the order you have uploaded them, and add a description for each including the size and level of wear (see example post on our Facebook event)
 3. Browse the other posts and comment to pick the garments (give the numbers) you would like to request.
