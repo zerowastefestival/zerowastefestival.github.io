@@ -19,10 +19,16 @@ The event will start at 1pm on Sunday, July 26th at Bandstand, Phoenix Park and 
 
 | Time    | Event                            |
 | ------- | -------------------------------- |
-| 13 - 14 | Bike Repair Workshop             |
+| 13 - 14 | Bike Maintenance Workshop        |
 | 13 - 14 | Swap shop drop-off               |
 | 14 - 16 | Swap Shop pick-up                |
 | 15 - 16 | Litter Pick and Recycling Rescue |
+
+## Bike Maintenance Workshop
+
+This is a bicycle maintenance workshop focusing on the everyday checks and adjustments needed to keep a bike running safely and smoothly, with an emphasis on making the most environmental choices. Keeping a bike in ideal condition can mean a couple minutes of maintenance bi-weekly, so keep this in mind when considering if this workshop is for you.
+
+Find more information and get your ticket on [EventBrite](https://www.eventbrite.ie/e/bicycle-maintenance-zero-waste-pop-up-event-tickets-113276478998?aff=ebdssbdestsearch)!
 
 ## No Contact Swap Shop
 
