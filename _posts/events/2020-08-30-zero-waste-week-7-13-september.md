@@ -10,11 +10,11 @@ image:
   teaser : /events/2020-week-september/poster.jpg
 ---
 
+Our annual events for Zero Waste Week are back from September 7th to 13th 2020. This year, in order to comply with government guidelines and keep everyone safe, we are unable to run some of the events we planned, others will have very limited capacity and some have been moved online. Although this will be a smaller than usual festival week, we hope that our usual elements of information, education, a sense of community, and personal empowerment will shine through.
+
 ![September 7-13](/images/events/2020-week-september/poster.jpg)
 
-*Zero Waste Festival Ireland brings you annual Zero Waste Week Events*
-
-Our annual events for Zero Waste Week are back from September 7th to 13th 2020. This year, in order to comply with government guidelines and keep everyone safe, we are unable to run some of the events we planned, others will have very limited capacity and some have been moved online. Although this will be a smaller than usual festival week, we hope that our usual elements of information, education, a sense of community, and personal empowerment will shine through.
+# Zero Waste Week Events
 
 The week starts with our usual monthly meet-up, on Monday 7th at 6pm in Merrion Square. So if you are interested in finding out more about zero waste living in Dublin, if you are not sure where to start your own zero waste journey, you are an expert on local Zero Waste hacks and want to share your tip or you want to rant or give tips about Zero Waste? If it’s any of the above or you just want to meet like-minded people, come join us for a chat in the park. Feel free to bring your own snacks or dinner, preferably in reusable containers!  Following the government guidelines, there are limited places, so secure your place on https://zww-meetup.eventbrite.ie. 
 
