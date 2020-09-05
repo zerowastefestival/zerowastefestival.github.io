@@ -11,7 +11,6 @@ image:
 ---
 
 ![Zero Waste Week Panel Discussion: How to Stay Positive in Challenging Times](/events/2020-week-september/ZWW FB Panel Discussion.jpg)
-
 The current global pandemic has caused much upheaval in most of our lives. For many of us we haven’t been able to be as sustainable as we would like due to personal circumstances, access to facilities, external guidelines as well as having to prioritise in our lives.
 In this panel discussion we speak to a diverse range of zero wasters on how they are coping, the compromises they are making and tips they have to keep positive in these times.
 We welcome questions to put to the panel submitted in advance to info@zerowastefestival.ie or a limited number in real time through the zoom chat function.
