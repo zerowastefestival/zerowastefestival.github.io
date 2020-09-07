@@ -23,5 +23,4 @@ Our annual events for Zero Waste Week are back from September 7th to 13th 2020. 
 
 On the day of the offline events, you will need to fill in contact tracing form and follow hygiene guidelines.
 
-The links for the zoom events are available on each event's page and social media.
-
+The links for the zoom events are available on each event's page on our website (linked above), social media, our [meetup](https://www.meetup.com/Zero-waste-meetup-ireland/events/272867776/) and [EventBrite](https://www.eventbrite.ie/e/zero-waste-week-meetup-tickets-118651276161)
