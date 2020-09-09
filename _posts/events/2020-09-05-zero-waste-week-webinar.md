@@ -36,7 +36,7 @@ When: Sep 10, 2020 07:00 PM Dublin
 Topic: Panel discussion-Coping in Challenging Times
 
 Please click the link below to join the webinar:
-https://zoom.us/j/94906296340?pwd=bXBQY0dqRm1VZTJhcW1YYWxXZWY4QT09
+[https://zoom.us/j/94906296340?pwd=bXBQY0dqRm1VZTJhcW1YYWxXZWY4QT09](https://zoom.us/j/94906296340?pwd=bXBQY0dqRm1VZTJhcW1YYWxXZWY4QT09)
 
 Passcode: 387586
 
