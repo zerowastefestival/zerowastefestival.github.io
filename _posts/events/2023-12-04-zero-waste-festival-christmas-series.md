@@ -28,7 +28,7 @@ When you drop off your item you will get a token and you can swap it for somethi
 
 # Christmas Threads Clothes Swap
  
-![Christmas Threads Clothes Swap](/images/events/2023-12-festival/gift-swap.jpg)
+![Christmas Threads Clothes Swap](/images/events/2023-12-festival/clothes-swap.jpg)
 
 Bring christmas jumpers or party wear and swap for tokens redeemable against other clothes at the swap across all 4 events (you can use your token straight away or at a future event).
 
